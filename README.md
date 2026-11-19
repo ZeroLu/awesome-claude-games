@@ -19,15 +19,6 @@ Within each category, games with verified creator-post views on X come first, hi
 <table>
   <tr>
     <td align="left" valign="top" width="33%">
-      <a href="https://danforun.com/"><img src="https://danforun.com/og.jpg" alt="Danfo Run preview" width="420" loading="lazy"></a><br><a href="https://danforun.com/"><strong>Danfo Run</strong></a>
-      <p>Make your stops in Lagos traffic while motorcycles weave past and the bus radio plays local music.</p>
-      <p><a href="https://danforun.com/">Play</a> · <a href="https://x.com/eureka_seamless/status/2103938108668420286">14,362,076 X views</a> <small>(2026-11-19 UTC)</small></p>
-      <details><summary>Attribution &amp; sources</summary>
-        <p>The creator credits Claude for development in Three.js; GPT contributed art.</p>
-        <p><a href="https://x.com/eureka_seamless/status/2103938108668420286">Creator source</a> · <a href="https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/">Creator interview</a></p>
-      </details>
-    </td>
-    <td align="left" valign="top" width="33%">
       <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><img src="https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg" alt="Saltline preview" width="420" loading="lazy"></a><br><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"><strong>Saltline</strong></a>
       <p>Cutting relays gives your run through the storm-battered port a purpose beyond staying alive under robot guard.</p>
       <p><a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Play</a> · <a href="https://x.com/felixrieseberg/status/2119925633564463609">4,465,009 X views</a> <small>(2026-11-19 UTC)</small></p>
@@ -37,14 +28,44 @@ Within each category, games with verified creator-post views on X come first, hi
       </details>
     </td>
     <td align="left" valign="top" width="33%">
-      <a href="https://starrynightrider.com"><img src="https://pbs.twimg.com/amplify_video_thumb/2120283338477121537/img/tdKADwxxpbgwFZ3C.jpg" alt="Starry Nightrider preview" width="420" loading="lazy"></a><br><a href="https://starrynightrider.com"><strong>Starry Nightrider</strong></a>
-      <p>See what Van Gogh&#x27;s swirling night sky feels like from the saddle of a bike instead of from across a gallery.</p>
-      <p><a href="https://starrynightrider.com">Play</a> · <a href="https://x.com/ebbyamir/status/2120284261089673376">1,980,333 X views</a> <small>(2026-11-19 UTC)</small></p>
+      <a href="https://evensong-phi.vercel.app/"><img src="https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg" alt="Evensong preview" width="420" loading="lazy"></a><br><a href="https://evensong-phi.vercel.app/"><strong>Evensong</strong></a>
+      <p>If the boss fight is what you come to a soulslike for, this compact dark-fantasy encounter gets right to it.</p>
+      <p><a href="https://evensong-phi.vercel.app/">Play</a> · <a href="https://x.com/kevin_t_ngo/status/2120238844754923874">487,066 X views</a> <small>(2026-11-19 UTC)</small></p>
       <details><summary>Attribution &amp; sources</summary>
         <p>The creator credits Claude Fable for the build.</p>
-        <p><a href="https://x.com/ebbyamir/status/2120284261089673376">Creator source</a></p>
+        <p><a href="https://x.com/kevin_t_ngo/status/2120238844754923874">Creator source</a></p>
       </details>
     </td>
+    <td align="left" valign="top" width="33%">
+      <a href="https://op7418.github.io/guizang-game-skill/"><img src="https://raw.githubusercontent.com/op7418/guizang-game-skill/main/media/shot_combo.jpg" alt="Mist-Locked Gate / 雾锁山门 preview" width="420" loading="lazy"></a><br><a href="https://op7418.github.io/guizang-game-skill/"><strong>Mist-Locked Gate / 雾锁山门</strong></a>
+      <p>Open the Chinese-language demo to see what a reusable game-making skill looks like as a playable project, not just a prompt.</p>
+      <p><a href="https://op7418.github.io/guizang-game-skill/">Play</a></p>
+      <details><summary>Attribution &amp; sources</summary>
+        <p>See the creator&#x27;s workflow.</p>
+        <p><a href="https://github.com/op7418/guizang-game-skill/blob/main/README.en.md">Creator source</a></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="33%">
+      <a href="https://fallline-9zo.pages.dev"><img src="https://pbs.twimg.com/amplify_video_thumb/2123032785111621632/img/JrwexXqgK-HpJOsB.jpg" alt="Fall Line preview" width="420" loading="lazy"></a><br><a href="https://fallline-9zo.pages.dev"><strong>Fall Line</strong></a>
+      <p>Take on a downhill run tuned against the creator&#x27;s experience of riding a real mountain bike.</p>
+      <p><a href="https://fallline-9zo.pages.dev">Play</a> · <a href="https://x.com/BananaOfMercy/status/2123037856398733438">12,090 X views</a> <small>(2026-11-19 UTC)</small></p>
+      <details><summary>Attribution &amp; sources</summary>
+        <p>The creator credits Claude Fable for the build.</p>
+        <p><a href="https://x.com/BananaOfMercy/status/2123037856398733438">Creator source</a></p>
+      </details>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <a href="https://xikhar.github.io/papertrails/"><img src="https://xikhar.github.io/papertrails/social-card.jpg" alt="Papertrails preview" width="420" loading="lazy"></a><br><a href="https://xikhar.github.io/papertrails/"><strong>Papertrails</strong></a>
+      <p>Open it for the pleasure of moving through a landscape built like a pop-up paper scene.</p>
+      <p><a href="https://xikhar.github.io/papertrails/">Open demo</a> · <a href="https://x.com/xikhar/status/2122682962647122403">Creator post on X</a></p>
+      <details><summary>Attribution &amp; sources</summary>
+        <p>xikhar. Explore a paper pop-up landscape. The creator credits Fable 5.2 and Opus 5.5.</p>
+        <p><a href="https://xikhar.github.io/papertrails/">Open demo</a> · <a href="https://github.com/xikhar/papertrails">Source</a> · <a href="https://x.com/xikhar/status/2122682962647122403">Creator notes</a></p>
+      </details>
+    </td>
+    <td></td>
   </tr>
 </table>
 
