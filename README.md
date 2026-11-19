@@ -1,12 +1,49 @@
 # Awesome Claude Games
 
-> A hand-curated list of games built with Claude. **Play the game. See how it was made.**
+> **Claude AI games you can play right now.** Play in your browser, then see how the creators built them.
 
 Claude Fable, Opus, Sonnet, and Claude Code projects belong here. Every entry links to a creator's build note, repository, or other firsthand account of Claude's role. A video is not a playable build; a public repository is not necessarily open source.
 
-[Start here](#start-here) · [More browser games](#more-browser-games) · [Local builds](#local-builds) · [Interactive demos](#interactive-demos) · [Submit a game](CONTRIBUTING.md)
+[Browse the gallery](#game-gallery) · [Full directory](#full-directory) · [Submit a game](CONTRIBUTING.md)
 
-## Start here
+## Game gallery
+
+Click any screenshot or title to open the browser game. More games, downloadable builds, and creator sources are in the full directory.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://sunwarden.higgsfield.app/"><img src="https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/0c4a8793-c32c-4222-b6c4-3d21db410e70.webp" alt="Sunwarden" width="260"><br><strong>Sunwarden</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://voidstruck.com/"><img src="https://voidstruck.com/screenshots/living-world.jpg" alt="Voidstruck" width="260"><br><strong>Voidstruck</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://simonw.github.io/battledrones/"><img src="https://static.simonwillison.net/static/2026/battledrones-v8.jpg" alt="Battle Drones" width="260"><br><strong>Battle Drones</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://aidens-revenge.pages.dev/"><img src="https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg" alt="Aiden&#x27;s Revenge" width="260"><br><strong>Aiden&#x27;s Revenge</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://sunsetmesagames.itch.io/conga-crawl"><img src="https://img.itch.zone/aW1hZ2UvNTM2NjA4Ny8zMjI4NjAzMy5wbmc=/347x500/ZqloQ%2F.png" alt="Conga Crawl" width="260"><br><strong>Conga Crawl</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://arcadesquirrel.itch.io/floodplain"><img src="https://img.itch.zone/aW1hZ2UvNTA5MTY5OC8zMDQ4MTAwMi5wbmc=/794x1000/EwPUHH.png" alt="Floodplain" width="260"><br><strong>Floodplain</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://assetsmithy.itch.io/clanbound"><img src="https://img.itch.zone/aW1hZ2UvNTAyMzM2Ny8zMDExNzA2Mi5qcGc=/794x1000/btPFvt.jpg" alt="Clanbound" width="260"><br><strong>Clanbound</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://op7418.github.io/guizang-game-skill/"><img src="https://raw.githubusercontent.com/op7418/guizang-game-skill/main/media/shot_combo.jpg" alt="Mist-Locked Gate / 雾锁山门" width="260"><br><strong>Mist-Locked Gate / 雾锁山门</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://kestrelww.itch.io/pumpkin-panic"><img src="https://img.itch.zone/aW1hZ2UvNTIyODg5NS8zMTM0MjA2MS5wbmc=/347x500/AvGVIA.png" alt="Pumpkin Panic" width="260"><br><strong>Pumpkin Panic</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://funkyape.itch.io/meowcha"><img src="https://img.itch.zone/aW1hZ2UvNTEyMDE2MC8zMDY1OTcwNC5wbmc=/794x1000/G%2BVHo5.png" alt="MEOWCHA" width="260"><br><strong>MEOWCHA</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://placebound.dariuszparys.com/"><img src="https://www.dariuszparys.com/_astro/board.CGN6NWaU_Z1eKmIN.webp" alt="Placebound" width="260"><br><strong>Placebound</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://penguinsmack.pages.dev/"><img src="https://img.itch.zone/aW1hZ2UvNTE1MzQ4NS8zMTA5MjA0Ni5qcGc=/794x1000/0uaX%2Bx.jpg" alt="Penguin Smack" width="260"><br><strong>Penguin Smack</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://blameless.petruha.ge/"><img src="https://raw.githubusercontent.com/Petyok/blameless/main/screenshots.jpg" alt="BLAMELESS" width="260"><br><strong>BLAMELESS</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://redrakam.itch.io/wake-word-almost-home"><img src="https://img.itch.zone/aW1hZ2UvNTE5NzE4MC8zMTEzMzM4Ny5qcGc=/794x1000/LPUTt%2F.jpg" alt="Wake Word: Almost Home" width="260"><br><strong>Wake Word: Almost Home</strong></a></td>
+    <td align="center" valign="top" width="33%"><a href="https://hirotaka-adachi.itch.io/minimal-rogue"><img src="https://img.itch.zone/aW1hZ2UvNDYxODM5OS8yNzUxNzc0MS5wbmc=/794x1000/%2BxVVO7.png" alt="Minimal Rogue" width="260"><br><strong>Minimal Rogue</strong></a></td>
+  </tr>
+</table>
+
+## Full directory
+
+<details>
+<summary><strong>Show gameplay descriptions, play links, and creator sources</strong></summary>
+
+### Start here
 
 | Game | What you'll do | Claude's role | Links |
 | --- | --- | --- | --- |
@@ -19,7 +56,7 @@ Claude Fable, Opus, Sonnet, and Claude Code projects belong here. Every entry li
 
 Higgsfield describes Skyfire as a local download. The link is the project page, not an instant-play build; the download itself was not independently tested.
 
-## More browser games
+### More browser games
 
 | Game | Genre / hook | Claude attribution and links |
 | --- | --- | --- |
@@ -39,16 +76,25 @@ Higgsfield describes Skyfire as a local download. The link is the project page, 
 | **BLAMELESS** · Petyok | A desktop 3D shooter that turns an on-call incident into satire. | Fable 5.2; original prompt in the project repository. [Play][blame-play] · [MIT source and prompt][blame-source] |
 | **Saltline** · Felix Rieseberg | Cut relays while surviving a stormy port guarded by robots. | Fable 5.2; the author describes a single-prompt experiment. [Original artifact][salt-original] · [Community mirror][salt-mirror] · [Creator notes][salt-proof] |
 
-## Local builds
+### Local builds
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%"><a href="https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free"><img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3JdxfCfYFP0Cn76oVrc3Mc5eXcF/dacc4560-6454-4974-a158-a608977bedcb.jpg" alt="Skyfire" width="260"><br><strong>Skyfire</strong></a></td>
+    <td align="center" valign="top" width="50%"><a href="https://github.com/Rolandjg/fableflight"><img src="https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&amp;s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e" alt="FableFlight" width="260"><br><strong>FableFlight</strong></a></td>
+  </tr>
+</table>
 
 - **FableFlight** · Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build; see the repository. [Source and setup][flight-source] · [Creator notes][flight-proof]
 
-## Interactive demos
+### Interactive demos
 
 These are explorable scenes or technical experiments, not full games.
 
 - **Abyssal Garden** · Maksymilian Dendura. Swim through a WebGPU underwater scene with procedural geometry and synthesized audio. [Open demo][abyss-play] · [MIT source][abyss-source] · [Creator notes][abyss-proof]
 - **Papertrails** · xikhar. Explore a paper pop-up landscape. The creator credits Fable 5.2 and Opus 5.5. [Open demo][paper-play] · [Source][paper-source] · [Creator notes][paper-proof]
+
+</details>
 
 ## Contribute
 
