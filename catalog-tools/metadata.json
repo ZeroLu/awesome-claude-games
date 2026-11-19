@@ -3,7 +3,7 @@
     "editorsPicks": [
       "danfo-run",
       "saltline",
-      "sky-reach"
+      "starry-nightrider"
     ]
   },
   "agent-of-somebody": {
@@ -1908,24 +1908,6 @@
     },
     "whyPlay": "Make your stops in Lagos traffic while motorcycles weave past and the bus radio plays local music."
   },
-  "sky-reach": {
-    "image": "https://pbs.twimg.com/amplify_video_thumb/2105420105006129152/img/X1oraoFuCSjDZC_e.jpg",
-    "x": [
-      {
-        "url": "https://x.com/Rubzem/status/2105425742100341240",
-        "views": 1998236,
-        "checkedAt": "2026-11-19",
-        "metric": "post_views"
-      }
-    ],
-    "embed": {
-      "status": "blocked",
-      "url": null,
-      "reason": "The external play page does not allow cross-origin framing.",
-      "checkedAt": "2026-11-19"
-    },
-    "whyPlay": "Harpoon giant walkers by the legs, then fly straight into an orbital dogfight."
-  },
   "tennis": {
     "image": "https://tennis.sixfingerpunch.com/og.jpg",
     "x": [
@@ -1943,24 +1925,6 @@
       "checkedAt": null
     },
     "whyPlay": "It starts as Pong and turns into a psychedelic paddle duel, best tried with the sound on."
-  },
-  "getting-there": {
-    "image": "https://pbs.twimg.com/amplify_video_thumb/2122012845512744960/img/bkZQfV-qoBFjDMzz.jpg",
-    "x": [
-      {
-        "url": "https://x.com/Rubzem/status/2122013352755126431",
-        "views": 154864,
-        "checkedAt": "2026-11-19",
-        "metric": "post_views"
-      }
-    ],
-    "embed": {
-      "status": "blocked",
-      "url": null,
-      "reason": "The external play page does not allow cross-origin framing.",
-      "checkedAt": "2026-11-19"
-    },
-    "whyPlay": "Travel with Moss by canoe and hot-air balloon through fourteen chapters without a timer or fail state."
   },
   "vice-86": {
     "image": "https://pbs.twimg.com/amplify_video_thumb/2122338376271687680/img/MlUAJpFXv-M_6NY2.jpg",

@@ -1,13 +1,344 @@
 {
   "version": 1,
   "source": "https://github.com/ZeroLu/awesome-claude-games/blob/main/CATALOG.md",
-  "sourceSha256": "c0e51d7f6ed40fc3c476d30deada30a8a3503fc8702940452f721941eaf16a07",
+  "sourceSha256": "1c24e63c865c19e0aa1f5cf85978fdb9fce1941b043d8f65e961c3364da40e2e",
   "counts": {
-    "browser": 119,
+    "browser": 117,
     "local": 2,
     "demo": 3
   },
   "games": [
+    {
+      "id": "saltline",
+      "title": "Saltline",
+      "description": "Cut relays while surviving a stormy port guarded by robots.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
+      "attribution": "Fable 5.2; the author describes a single-prompt experiment.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/felixrieseberg/status/2119925633564463609"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg",
+      "x": [
+        {
+          "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+          "views": 4465009,
+          "checkedAt": "2026-11-19T07:11:43+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-09T22:50:32.000Z",
+          "author": "Felix Rieseberg (@felixrieseberg) on X"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+        "checkedAt": "2026-11-19T07:12:22Z",
+        "httpStatus": 200,
+        "finalUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+        "frameAncestors": [
+          "'self' chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+        ]
+      },
+      "whyPlay": "Cutting relays gives your run through the storm-battered port a purpose beyond staying alive under robot guard."
+    },
+    {
+      "id": "evensong",
+      "title": "Evensong",
+      "description": "Fight a dark-fantasy boss in a compact soulslike prototype.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://evensong-phi.vercel.app/",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/kevin_t_ngo/status/2120238844754923874"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg",
+      "x": [
+        {
+          "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+          "views": 487066,
+          "checkedAt": "2026-11-19T07:11:43+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-10T19:35:07.000Z",
+          "author": "Kevin Ngo (@kevin_t_ngo) on X"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://evensong-phi.vercel.app/",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:18Z",
+        "httpStatus": 206,
+        "finalUrl": "https://evensong-phi.vercel.app/"
+      },
+      "whyPlay": "If the boss fight is what you come to a soulslike for, this compact dark-fantasy encounter gets right to it."
+    },
+    {
+      "id": "castle-valley",
+      "title": "Castle Valley",
+      "description": "Walk from a dark forest to a mountain castle, torch and sword in hand, fighting goblins and trolls.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://omw-game.kimaki.dev",
+      "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
+      "attribution": "Tommy D. Rossi credits Claude Fable 5.2 for the playable adaptation of Desimulate’s original “omw” pixel-art scene.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/__morse/status/2122013410309153042"
+        },
+        {
+          "label": "Project repository",
+          "url": "https://github.com/remorses/castle-valley"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122010188265701376/img/gl15gu0pAPmWE-oj.jpg",
+      "x": [
+        {
+          "url": "https://x.com/__morse/status/2122013410309153042",
+          "views": 231304,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame policy not yet checked.",
+        "checkedAt": null
+      },
+      "whyPlay": "Step inside a moving oil painting: follow a torchlit trail from purple mountains to a village below the castle."
+    },
+    {
+      "id": "lanternfall",
+      "title": "Lanternfall",
+      "description": "Fight your way through a moody 3D fantasy environment.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://loktar00.github.io/lanternfall/",
+      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/loktar00/status/2120192761542615271"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120187656881516544/img/ugjT74smgSzi_U3X.jpg",
+      "x": [
+        {
+          "url": "https://x.com/loktar00/status/2120192761542615271",
+          "views": 201883,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://loktar00.github.io/lanternfall/",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:18Z",
+        "httpStatus": 206,
+        "finalUrl": "https://loktar00.github.io/lanternfall/"
+      },
+      "whyPlay": "Try it for the mood: the 3D fantasy world is as much a reason to keep moving as the fights along the way."
+    },
+    {
+      "id": "gilt-gutter",
+      "title": "Gilt & Gutter",
+      "description": "Choose between two characters in a first-person 1v1 duel.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://gilt-and-gutter.vercel.app/",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/kevin_t_ngo/status/2119900487688622171"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119899054520061952/img/5AHKPQpLbKV5Hi0o.jpg",
+      "x": [
+        {
+          "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+          "views": 108488,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://gilt-and-gutter.vercel.app/",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:18Z",
+        "httpStatus": 206,
+        "finalUrl": "https://gilt-and-gutter.vercel.app/"
+      },
+      "whyPlay": "Pick between two duelists and face your opponent at eye level instead of watching the fight from the sidelines."
+    },
+    {
+      "id": "sublevel-07",
+      "title": "SUBLEVEL 07",
+      "description": "Fight three waves of drones inside a flooded underground substation.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://wquguru.github.io/fable52-fps-repro/demos/04-fps/",
+      "sourceUrl": "https://x.com/wquguru/status/2120383332722905400",
+      "attribution": "The creator documents using Claude Code with Fable 5.2 to produce the single-file FPS and its procedural models, textures, and audio.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/wquguru/status/2120383332722905400"
+        },
+        {
+          "label": "Project repository",
+          "url": "https://github.com/wquguru/fable52-fps-repro"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/wquguru/fable52-fps-repro/main/docs/demo.gif",
+      "x": [
+        {
+          "url": "https://x.com/wquguru/status/2120383332722905400",
+          "views": 37342,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views",
+          "publishedAt": "2026-11-11T05:09:15.000Z"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame policy not yet checked.",
+        "checkedAt": null
+      },
+      "whyPlay": "Try a three-wave FPS in a flooded substation, then inspect how one HTML file draws and scores the whole encounter."
+    },
+    {
+      "id": "understory",
+      "title": "Understory",
+      "description": "Use planted light to change terrain and overcome guardians.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://wavedash.com/games/understory",
+      "sourceUrl": "https://x.com/DannyLimanseta/status/2107505970809336071",
+      "attribution": "The creator credits Claude Sonnet 5.5.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/DannyLimanseta/status/2107505970809336071"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2107504125336535040/img/FVuSUtIYocFjVkmM.jpg",
+      "x": [
+        {
+          "url": "https://x.com/DannyLimanseta/status/2107505970809336071",
+          "views": 27145,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The external play page does not allow cross-origin framing.",
+        "checkedAt": "2026-11-19"
+      },
+      "whyPlay": "Plant light to make bridges and traps, then outthink five guardians to bring the seasons back."
+    },
+    {
+      "id": "the-waking-river",
+      "title": "The Waking River",
+      "description": "Explore a fantasy landscape in a browser adventure built without a game engine.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://rivergame-kappa.vercel.app",
+      "sourceUrl": "https://x.com/flxrnc/status/2120494277528580110",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/flxrnc/status/2120494277528580110"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120491201304383489/img/vmxqwT2L-NKjWAKK.jpg",
+      "x": [
+        {
+          "url": "https://x.com/flxrnc/status/2120494277528580110",
+          "views": 5478,
+          "checkedAt": "2026-11-19T07:11:43+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-11T12:30:07.000Z",
+          "author": "Florence (@flxrnc) on X"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://rivergame-kappa.vercel.app",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:23Z",
+        "httpStatus": 206,
+        "finalUrl": "https://rivergame-kappa.vercel.app/"
+      },
+      "whyPlay": "Take your time exploring the fantasy landscape, then consider that the browser adventure was built without a game engine."
+    },
+    {
+      "id": "kumokiri",
+      "title": "Kumokiri",
+      "description": "Try an in-progress samurai game with a painterly 3D look.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a",
+      "sourceUrl": "https://x.com/aniketjart/status/2121101334900617631",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/aniketjart/status/2121101334900617631"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2121099817556512768/img/iZyxT3egICKE1ONR.jpg",
+      "x": [
+        {
+          "url": "https://x.com/aniketjart/status/2121101334900617631",
+          "views": 3432,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The creator’s destination disallows cross-origin framing.",
+        "checkedAt": "2026-11-19T07:12:18Z",
+        "httpStatus": 206,
+        "finalUrl": "https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a",
+        "xFrameOptions": "DENY",
+        "frameAncestors": [
+          "'none'"
+        ]
+      },
+      "whyPlay": "Step into a painterly 3D samurai world if you're curious how brushwork can read in motion rather than in a still image."
+    },
     {
       "id": "agent-of-somebody",
       "title": "Agent of Somebody",
@@ -222,43 +553,6 @@
       "whyPlay": "The payoff for exploring the underground hangar is getting behind the controls of its sixty-ton mech."
     },
     {
-      "id": "castle-valley",
-      "title": "Castle Valley",
-      "description": "Walk from a dark forest to a mountain castle, torch and sword in hand, fighting goblins and trolls.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://omw-game.kimaki.dev",
-      "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
-      "attribution": "Tommy D. Rossi credits Claude Fable 5.2 for the playable adaptation of Desimulate’s original “omw” pixel-art scene.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/__morse/status/2122013410309153042"
-        },
-        {
-          "label": "Project repository",
-          "url": "https://github.com/remorses/castle-valley"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2122010188265701376/img/gl15gu0pAPmWE-oj.jpg",
-      "x": [
-        {
-          "url": "https://x.com/__morse/status/2122013410309153042",
-          "views": 231304,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "Frame policy not yet checked.",
-        "checkedAt": null
-      },
-      "whyPlay": "Step inside a moving oil painting: follow a torchlit trail from purple mountains to a village below the castle."
-    },
-    {
       "id": "cindervale",
       "title": "Cindervale",
       "description": "Grapple through an underground metroidvania with bullet-hell combat.",
@@ -288,43 +582,6 @@
         ]
       },
       "whyPlay": "Try a metroidvania that makes getting around as demanding as fighting, with a grapple for the caves and curtains of bullets to dodge."
-    },
-    {
-      "id": "evensong",
-      "title": "Evensong",
-      "description": "Fight a dark-fantasy boss in a compact soulslike prototype.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://evensong-phi.vercel.app/",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/kevin_t_ngo/status/2120238844754923874"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg",
-      "x": [
-        {
-          "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
-          "views": 487066,
-          "checkedAt": "2026-11-19T07:11:43+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-10T19:35:07.000Z",
-          "author": "Kevin Ngo (@kevin_t_ngo) on X"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://evensong-phi.vercel.app/",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:18Z",
-        "httpStatus": 206,
-        "finalUrl": "https://evensong-phi.vercel.app/"
-      },
-      "whyPlay": "If the boss fight is what you come to a soulslike for, this compact dark-fantasy encounter gets right to it."
     },
     {
       "id": "feed-the-backrooms",
@@ -359,41 +616,6 @@
         "finalUrl": "https://feed-backrooms.vercel.app/"
       },
       "whyPlay": "Find out what the Backrooms feel like from the other side of the chase, as the monster rather than the escapee."
-    },
-    {
-      "id": "gilt-gutter",
-      "title": "Gilt & Gutter",
-      "description": "Choose between two characters in a first-person 1v1 duel.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://gilt-and-gutter.vercel.app/",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/kevin_t_ngo/status/2119900487688622171"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2119899054520061952/img/5AHKPQpLbKV5Hi0o.jpg",
-      "x": [
-        {
-          "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
-          "views": 108488,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://gilt-and-gutter.vercel.app/",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:18Z",
-        "httpStatus": 206,
-        "finalUrl": "https://gilt-and-gutter.vercel.app/"
-      },
-      "whyPlay": "Pick between two duelists and face your opponent at eye level instead of watching the fight from the sidelines."
     },
     {
       "id": "greatest-work-of-art",
@@ -490,80 +712,6 @@
         ]
       },
       "whyPlay": "Keeping your torch alive gives you something to worry about besides the monsters coming at you from every side."
-    },
-    {
-      "id": "kumokiri",
-      "title": "Kumokiri",
-      "description": "Try an in-progress samurai game with a painterly 3D look.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a",
-      "sourceUrl": "https://x.com/aniketjart/status/2121101334900617631",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/aniketjart/status/2121101334900617631"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2121099817556512768/img/iZyxT3egICKE1ONR.jpg",
-      "x": [
-        {
-          "url": "https://x.com/aniketjart/status/2121101334900617631",
-          "views": 3432,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "blocked",
-        "url": null,
-        "reason": "The creator’s destination disallows cross-origin framing.",
-        "checkedAt": "2026-11-19T07:12:18Z",
-        "httpStatus": 206,
-        "finalUrl": "https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a",
-        "xFrameOptions": "DENY",
-        "frameAncestors": [
-          "'none'"
-        ]
-      },
-      "whyPlay": "Step into a painterly 3D samurai world if you're curious how brushwork can read in motion rather than in a still image."
-    },
-    {
-      "id": "lanternfall",
-      "title": "Lanternfall",
-      "description": "Fight your way through a moody 3D fantasy environment.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://loktar00.github.io/lanternfall/",
-      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/loktar00/status/2120192761542615271"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2120187656881516544/img/ugjT74smgSzi_U3X.jpg",
-      "x": [
-        {
-          "url": "https://x.com/loktar00/status/2120192761542615271",
-          "views": 201883,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://loktar00.github.io/lanternfall/",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:18Z",
-        "httpStatus": 206,
-        "finalUrl": "https://loktar00.github.io/lanternfall/"
-      },
-      "whyPlay": "Try it for the mood: the 3D fantasy world is as much a reason to keep moving as the fights along the way."
     },
     {
       "id": "last-light",
@@ -781,46 +929,6 @@
       "whyPlay": "Plan your way past the guards with a crew better known for raiding bins than pulling off heists."
     },
     {
-      "id": "saltline",
-      "title": "Saltline",
-      "description": "Cut relays while surviving a stormy port guarded by robots.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-      "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
-      "attribution": "Fable 5.2; the author describes a single-prompt experiment.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/felixrieseberg/status/2119925633564463609"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg",
-      "x": [
-        {
-          "url": "https://x.com/felixrieseberg/status/2119925633564463609",
-          "views": 4465009,
-          "checkedAt": "2026-11-19T07:11:43+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-09T22:50:32.000Z",
-          "author": "Felix Rieseberg (@felixrieseberg) on X"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:22Z",
-        "httpStatus": 200,
-        "finalUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-        "frameAncestors": [
-          "'self' chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
-        ]
-      },
-      "whyPlay": "Cutting relays gives your run through the storm-battered port a purpose beyond staying alive under robot guard."
-    },
-    {
       "id": "save-the-world",
       "title": "Save the World",
       "description": "Play a first-person action project set in a detailed city street.",
@@ -923,39 +1031,6 @@
       "whyPlay": "Your aircraft design isn't just for show: take it through three shoot-'em-up missions to earn new parts for the next build."
     },
     {
-      "id": "sky-reach",
-      "title": "Sky Reach",
-      "description": "Pilot a ship in an action game that takes you from fighting giant walkers to space combat.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://tesana.com/game/sky-reach",
-      "sourceUrl": "https://x.com/Rubzem/status/2105425742100341240",
-      "attribution": "The creator credits Claude Opus 5.5 via Tesana and Three.js.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/Rubzem/status/2105425742100341240"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2105420105006129152/img/X1oraoFuCSjDZC_e.jpg",
-      "x": [
-        {
-          "url": "https://x.com/Rubzem/status/2105425742100341240",
-          "views": 1998236,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "blocked",
-        "url": null,
-        "reason": "The external play page does not allow cross-origin framing.",
-        "checkedAt": "2026-11-19"
-      },
-      "whyPlay": "Harpoon giant walkers by the legs, then fly straight into an orbital dogfight."
-    },
-    {
       "id": "skywake",
       "title": "Skywake",
       "description": "Pilot a flying craft through a series of quests.",
@@ -1025,44 +1100,6 @@
       "whyPlay": "Duel Achilles inside the visual world of an ancient vase painting, with no dialogue to break the illusion."
     },
     {
-      "id": "sublevel-07",
-      "title": "SUBLEVEL 07",
-      "description": "Fight three waves of drones inside a flooded underground substation.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://wquguru.github.io/fable52-fps-repro/demos/04-fps/",
-      "sourceUrl": "https://x.com/wquguru/status/2120383332722905400",
-      "attribution": "The creator documents using Claude Code with Fable 5.2 to produce the single-file FPS and its procedural models, textures, and audio.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/wquguru/status/2120383332722905400"
-        },
-        {
-          "label": "Project repository",
-          "url": "https://github.com/wquguru/fable52-fps-repro"
-        }
-      ],
-      "image": "https://raw.githubusercontent.com/wquguru/fable52-fps-repro/main/docs/demo.gif",
-      "x": [
-        {
-          "url": "https://x.com/wquguru/status/2120383332722905400",
-          "views": 37342,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views",
-          "publishedAt": "2026-11-11T05:09:15.000Z"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "Frame policy not yet checked.",
-        "checkedAt": null
-      },
-      "whyPlay": "Try a three-wave FPS in a flooded substation, then inspect how one HTML file draws and scores the whole encounter."
-    },
-    {
       "id": "sunwarden",
       "title": "Sunwarden",
       "description": "Explore a 3D world, solve puzzles, and face a boss. Desktop recommended.",
@@ -1092,43 +1129,6 @@
         ]
       },
       "whyPlay": "Explore and solve your way across a 3D world before putting down the puzzles to face the boss."
-    },
-    {
-      "id": "the-waking-river",
-      "title": "The Waking River",
-      "description": "Explore a fantasy landscape in a browser adventure built without a game engine.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://rivergame-kappa.vercel.app",
-      "sourceUrl": "https://x.com/flxrnc/status/2120494277528580110",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/flxrnc/status/2120494277528580110"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2120491201304383489/img/vmxqwT2L-NKjWAKK.jpg",
-      "x": [
-        {
-          "url": "https://x.com/flxrnc/status/2120494277528580110",
-          "views": 5478,
-          "checkedAt": "2026-11-19T07:11:43+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-11T12:30:07.000Z",
-          "author": "Florence (@flxrnc) on X"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://rivergame-kappa.vercel.app",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:23Z",
-        "httpStatus": 206,
-        "finalUrl": "https://rivergame-kappa.vercel.app/"
-      },
-      "whyPlay": "Take your time exploring the fantasy landscape, then consider that the browser adventure was built without a game engine."
     },
     {
       "id": "three-js-quake",
@@ -1190,39 +1190,6 @@
         ]
       },
       "whyPlay": "Lead a squad with something worth bringing home: lost knowledge for the last archive you have to defend."
-    },
-    {
-      "id": "understory",
-      "title": "Understory",
-      "description": "Use planted light to change terrain and overcome guardians.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://wavedash.com/games/understory",
-      "sourceUrl": "https://x.com/DannyLimanseta/status/2107505970809336071",
-      "attribution": "The creator credits Claude Sonnet 5.5.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/DannyLimanseta/status/2107505970809336071"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2107504125336535040/img/FVuSUtIYocFjVkmM.jpg",
-      "x": [
-        {
-          "url": "https://x.com/DannyLimanseta/status/2107505970809336071",
-          "views": 27145,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "blocked",
-        "url": null,
-        "reason": "The external play page does not allow cross-origin framing.",
-        "checkedAt": "2026-11-19"
-      },
-      "whyPlay": "Plant light to make bridges and traps, then outthink five guardians to bring the seasons back."
     },
     {
       "id": "valle-morta",
@@ -1380,6 +1347,219 @@
       "whyPlay": "If a project-management board already makes you uneasy, step into a horror story that takes that feeling literally."
     },
     {
+      "id": "danfo-run",
+      "title": "Danfo Run",
+      "description": "Drive a danfo bus through Lagos and make stops in traffic.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://danforun.com/",
+      "sourceUrl": "https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/",
+      "attribution": "The creator credits Claude for development in Three.js; GPT contributed art.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/eureka_seamless/status/2103938108668420286"
+        },
+        {
+          "label": "Creator interview",
+          "url": "https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/"
+        }
+      ],
+      "image": "https://danforun.com/og.jpg",
+      "x": [
+        {
+          "url": "https://x.com/eureka_seamless/status/2103938108668420286",
+          "views": 14362076,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "Make your stops in Lagos traffic while motorcycles weave past and the bus radio plays local music."
+    },
+    {
+      "id": "starry-nightrider",
+      "title": "Starry Nightrider",
+      "description": "Ride a bike through a landscape drawn in the style of Van Gogh’s Starry Night.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://starrynightrider.com",
+      "sourceUrl": "https://x.com/ebbyamir/status/2120284261089673376",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/ebbyamir/status/2120284261089673376"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120283338477121537/img/tdKADwxxpbgwFZ3C.jpg",
+      "x": [
+        {
+          "url": "https://x.com/ebbyamir/status/2120284261089673376",
+          "views": 1980333,
+          "checkedAt": "2026-11-19T07:11:47+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-10T22:35:35.000Z",
+          "author": "Ebby Amir (@ebbyamir) on X"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The creator’s destination disallows cross-origin framing.",
+        "checkedAt": "2026-11-19T07:12:27Z",
+        "httpStatus": 206,
+        "finalUrl": "https://starrynightrider.com/",
+        "xFrameOptions": "SAMEORIGIN"
+      },
+      "whyPlay": "See what Van Gogh's swirling night sky feels like from the saddle of a bike instead of from across a gallery."
+    },
+    {
+      "id": "tennis",
+      "title": "Tennis",
+      "description": "Play a Pong-like paddle game with psychedelic audio and visuals.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://tennis.sixfingerpunch.com/",
+      "sourceUrl": "https://x.com/photonstorm/status/2120330010112434313",
+      "attribution": "The creator credits Claude Fable 5.2 for the WebGL2 build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/photonstorm/status/2120330010112434313"
+        }
+      ],
+      "image": "https://tennis.sixfingerpunch.com/og.jpg",
+      "x": [
+        {
+          "url": "https://x.com/photonstorm/status/2120330010112434313",
+          "views": 415215,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "It starts as Pong and turns into a psychedelic paddle duel, best tried with the sound on."
+    },
+    {
+      "id": "vice-86",
+      "title": "VICE ’86",
+      "description": "Drive through a nighttime city made from code.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://heat.pplx.app/",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+      "attribution": "Perplexity credits its Teammate running Claude Fable 5.2.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/AravSrinivas/status/2122338465648103676"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122338376271687680/img/MlUAJpFXv-M_6NY2.jpg",
+      "x": [
+        {
+          "url": "https://x.com/AravSrinivas/status/2122338465648103676",
+          "views": 84089,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The external play page does not allow cross-origin framing.",
+        "checkedAt": "2026-11-19"
+      },
+      "whyPlay": "Take a midnight drive through rain-slick streets in a neon city rendered from code."
+    },
+    {
+      "id": "fall-line",
+      "title": "Fall Line",
+      "description": "Ride a mountain bike downhill in a game tuned against the creator’s real riding experience.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://fallline-9zo.pages.dev",
+      "sourceUrl": "https://x.com/BananaOfMercy/status/2123037856398733438",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/BananaOfMercy/status/2123037856398733438"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2123032785111621632/img/JrwexXqgK-HpJOsB.jpg",
+      "x": [
+        {
+          "url": "https://x.com/BananaOfMercy/status/2123037856398733438",
+          "views": 12090,
+          "checkedAt": "2026-11-19T07:11:47+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-18T12:57:23.000Z",
+          "author": "BananaOfMercy (@BananaOfMercy) on X"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://fallline-9zo.pages.dev",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:25Z",
+        "httpStatus": 200,
+        "finalUrl": "https://fallline-9zo.pages.dev/"
+      },
+      "whyPlay": "Take on a downhill run tuned against the creator's experience of riding a real mountain bike."
+    },
+    {
+      "id": "banana-mine-rush",
+      "title": "Banana Mine Rush",
+      "description": "Race karts around a mine in a 3D game with multiplayer and leaderboards.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://remix.gg/g/banana-mine-rush",
+      "sourceUrl": "https://x.com/0xChuckstock/status/2120125184606658728",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/0xChuckstock/status/2120125184606658728"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120124768791760896/img/z1VLzmLPCMMRDkFn.jpg",
+      "x": [
+        {
+          "url": "https://x.com/0xChuckstock/status/2120125184606658728",
+          "views": 10259,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://remix.gg/g/banana-mine-rush",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:25Z",
+        "httpStatus": 206,
+        "finalUrl": "https://remix.gg/g/banana-mine-rush"
+      },
+      "whyPlay": "Race karts through a 3D mine with friends or go after a place on the leaderboard yourself."
+    },
+    {
       "id": "38-0-0",
       "title": "38-0-0",
       "description": "Draft a starting XI from randomly chosen Premier League clubs and seasons, then simulate a season.",
@@ -1463,41 +1643,6 @@
       "whyPlay": "The tower of groceries wobbles as you drift through town, so going faster can cost you the delivery."
     },
     {
-      "id": "banana-mine-rush",
-      "title": "Banana Mine Rush",
-      "description": "Race karts around a mine in a 3D game with multiplayer and leaderboards.",
-      "category": "Arcade, racing & sports",
-      "type": "browser",
-      "url": "https://remix.gg/g/banana-mine-rush",
-      "sourceUrl": "https://x.com/0xChuckstock/status/2120125184606658728",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/0xChuckstock/status/2120125184606658728"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2120124768791760896/img/z1VLzmLPCMMRDkFn.jpg",
-      "x": [
-        {
-          "url": "https://x.com/0xChuckstock/status/2120125184606658728",
-          "views": 10259,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://remix.gg/g/banana-mine-rush",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:25Z",
-        "httpStatus": 206,
-        "finalUrl": "https://remix.gg/g/banana-mine-rush"
-      },
-      "whyPlay": "Race karts through a 3D mine with friends or go after a place on the leaderboard yourself."
-    },
-    {
       "id": "crust-courier",
       "title": "Crust Courier",
       "description": "Deliver pizza by motorbike before time runs out.",
@@ -1527,43 +1672,6 @@
       "whyPlay": "Put the pizza on a motorbike and see what happens when a delivery shift becomes a time trial."
     },
     {
-      "id": "danfo-run",
-      "title": "Danfo Run",
-      "description": "Drive a danfo bus through Lagos and make stops in traffic.",
-      "category": "Arcade, racing & sports",
-      "type": "browser",
-      "url": "https://danforun.com/",
-      "sourceUrl": "https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/",
-      "attribution": "The creator credits Claude for development in Three.js; GPT contributed art.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/eureka_seamless/status/2103938108668420286"
-        },
-        {
-          "label": "Creator interview",
-          "url": "https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/"
-        }
-      ],
-      "image": "https://danforun.com/og.jpg",
-      "x": [
-        {
-          "url": "https://x.com/eureka_seamless/status/2103938108668420286",
-          "views": 14362076,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "Frame playback has not been verified.",
-        "checkedAt": null
-      },
-      "whyPlay": "Make your stops in Lagos traffic while motorcycles weave past and the bus radio plays local music."
-    },
-    {
       "id": "dorbaaz",
       "title": "Dorbaaz",
       "description": "Cross and cut rival kite strings above city rooftops.",
@@ -1591,43 +1699,6 @@
         "xFrameOptions": "SAMEORIGIN"
       },
       "whyPlay": "Use your kite string as both leash and blade as you cross and cut rivals above the city rooftops."
-    },
-    {
-      "id": "fall-line",
-      "title": "Fall Line",
-      "description": "Ride a mountain bike downhill in a game tuned against the creator’s real riding experience.",
-      "category": "Arcade, racing & sports",
-      "type": "browser",
-      "url": "https://fallline-9zo.pages.dev",
-      "sourceUrl": "https://x.com/BananaOfMercy/status/2123037856398733438",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/BananaOfMercy/status/2123037856398733438"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2123032785111621632/img/JrwexXqgK-HpJOsB.jpg",
-      "x": [
-        {
-          "url": "https://x.com/BananaOfMercy/status/2123037856398733438",
-          "views": 12090,
-          "checkedAt": "2026-11-19T07:11:47+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-18T12:57:23.000Z",
-          "author": "BananaOfMercy (@BananaOfMercy) on X"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://fallline-9zo.pages.dev",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:25Z",
-        "httpStatus": 200,
-        "finalUrl": "https://fallline-9zo.pages.dev/"
-      },
-      "whyPlay": "Take on a downhill run tuned against the creator's experience of riding a real mountain bike."
     },
     {
       "id": "ink-tide",
@@ -1939,77 +2010,6 @@
       "whyPlay": "Plug in a controller if you like and race a jet-powered craft instead of another set of wheels."
     },
     {
-      "id": "starry-nightrider",
-      "title": "Starry Nightrider",
-      "description": "Ride a bike through a landscape drawn in the style of Van Gogh’s Starry Night.",
-      "category": "Arcade, racing & sports",
-      "type": "browser",
-      "url": "https://starrynightrider.com",
-      "sourceUrl": "https://x.com/ebbyamir/status/2120284261089673376",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/ebbyamir/status/2120284261089673376"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2120283338477121537/img/tdKADwxxpbgwFZ3C.jpg",
-      "x": [
-        {
-          "url": "https://x.com/ebbyamir/status/2120284261089673376",
-          "views": 1980333,
-          "checkedAt": "2026-11-19T07:11:47+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-10T22:35:35.000Z",
-          "author": "Ebby Amir (@ebbyamir) on X"
-        }
-      ],
-      "embed": {
-        "status": "blocked",
-        "url": null,
-        "reason": "The creator’s destination disallows cross-origin framing.",
-        "checkedAt": "2026-11-19T07:12:27Z",
-        "httpStatus": 206,
-        "finalUrl": "https://starrynightrider.com/",
-        "xFrameOptions": "SAMEORIGIN"
-      },
-      "whyPlay": "See what Van Gogh's swirling night sky feels like from the saddle of a bike instead of from across a gallery."
-    },
-    {
-      "id": "tennis",
-      "title": "Tennis",
-      "description": "Play a Pong-like paddle game with psychedelic audio and visuals.",
-      "category": "Arcade, racing & sports",
-      "type": "browser",
-      "url": "https://tennis.sixfingerpunch.com/",
-      "sourceUrl": "https://x.com/photonstorm/status/2120330010112434313",
-      "attribution": "The creator credits Claude Fable 5.2 for the WebGL2 build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/photonstorm/status/2120330010112434313"
-        }
-      ],
-      "image": "https://tennis.sixfingerpunch.com/og.jpg",
-      "x": [
-        {
-          "url": "https://x.com/photonstorm/status/2120330010112434313",
-          "views": 415215,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "Frame playback has not been verified.",
-        "checkedAt": null
-      },
-      "whyPlay": "It starts as Pong and turns into a psychedelic paddle duel, best tried with the sound on."
-    },
-    {
       "id": "thunder-valley",
       "title": "Thunder Valley",
       "description": "Outrun dinosaurs in a 3D chase experiment made without an external game engine.",
@@ -2141,37 +2141,81 @@
       "whyPlay": "Play for the absurd sight of a little Fiat hauling a roof ladder around a forest racetrack."
     },
     {
-      "id": "vice-86",
-      "title": "VICE ’86",
-      "description": "Drive through a nighttime city made from code.",
-      "category": "Arcade, racing & sports",
+      "id": "i-would-have-gotten-away-with-it",
+      "title": "I Would Have Gotten Away With It",
+      "description": "Play the villain in a reverse Scooby-Doo parody and scare the meddling investigators.",
+      "category": "Puzzle & narrative",
       "type": "browser",
-      "url": "https://heat.pplx.app/",
-      "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
-      "attribution": "Perplexity credits its Teammate running Claude Fable 5.2.",
+      "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
+      "sourceUrl": "https://x.com/emollick/status/2119876449494540554",
+      "attribution": "The creator credits Claude Fable for the build.",
       "playability": "browser",
       "links": [
         {
           "label": "Creator source",
-          "url": "https://x.com/AravSrinivas/status/2122338465648103676"
+          "url": "https://x.com/emollick/status/2119876449494540554"
         }
       ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2122338376271687680/img/MlUAJpFXv-M_6NY2.jpg",
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119876130807197696/img/0ltEr2WrQneox6dJ.jpg",
       "x": [
         {
-          "url": "https://x.com/AravSrinivas/status/2122338465648103676",
-          "views": 84089,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
+          "url": "https://x.com/emollick/status/2119876449494540554",
+          "views": 34130,
+          "checkedAt": "2026-11-19T07:11:49+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-09T19:35:05.000Z",
+          "author": "Ethan Mollick (@emollick) on X"
         }
       ],
       "embed": {
-        "status": "blocked",
-        "url": null,
-        "reason": "The external play page does not allow cross-origin framing.",
-        "checkedAt": "2026-11-19"
+        "status": "allowed",
+        "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:28Z",
+        "httpStatus": 206,
+        "finalUrl": "https://i-would-have-gotten-away-with-it.netlify.app/"
       },
-      "whyPlay": "Take a midnight drive through rain-slick streets in a neon city rendered from code."
+      "whyPlay": "Pick it for the role reversal: instead of unmasking the villain, you get to scare off the investigators."
+    },
+    {
+      "id": "dawnlings",
+      "title": "Dawnlings",
+      "description": "Tilt a 3D valley to roll small creatures to safety.",
+      "category": "Puzzle & narrative",
+      "type": "browser",
+      "url": "https://kengoworks.itch.io/dawnlings",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/kevin_t_ngo/status/2122969346935017497"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122967328568827904/img/MMJhfmzUHB0dEaiW.jpg",
+      "x": [
+        {
+          "url": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+          "views": 20617,
+          "checkedAt": "2026-11-19T07:11:47+00:00",
+          "metric": "post_views",
+          "publishedAt": "2026-11-18T08:25:09.000Z",
+          "author": "Kevin Ngo (@kevin_t_ngo) on X"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+        "checkedAt": "2026-11-19T07:12:28Z",
+        "httpStatus": 200,
+        "finalUrl": "https://kengoworks.itch.io/dawnlings",
+        "frameAncestors": [
+          "'self' https://itch.io"
+        ]
+      },
+      "whyPlay": "Try it for the tactile challenge of tilting a 3D valley and rolling its tiny inhabitants to safety."
     },
     {
       "id": "art-cat-burglar",
@@ -2298,46 +2342,6 @@
       "whyPlay": "Pick this if you like both exploration and wordplay: the crossword is hidden in the layout of a starship."
     },
     {
-      "id": "dawnlings",
-      "title": "Dawnlings",
-      "description": "Tilt a 3D valley to roll small creatures to safety.",
-      "category": "Puzzle & narrative",
-      "type": "browser",
-      "url": "https://kengoworks.itch.io/dawnlings",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/kevin_t_ngo/status/2122969346935017497"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2122967328568827904/img/MMJhfmzUHB0dEaiW.jpg",
-      "x": [
-        {
-          "url": "https://x.com/kevin_t_ngo/status/2122969346935017497",
-          "views": 20617,
-          "checkedAt": "2026-11-19T07:11:47+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-18T08:25:09.000Z",
-          "author": "Kevin Ngo (@kevin_t_ngo) on X"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:28Z",
-        "httpStatus": 200,
-        "finalUrl": "https://kengoworks.itch.io/dawnlings",
-        "frameAncestors": [
-          "'self' https://itch.io"
-        ]
-      },
-      "whyPlay": "Try it for the tactile challenge of tilting a 3D valley and rolling its tiny inhabitants to safety."
-    },
-    {
       "id": "geosports",
       "title": "GeoSports",
       "description": "Locate five sports clues by dropping pins on a map in a new daily challenge.",
@@ -2362,39 +2366,6 @@
         "checkedAt": null
       },
       "whyPlay": "A five-clue daily round turns sports trivia into a map challenge you can finish in about a minute."
-    },
-    {
-      "id": "getting-there",
-      "title": "Getting There",
-      "description": "Travel through a quiet fourteen-chapter adventure with Moss.",
-      "category": "Puzzle & narrative",
-      "type": "browser",
-      "url": "https://tesana.com/game/getting-there",
-      "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
-      "attribution": "The creator credits Claude Fable 5.2 via Tesana.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/Rubzem/status/2122013352755126431"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2122012845512744960/img/bkZQfV-qoBFjDMzz.jpg",
-      "x": [
-        {
-          "url": "https://x.com/Rubzem/status/2122013352755126431",
-          "views": 154864,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "blocked",
-        "url": null,
-        "reason": "The external play page does not allow cross-origin framing.",
-        "checkedAt": "2026-11-19"
-      },
-      "whyPlay": "Travel with Moss by canoe and hot-air balloon through fourteen chapters without a timer or fail state."
     },
     {
       "id": "grandma-s-tech-support",
@@ -2426,43 +2397,6 @@
         ]
       },
       "whyPlay": "Choose this when you want a short puzzle session with the comedy of taking questionable tech instructions from Grandma."
-    },
-    {
-      "id": "i-would-have-gotten-away-with-it",
-      "title": "I Would Have Gotten Away With It",
-      "description": "Play the villain in a reverse Scooby-Doo parody and scare the meddling investigators.",
-      "category": "Puzzle & narrative",
-      "type": "browser",
-      "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
-      "sourceUrl": "https://x.com/emollick/status/2119876449494540554",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/emollick/status/2119876449494540554"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2119876130807197696/img/0ltEr2WrQneox6dJ.jpg",
-      "x": [
-        {
-          "url": "https://x.com/emollick/status/2119876449494540554",
-          "views": 34130,
-          "checkedAt": "2026-11-19T07:11:49+00:00",
-          "metric": "post_views",
-          "publishedAt": "2026-11-09T19:35:05.000Z",
-          "author": "Ethan Mollick (@emollick) on X"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:28Z",
-        "httpStatus": 206,
-        "finalUrl": "https://i-would-have-gotten-away-with-it.netlify.app/"
-      },
-      "whyPlay": "Pick it for the role reversal: instead of unmasking the villain, you get to scare off the investigators."
     },
     {
       "id": "laser-dot",
@@ -2714,6 +2648,41 @@
       "whyPlay": "Pick this for a 3D puzzle adventure where the goal is to shepherd little creatures rather than defeat them."
     },
     {
+      "id": "dread-district",
+      "title": "Dread & District",
+      "description": "Run a transport operation through hazardous fantasy country.",
+      "category": "RPG & strategy",
+      "type": "browser",
+      "url": "https://dread-and-district.netlify.app",
+      "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
+      "attribution": "The creator credits Claude Fable for the build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/emollick/status/2120248525254742318"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2120248122982985728/img/ksDfFUCb4EWBtTjL.jpg",
+      "x": [
+        {
+          "url": "https://x.com/emollick/status/2120248525254742318",
+          "views": 30692,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "allowed",
+        "url": "https://dread-and-district.netlify.app",
+        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+        "checkedAt": "2026-11-19T07:12:31Z",
+        "httpStatus": 206,
+        "finalUrl": "https://dread-and-district.netlify.app/"
+      },
+      "whyPlay": "Pick this if the part of fantasy games you enjoy most is keeping an operation moving through dangerous territory."
+    },
+    {
       "id": "ares-outpost",
       "title": "ARES OUTPOST",
       "description": "Position and upgrade towers on an open map to hold off endless enemy waves.",
@@ -2950,41 +2919,6 @@
       "whyPlay": "Play if you enjoy chasing a clever poker-like combo and then building around it with loot and a deep progression tree."
     },
     {
-      "id": "dread-district",
-      "title": "Dread & District",
-      "description": "Run a transport operation through hazardous fantasy country.",
-      "category": "RPG & strategy",
-      "type": "browser",
-      "url": "https://dread-and-district.netlify.app",
-      "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
-      "attribution": "The creator credits Claude Fable for the build.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/emollick/status/2120248525254742318"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2120248122982985728/img/ksDfFUCb4EWBtTjL.jpg",
-      "x": [
-        {
-          "url": "https://x.com/emollick/status/2120248525254742318",
-          "views": 30692,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "allowed",
-        "url": "https://dread-and-district.netlify.app",
-        "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
-        "checkedAt": "2026-11-19T07:12:31Z",
-        "httpStatus": 206,
-        "finalUrl": "https://dread-and-district.netlify.app/"
-      },
-      "whyPlay": "Pick this if the part of fantasy games you enjoy most is keeping an operation moving through dangerous territory."
-    },
-    {
       "id": "lucky-castle",
       "title": "Lucky Castle",
       "description": "Pick a lucky number and defend a castle in a dice-driven strategy game.",
@@ -3194,6 +3128,39 @@
         "checkedAt": null
       },
       "whyPlay": "A browser MMO with distinct classes and group dungeons, rather than a single combat demo."
+    },
+    {
+      "id": "petalwake",
+      "title": "Petalwake",
+      "description": "Fly a broom between coastal towns and deliver parcels.",
+      "category": "Simulation & sandbox",
+      "type": "browser",
+      "url": "https://petalwake.non.io/v2/",
+      "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
+      "attribution": "The creator credits Claude Fable 5.2, plus fal and Meshy assets.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/pwnies/status/2119987174884143348"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119986949620658176/img/goIGmQtakymRjq2K.jpg",
+      "x": [
+        {
+          "url": "https://x.com/pwnies/status/2119987174884143348",
+          "views": 33046,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "Catch gusts and bank a broom between coastal towns, then land to deliver a parcel."
     },
     {
       "id": "1-in-8-billion",
@@ -3500,39 +3467,6 @@
       "whyPlay": "Try it for a relaxed session of shaping an object from wet clay all the way through glazing and firing."
     },
     {
-      "id": "petalwake",
-      "title": "Petalwake",
-      "description": "Fly a broom between coastal towns and deliver parcels.",
-      "category": "Simulation & sandbox",
-      "type": "browser",
-      "url": "https://petalwake.non.io/v2/",
-      "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
-      "attribution": "The creator credits Claude Fable 5.2, plus fal and Meshy assets.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://x.com/pwnies/status/2119987174884143348"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2119986949620658176/img/goIGmQtakymRjq2K.jpg",
-      "x": [
-        {
-          "url": "https://x.com/pwnies/status/2119987174884143348",
-          "views": 33046,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "Frame playback has not been verified.",
-        "checkedAt": null
-      },
-      "whyPlay": "Catch gusts and bank a broom between coastal towns, then land to deliver a parcel."
-    },
-    {
       "id": "small-magic",
       "title": "Small Magic",
       "description": "Cast seven spells and knock apart a wizard’s physics playground.",
@@ -3773,36 +3707,6 @@
       "whyPlay": "Play if you like crafting where the tools you make determine which hostile biomes you can venture into."
     },
     {
-      "id": "fableflight",
-      "title": "FableFlight",
-      "description": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
-      "category": "Local builds",
-      "type": "local",
-      "url": "https://github.com/Rolandjg/fableflight",
-      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/",
-      "attribution": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
-      "playability": "source",
-      "links": [
-        {
-          "label": "Source and setup",
-          "url": "https://github.com/Rolandjg/fableflight"
-        },
-        {
-          "label": "Creator notes",
-          "url": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/"
-        }
-      ],
-      "image": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e",
-      "x": [],
-      "embed": {
-        "status": "not_applicable",
-        "url": null,
-        "reason": "Requires a download or local setup.",
-        "checkedAt": null
-      },
-      "whyPlay": "Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo."
-    },
-    {
       "id": "skyfire",
       "title": "Skyfire",
       "description": "Higgsfield Studio. Ride a dragon, fight in the air, and face a titan above the clouds. Fable 5.2, Higgsfield MCP and Blender with human playtesting.",
@@ -3840,6 +3744,73 @@
         "checkedAt": null
       },
       "whyPlay": "Worth downloading if you want to fight from dragonback and see an aerial boss staged above the clouds."
+    },
+    {
+      "id": "fableflight",
+      "title": "FableFlight",
+      "description": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
+      "category": "Local builds",
+      "type": "local",
+      "url": "https://github.com/Rolandjg/fableflight",
+      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/",
+      "attribution": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
+      "playability": "source",
+      "links": [
+        {
+          "label": "Source and setup",
+          "url": "https://github.com/Rolandjg/fableflight"
+        },
+        {
+          "label": "Creator notes",
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/"
+        }
+      ],
+      "image": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e",
+      "x": [],
+      "embed": {
+        "status": "not_applicable",
+        "url": null,
+        "reason": "Requires a download or local setup.",
+        "checkedAt": null
+      },
+      "whyPlay": "Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo."
+    },
+    {
+      "id": "what-the-water-keeps",
+      "title": "What the Water Keeps",
+      "description": "Explore a dreamlike boat journey. The creator credits Claude Fable 5.2, Tripo and Suno.",
+      "category": "Interactive demos",
+      "type": "demo",
+      "url": "https://what-the-water-keeps.vercel.app/",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "attribution": "Explore a dreamlike boat journey. The creator credits Claude Fable 5.2, Tripo and Suno.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Open demo",
+          "url": "https://what-the-water-keeps.vercel.app/"
+        },
+        {
+          "label": "Creator notes",
+          "url": "https://x.com/kevin_t_ngo/status/2119868968307695818"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119868394363367424/img/OARGnHXgicPmtCwd.jpg",
+      "x": [
+        {
+          "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+          "views": 512365,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "Watch how each world changes as your boat crosses from one dream into the next."
     },
     {
       "id": "abyssal-garden",
@@ -3918,48 +3889,11 @@
         "finalUrl": "https://xikhar.github.io/papertrails/"
       },
       "whyPlay": "Open it for the pleasure of moving through a landscape built like a pop-up paper scene."
-    },
-    {
-      "id": "what-the-water-keeps",
-      "title": "What the Water Keeps",
-      "description": "Explore a dreamlike boat journey. The creator credits Claude Fable 5.2, Tripo and Suno.",
-      "category": "Interactive demos",
-      "type": "demo",
-      "url": "https://what-the-water-keeps.vercel.app/",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
-      "attribution": "Explore a dreamlike boat journey. The creator credits Claude Fable 5.2, Tripo and Suno.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Open demo",
-          "url": "https://what-the-water-keeps.vercel.app/"
-        },
-        {
-          "label": "Creator notes",
-          "url": "https://x.com/kevin_t_ngo/status/2119868968307695818"
-        }
-      ],
-      "image": "https://pbs.twimg.com/amplify_video_thumb/2119868394363367424/img/OARGnHXgicPmtCwd.jpg",
-      "x": [
-        {
-          "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
-          "views": 512365,
-          "checkedAt": "2026-11-19",
-          "metric": "post_views"
-        }
-      ],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "Frame playback has not been verified.",
-        "checkedAt": null
-      },
-      "whyPlay": "Watch how each world changes as your boat crosses from one dream into the next."
     }
   ],
   "editorsPicks": [
     "danfo-run",
     "saltline",
-    "sky-reach"
+    "starry-nightrider"
   ]
 }
