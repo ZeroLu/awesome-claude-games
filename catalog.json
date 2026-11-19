@@ -1,11 +1,11 @@
 {
   "version": 1,
   "source": "https://github.com/ZeroLu/awesome-claude-games/blob/main/CATALOG.md",
-  "sourceSha256": "64f86c37ee231775d4ccd6614509d5f5a90752e140273cf1dbfdb747a069886a",
+  "sourceSha256": "c0e51d7f6ed40fc3c476d30deada30a8a3503fc8702940452f721941eaf16a07",
   "counts": {
-    "browser": 117,
+    "browser": 119,
     "local": 2,
-    "demo": 2
+    "demo": 3
   },
   "games": [
     {
@@ -245,8 +245,9 @@
       "x": [
         {
           "url": "https://x.com/__morse/status/2122013410309153042",
-          "views": null,
-          "checkedAt": null
+          "views": 231304,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
         }
       ],
       "embed": {
@@ -379,8 +380,9 @@
       "x": [
         {
           "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
-          "views": null,
-          "checkedAt": null
+          "views": 108488,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
         }
       ],
       "embed": {
@@ -490,37 +492,6 @@
       "whyPlay": "Keeping your torch alive gives you something to worry about besides the monsters coming at you from every side."
     },
     {
-      "id": "kitty-kingdom-and-the-robot-menace",
-      "title": "Kitty Kingdom: And the Robot Menace",
-      "description": "Defend a feline kingdom from waves of robots.",
-      "category": "Action & adventure",
-      "type": "browser",
-      "url": "https://dgeisert.itch.io/kitty-kingdom",
-      "sourceUrl": "https://itch.io/jam/jamference-ai-game-jam-hack-1/rate/5094985",
-      "attribution": "The jam submission credits Claude for code, art and sound effects.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://itch.io/jam/jamference-ai-game-jam-hack-1/rate/5094985"
-        }
-      ],
-      "image": "https://img.itch.zone/aW1hZ2UvNTA5NDk4NS8zMDU5MjE2MS5naWY=/original/VMVmg0.gif",
-      "x": [],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:18Z",
-        "httpStatus": 200,
-        "finalUrl": "https://dgeisert.itch.io/kitty-kingdom",
-        "frameAncestors": [
-          "'self' https://itch.io"
-        ]
-      },
-      "whyPlay": "Hold the line for a kingdom of cats against a threat it can't negotiate with: wave after wave of robots."
-    },
-    {
       "id": "kumokiri",
       "title": "Kumokiri",
       "description": "Try an in-progress samurai game with a painterly 3D look.",
@@ -540,8 +511,9 @@
       "x": [
         {
           "url": "https://x.com/aniketjart/status/2121101334900617631",
-          "views": null,
-          "checkedAt": null
+          "views": 3432,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
         }
       ],
       "embed": {
@@ -578,8 +550,9 @@
       "x": [
         {
           "url": "https://x.com/loktar00/status/2120192761542615271",
-          "views": null,
-          "checkedAt": null
+          "views": 201883,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
         }
       ],
       "embed": {
@@ -823,7 +796,7 @@
           "url": "https://x.com/felixrieseberg/status/2119925633564463609"
         }
       ],
-      "image": null,
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg",
       "x": [
         {
           "url": "https://x.com/felixrieseberg/status/2119925633564463609",
@@ -948,6 +921,39 @@
         ]
       },
       "whyPlay": "Your aircraft design isn't just for show: take it through three shoot-'em-up missions to earn new parts for the next build."
+    },
+    {
+      "id": "sky-reach",
+      "title": "Sky Reach",
+      "description": "Pilot a ship in an action game that takes you from fighting giant walkers to space combat.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://tesana.com/game/sky-reach",
+      "sourceUrl": "https://x.com/Rubzem/status/2105425742100341240",
+      "attribution": "The creator credits Claude Opus 5.5 via Tesana and Three.js.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/Rubzem/status/2105425742100341240"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2105420105006129152/img/X1oraoFuCSjDZC_e.jpg",
+      "x": [
+        {
+          "url": "https://x.com/Rubzem/status/2105425742100341240",
+          "views": 1998236,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The external play page does not allow cross-origin framing.",
+        "checkedAt": "2026-11-19"
+      },
+      "whyPlay": "Harpoon giant walkers by the legs, then fly straight into an orbital dogfight."
     },
     {
       "id": "skywake",
@@ -1184,6 +1190,39 @@
         ]
       },
       "whyPlay": "Lead a squad with something worth bringing home: lost knowledge for the last archive you have to defend."
+    },
+    {
+      "id": "understory",
+      "title": "Understory",
+      "description": "Use planted light to change terrain and overcome guardians.",
+      "category": "Action & adventure",
+      "type": "browser",
+      "url": "https://wavedash.com/games/understory",
+      "sourceUrl": "https://x.com/DannyLimanseta/status/2107505970809336071",
+      "attribution": "The creator credits Claude Sonnet 5.5.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/DannyLimanseta/status/2107505970809336071"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2107504125336535040/img/FVuSUtIYocFjVkmM.jpg",
+      "x": [
+        {
+          "url": "https://x.com/DannyLimanseta/status/2107505970809336071",
+          "views": 27145,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The external play page does not allow cross-origin framing.",
+        "checkedAt": "2026-11-19"
+      },
+      "whyPlay": "Plant light to make bridges and traps, then outthink five guardians to bring the seasons back."
     },
     {
       "id": "valle-morta",
@@ -1443,8 +1482,9 @@
       "x": [
         {
           "url": "https://x.com/0xChuckstock/status/2120125184606658728",
-          "views": null,
-          "checkedAt": null
+          "views": 10259,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
         }
       ],
       "embed": {
@@ -1485,6 +1525,43 @@
         "xFrameOptions": "SAMEORIGIN"
       },
       "whyPlay": "Put the pizza on a motorbike and see what happens when a delivery shift becomes a time trial."
+    },
+    {
+      "id": "danfo-run",
+      "title": "Danfo Run",
+      "description": "Drive a danfo bus through Lagos and make stops in traffic.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://danforun.com/",
+      "sourceUrl": "https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/",
+      "attribution": "The creator credits Claude for development in Three.js; GPT contributed art.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/eureka_seamless/status/2103938108668420286"
+        },
+        {
+          "label": "Creator interview",
+          "url": "https://technext24.com/reviews/lagos-run-danfo-game-review-nigeria/"
+        }
+      ],
+      "image": "https://danforun.com/og.jpg",
+      "x": [
+        {
+          "url": "https://x.com/eureka_seamless/status/2103938108668420286",
+          "views": 14362076,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "Make your stops in Lagos traffic while motorcycles weave past and the bus radio plays local music."
     },
     {
       "id": "dorbaaz",
@@ -1630,7 +1707,7 @@
           "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xu808o/37_browser_games_and_25_simulators_all_made_with/"
         }
       ],
-      "image": null,
+      "image": "https://vinish.dev/wp-content/uploads/2026/07/penguin-path-game-online.webp",
       "x": [],
       "embed": {
         "status": "blocked",
@@ -1900,6 +1977,39 @@
       "whyPlay": "See what Van Gogh's swirling night sky feels like from the saddle of a bike instead of from across a gallery."
     },
     {
+      "id": "tennis",
+      "title": "Tennis",
+      "description": "Play a Pong-like paddle game with psychedelic audio and visuals.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://tennis.sixfingerpunch.com/",
+      "sourceUrl": "https://x.com/photonstorm/status/2120330010112434313",
+      "attribution": "The creator credits Claude Fable 5.2 for the WebGL2 build.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/photonstorm/status/2120330010112434313"
+        }
+      ],
+      "image": "https://tennis.sixfingerpunch.com/og.jpg",
+      "x": [
+        {
+          "url": "https://x.com/photonstorm/status/2120330010112434313",
+          "views": 415215,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "It starts as Pong and turns into a psychedelic paddle duel, best tried with the sound on."
+    },
+    {
       "id": "thunder-valley",
       "title": "Thunder Valley",
       "description": "Outrun dinosaurs in a 3D chase experiment made without an external game engine.",
@@ -2029,6 +2139,39 @@
         ]
       },
       "whyPlay": "Play for the absurd sight of a little Fiat hauling a roof ladder around a forest racetrack."
+    },
+    {
+      "id": "vice-86",
+      "title": "VICE ’86",
+      "description": "Drive through a nighttime city made from code.",
+      "category": "Arcade, racing & sports",
+      "type": "browser",
+      "url": "https://heat.pplx.app/",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
+      "attribution": "Perplexity credits its Teammate running Claude Fable 5.2.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/AravSrinivas/status/2122338465648103676"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122338376271687680/img/MlUAJpFXv-M_6NY2.jpg",
+      "x": [
+        {
+          "url": "https://x.com/AravSrinivas/status/2122338465648103676",
+          "views": 84089,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The external play page does not allow cross-origin framing.",
+        "checkedAt": "2026-11-19"
+      },
+      "whyPlay": "Take a midnight drive through rain-slick streets in a neon city rendered from code."
     },
     {
       "id": "art-cat-burglar",
@@ -2195,37 +2338,6 @@
       "whyPlay": "Try it for the tactile challenge of tilting a 3D valley and rolling its tiny inhabitants to safety."
     },
     {
-      "id": "eko",
-      "title": "Eko",
-      "description": "Use echoes of previous runs to solve 31 rooms.",
-      "category": "Puzzle & narrative",
-      "type": "browser",
-      "url": "https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine",
-      "sourceUrl": "https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine",
-      "attribution": "The developer credits Claude Code with programming, scripted art and sound, and language support.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine"
-        }
-      ],
-      "image": "https://img.itch.zone/aW1hZ2UvNTM4MDE4OS8zMjQyMjA0My5wbmc=/794x1000/FiIhhv.png",
-      "x": [],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:28Z",
-        "httpStatus": 200,
-        "finalUrl": "https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine",
-        "frameAncestors": [
-          "'self' https://itch.io"
-        ]
-      },
-      "whyPlay": "Play if you like puzzles that make your own past attempts part of the solution."
-    },
-    {
       "id": "geosports",
       "title": "GeoSports",
       "description": "Locate five sports clues by dropping pins on a map in a new daily challenge.",
@@ -2250,6 +2362,39 @@
         "checkedAt": null
       },
       "whyPlay": "A five-clue daily round turns sports trivia into a map challenge you can finish in about a minute."
+    },
+    {
+      "id": "getting-there",
+      "title": "Getting There",
+      "description": "Travel through a quiet fourteen-chapter adventure with Moss.",
+      "category": "Puzzle & narrative",
+      "type": "browser",
+      "url": "https://tesana.com/game/getting-there",
+      "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
+      "attribution": "The creator credits Claude Fable 5.2 via Tesana.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/Rubzem/status/2122013352755126431"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2122012845512744960/img/bkZQfV-qoBFjDMzz.jpg",
+      "x": [
+        {
+          "url": "https://x.com/Rubzem/status/2122013352755126431",
+          "views": 154864,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "blocked",
+        "url": null,
+        "reason": "The external play page does not allow cross-origin framing.",
+        "checkedAt": "2026-11-19"
+      },
+      "whyPlay": "Travel with Moss by canoe and hot-air balloon through fourteen chapters without a timer or fail state."
     },
     {
       "id": "grandma-s-tech-support",
@@ -2715,37 +2860,6 @@
       "whyPlay": "Try it if you are curious what a browser RPG made for an Epic game jam looks like beyond a short tech demo."
     },
     {
-      "id": "chokepoint",
-      "title": "Chokepoint",
-      "description": "Hold the line through 25 rounds of tower defense, then play endless mode.",
-      "category": "RPG & strategy",
-      "type": "browser",
-      "url": "https://umutcanekinci.itch.io/chokepoint",
-      "sourceUrl": "https://umutcanekinci.itch.io/chokepoint",
-      "attribution": "Umutcan Ekinci credits Claude Code as a coding assistant while retaining design, direction, and playtesting.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://umutcanekinci.itch.io/chokepoint"
-        }
-      ],
-      "image": "https://img.itch.zone/aW1hZ2UvNDc0NDIzMi8zMjA3OTM5NC5wbmc=/794x1000/GFHTzD.png",
-      "x": [],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:31Z",
-        "httpStatus": 200,
-        "finalUrl": "https://umutcanekinci.itch.io/chokepoint",
-        "frameAncestors": [
-          "'self' https://itch.io"
-        ]
-      },
-      "whyPlay": "Play for a clear tower-defense challenge with 25 rounds to beat and an endless mode when you want a longer test."
-    },
-    {
       "id": "clanbound",
       "title": "Clanbound",
       "description": "Fantasy roguelike deckbuilder with creature positioning.",
@@ -2855,8 +2969,9 @@
       "x": [
         {
           "url": "https://x.com/emollick/status/2120248525254742318",
-          "views": null,
-          "checkedAt": null
+          "views": 30692,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
         }
       ],
       "embed": {
@@ -2899,37 +3014,6 @@
         ]
       },
       "whyPlay": "Try it for a castle defense game that asks you to turn a lucky number and uncertain dice into a plan."
-    },
-    {
-      "id": "minimal-rogue",
-      "title": "Minimal Rogue",
-      "description": "Retro dungeon RPG with English and Japanese support.",
-      "category": "RPG & strategy",
-      "type": "browser",
-      "url": "https://hirotaka-adachi.itch.io/minimal-rogue",
-      "sourceUrl": "https://github.com/HirotakaAdachi/Rogue",
-      "attribution": "Claude Code; separate credit for Suno music.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://github.com/HirotakaAdachi/Rogue"
-        }
-      ],
-      "image": "https://img.itch.zone/aW1hZ2UvNDYxODM5OS8yNzUxNzc0MS5wbmc=/794x1000/%2BxVVO7.png",
-      "x": [],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:32Z",
-        "httpStatus": 200,
-        "finalUrl": "https://hirotaka-adachi.itch.io/minimal-rogue",
-        "frameAncestors": [
-          "'self' https://itch.io"
-        ]
-      },
-      "whyPlay": "Pick this for a retro dungeon RPG that lets you choose between English and Japanese."
     },
     {
       "id": "othello-variants",
@@ -3101,7 +3185,7 @@
           "url": "https://github.com/levy-street/world-of-claudecraft"
         }
       ],
-      "image": null,
+      "image": "https://levystreet.com/img/woc-dungeon-1200-76184c1c.webp",
       "x": [],
       "embed": {
         "status": "unknown",
@@ -3385,37 +3469,6 @@
       "whyPlay": "Try it for the pointed tension of keeping something alive while a simulated social feed demands your attention."
     },
     {
-      "id": "kiosk-days-st-martin-s-evening",
-      "title": "Kiosk Days: St. Martin's Evening",
-      "description": "Stock a small kiosk ahead of the village lantern parade.",
-      "category": "Simulation & sandbox",
-      "type": "browser",
-      "url": "https://kigaro-games.itch.io/kiosk-days-st-martins-evening",
-      "sourceUrl": "https://kigaro-games.itch.io/kiosk-days-st-martins-evening",
-      "attribution": "Claude programmed the Godot game and scripted the pixel art.",
-      "playability": "browser",
-      "links": [
-        {
-          "label": "Creator source",
-          "url": "https://kigaro-games.itch.io/kiosk-days-st-martins-evening"
-        }
-      ],
-      "image": "https://img.itch.zone/aW1hZ2UvNTI0NDkxNy8zMTQ0ODAyOS5wbmc=/original/4vhQFK.png",
-      "x": [],
-      "embed": {
-        "status": "unknown",
-        "url": null,
-        "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-        "checkedAt": "2026-11-19T07:12:35Z",
-        "httpStatus": 200,
-        "finalUrl": "https://kigaro-games.itch.io/kiosk-days-st-martins-evening",
-        "frameAncestors": [
-          "'self' https://itch.io"
-        ]
-      },
-      "whyPlay": "Pick this for a management game with a small, tangible goal: have the kiosk ready before the lantern parade."
-    },
-    {
       "id": "mudlark-pottery",
       "title": "Mudlark Pottery",
       "description": "Throw, trim, glaze and fire pottery in a cozy studio.",
@@ -3445,6 +3498,39 @@
         ]
       },
       "whyPlay": "Try it for a relaxed session of shaping an object from wet clay all the way through glazing and firing."
+    },
+    {
+      "id": "petalwake",
+      "title": "Petalwake",
+      "description": "Fly a broom between coastal towns and deliver parcels.",
+      "category": "Simulation & sandbox",
+      "type": "browser",
+      "url": "https://petalwake.non.io/v2/",
+      "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
+      "attribution": "The creator credits Claude Fable 5.2, plus fal and Meshy assets.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Creator source",
+          "url": "https://x.com/pwnies/status/2119987174884143348"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119986949620658176/img/goIGmQtakymRjq2K.jpg",
+      "x": [
+        {
+          "url": "https://x.com/pwnies/status/2119987174884143348",
+          "views": 33046,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "Catch gusts and bank a broom between coastal towns, then land to deliver a parcel."
     },
     {
       "id": "small-magic",
@@ -3687,6 +3773,36 @@
       "whyPlay": "Play if you like crafting where the tools you make determine which hostile biomes you can venture into."
     },
     {
+      "id": "fableflight",
+      "title": "FableFlight",
+      "description": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
+      "category": "Local builds",
+      "type": "local",
+      "url": "https://github.com/Rolandjg/fableflight",
+      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/",
+      "attribution": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
+      "playability": "source",
+      "links": [
+        {
+          "label": "Source and setup",
+          "url": "https://github.com/Rolandjg/fableflight"
+        },
+        {
+          "label": "Creator notes",
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/"
+        }
+      ],
+      "image": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e",
+      "x": [],
+      "embed": {
+        "status": "not_applicable",
+        "url": null,
+        "reason": "Requires a download or local setup.",
+        "checkedAt": null
+      },
+      "whyPlay": "Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo."
+    },
+    {
       "id": "skyfire",
       "title": "Skyfire",
       "description": "Higgsfield Studio. Ride a dragon, fight in the air, and face a titan above the clouds. Fable 5.2, Higgsfield MCP and Blender with human playtesting.",
@@ -3724,36 +3840,6 @@
         "checkedAt": null
       },
       "whyPlay": "Worth downloading if you want to fight from dragonback and see an aerial boss staged above the clouds."
-    },
-    {
-      "id": "fableflight",
-      "title": "FableFlight",
-      "description": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
-      "category": "Local builds",
-      "type": "local",
-      "url": "https://github.com/Rolandjg/fableflight",
-      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/",
-      "attribution": "Rolandjg. Open-world flight simulator built with Fable 5.2 and Opus 5.5. Requires a local Rust build.",
-      "playability": "source",
-      "links": [
-        {
-          "label": "Source and setup",
-          "url": "https://github.com/Rolandjg/fableflight"
-        },
-        {
-          "label": "Creator notes",
-          "url": "https://www.reddit.com/r/vibecoding/comments/1xwdvhf/im_a_huge_fan_of_microsoft_flight_sim_2024_but/"
-        }
-      ],
-      "image": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e",
-      "x": [],
-      "embed": {
-        "status": "not_applicable",
-        "url": null,
-        "reason": "Requires a download or local setup.",
-        "checkedAt": null
-      },
-      "whyPlay": "Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo."
     },
     {
       "id": "abyssal-garden",
@@ -3815,7 +3901,7 @@
           "url": "https://x.com/xikhar/status/2122682962647122403"
         }
       ],
-      "image": null,
+      "image": "https://xikhar.github.io/papertrails/social-card.jpg",
       "x": [
         {
           "url": "https://x.com/xikhar/status/2122682962647122403",
@@ -3832,6 +3918,48 @@
         "finalUrl": "https://xikhar.github.io/papertrails/"
       },
       "whyPlay": "Open it for the pleasure of moving through a landscape built like a pop-up paper scene."
+    },
+    {
+      "id": "what-the-water-keeps",
+      "title": "What the Water Keeps",
+      "description": "Explore a dreamlike boat journey. The creator credits Claude Fable 5.2, Tripo and Suno.",
+      "category": "Interactive demos",
+      "type": "demo",
+      "url": "https://what-the-water-keeps.vercel.app/",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "attribution": "Explore a dreamlike boat journey. The creator credits Claude Fable 5.2, Tripo and Suno.",
+      "playability": "browser",
+      "links": [
+        {
+          "label": "Open demo",
+          "url": "https://what-the-water-keeps.vercel.app/"
+        },
+        {
+          "label": "Creator notes",
+          "url": "https://x.com/kevin_t_ngo/status/2119868968307695818"
+        }
+      ],
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2119868394363367424/img/OARGnHXgicPmtCwd.jpg",
+      "x": [
+        {
+          "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+          "views": 512365,
+          "checkedAt": "2026-11-19",
+          "metric": "post_views"
+        }
+      ],
+      "embed": {
+        "status": "unknown",
+        "url": null,
+        "reason": "Frame playback has not been verified.",
+        "checkedAt": null
+      },
+      "whyPlay": "Watch how each world changes as your boat crosses from one dream into the next."
     }
+  ],
+  "editorsPicks": [
+    "danfo-run",
+    "saltline",
+    "sky-reach"
   ]
 }

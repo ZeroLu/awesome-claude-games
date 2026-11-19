@@ -67,6 +67,12 @@ def main():
     catalog=parse(args.catalog.read_bytes().decode("utf-8"))
     if args.metadata:
         extras=json.loads(args.metadata.read_text(encoding="utf-8"))
+        if "editorsPicks" in extras.get("_editorial", {}):
+            picks = extras["_editorial"]["editorsPicks"]
+            ids = {g["id"] for g in catalog["games"]}
+            if not isinstance(picks, list) or any(not isinstance(gid, str) or gid not in ids for gid in picks) or len(set(picks)) != len(picks):
+                raise ValueError("Invalid or duplicate editor's pick identifier")
+            catalog["editorsPicks"] = picks
         for g in catalog["games"]:
             for key in ("embed","image","x","recommended","whyPlay","imageSource"):
                 if key in extras.get(g["id"],{}):

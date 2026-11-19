@@ -1,4 +1,11 @@
 {
+  "_editorial": {
+    "editorsPicks": [
+      "danfo-run",
+      "saltline",
+      "sky-reach"
+    ]
+  },
   "agent-of-somebody": {
     "embed": {
       "status": "blocked",
@@ -9,7 +16,9 @@
       "finalUrl": "https://www.anchorterminal.com/games/agent-of-somebody/",
       "xFrameOptions": "SAMEORIGIN"
     },
-    "whyPlay": "Skip the buildup and go straight to boss fights where picking a path through the barrage is half the battle."
+    "whyPlay": "Skip the buildup and go straight to boss fights where picking a path through the barrage is half the battle.",
+    "image": null,
+    "x": []
   },
   "aiden-s-revenge": {
     "embed": {
@@ -21,7 +30,8 @@
       "finalUrl": "https://aidens-revenge.pages.dev/"
     },
     "image": "https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg",
-    "whyPlay": "Grab a couch co-op partner and see how a kid's own game sketches translate into a pixel-art brawl."
+    "whyPlay": "Grab a couch co-op partner and see how a kid's own game sketches translate into a pixel-art brawl.",
+    "x": []
   },
   "alias-in-space-no-one-can-hear-you-meow": {
     "embed": {
@@ -36,7 +46,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA5MTkxNy8zMDQ4NTgwOS5wbmc=/original/as%2BbFt.png",
-    "whyPlay": "Sneaking through space is a more amusing proposition when the operative you're trying to keep out of sight is a cat."
+    "whyPlay": "Sneaking through space is a more amusing proposition when the operative you're trying to keep out of sight is a cat.",
+    "x": []
   },
   "all-you-mean-to-me": {
     "embed": {
@@ -51,7 +62,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI4OTM5OS8zMTc3MDc0My5naWY=/original/FlKfx9.gif",
-    "whyPlay": "Play as the one thing a forbidding museum is least equipped to contain: a wet brushstroke on the loose."
+    "whyPlay": "Play as the one thing a forbidding museum is least equipped to contain: a wet brushstroke on the loose.",
+    "x": []
   },
   "bayun": {
     "embed": {
@@ -66,7 +78,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA4OTY1Ny8zMDY1MDA4OS5wbmc=/original/JrR9e6.png",
-    "whyPlay": "Climb toward a storytelling cat from folklore, with riddles to untangle on the way up."
+    "whyPlay": "Climb toward a storytelling cat from folklore, with riddles to untangle on the way up.",
+    "x": []
   },
   "blameless": {
     "embed": {
@@ -81,7 +94,8 @@
       ]
     },
     "image": "https://raw.githubusercontent.com/Petyok/blameless/main/screenshots.jpg",
-    "whyPlay": "If you've ever been paged for an incident, there's a particular joke in sorting one out as a 3D shooter."
+    "whyPlay": "If you've ever been paged for an incident, there's a particular joke in sorting one out as a 3D shooter.",
+    "x": []
   },
   "brontide": {
     "embed": {
@@ -96,7 +110,27 @@
         "'self'"
       ]
     },
-    "whyPlay": "The payoff for exploring the underground hangar is getting behind the controls of its sixty-ton mech."
+    "whyPlay": "The payoff for exploring the underground hangar is getting behind the controls of its sixty-ton mech.",
+    "image": null,
+    "x": []
+  },
+  "castle-valley": {
+    "whyPlay": "Step inside a moving oil painting: follow a torchlit trail from purple mountains to a village below the castle.",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122010188265701376/img/gl15gu0pAPmWE-oj.jpg",
+    "x": [
+      {
+        "url": "https://x.com/__morse/status/2122013410309153042",
+        "views": 231304,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "cindervale": {
     "embed": {
@@ -111,7 +145,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1nLzMxMzU5Mzg3LnBuZw==/original/umAy%2Bk.png",
-    "whyPlay": "Try a metroidvania that makes getting around as demanding as fighting, with a grapple for the caves and curtains of bullets to dodge."
+    "whyPlay": "Try a metroidvania that makes getting around as demanding as fighting, with a grapple for the caves and curtains of bullets to dodge.",
+    "x": []
   },
   "evensong": {
     "embed": {
@@ -167,8 +202,9 @@
     "x": [
       {
         "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
-        "views": null,
-        "checkedAt": null
+        "views": 108488,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
       }
     ],
     "whyPlay": "Pick between two duelists and face your opponent at eye level instead of watching the fight from the sidelines."
@@ -186,7 +222,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI4NjU0NS8zMTgwNzEzMS5wbmc=/original/FFZMAU.png",
-    "whyPlay": "Let the images do the unnerving in a short horror story that never puts a word on screen."
+    "whyPlay": "Let the images do the unnerving in a short horror story that never puts a word on screen.",
+    "x": []
   },
   "hitofude": {
     "embed": {
@@ -220,22 +257,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI2ODgyMS8zMTYwNjE1OC5wbmc=/original/4lN%2FQc.png",
-    "whyPlay": "Keeping your torch alive gives you something to worry about besides the monsters coming at you from every side."
-  },
-  "kitty-kingdom-and-the-robot-menace": {
-    "embed": {
-      "status": "unknown",
-      "url": null,
-      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-      "checkedAt": "2026-11-19T07:12:18Z",
-      "httpStatus": 200,
-      "finalUrl": "https://dgeisert.itch.io/kitty-kingdom",
-      "frameAncestors": [
-        "'self' https://itch.io"
-      ]
-    },
-    "image": "https://img.itch.zone/aW1hZ2UvNTA5NDk4NS8zMDU5MjE2MS5naWY=/original/VMVmg0.gif",
-    "whyPlay": "Hold the line for a kingdom of cats against a threat it can't negotiate with: wave after wave of robots."
+    "whyPlay": "Keeping your torch alive gives you something to worry about besides the monsters coming at you from every side.",
+    "x": []
   },
   "kumokiri": {
     "embed": {
@@ -254,8 +277,9 @@
     "x": [
       {
         "url": "https://x.com/aniketjart/status/2121101334900617631",
-        "views": null,
-        "checkedAt": null
+        "views": 3432,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
       }
     ],
     "whyPlay": "Step into a painterly 3D samurai world if you're curious how brushwork can read in motion rather than in a still image."
@@ -273,8 +297,9 @@
     "x": [
       {
         "url": "https://x.com/loktar00/status/2120192761542615271",
-        "views": null,
-        "checkedAt": null
+        "views": 201883,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
       }
     ],
     "whyPlay": "Try it for the mood: the 3D fantasy world is as much a reason to keep moving as the fights along the way."
@@ -292,7 +317,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI5OTk3My8zMTgyNDAwNy5wbmc=/794x1000/Eb3Jr%2F.png",
-    "whyPlay": "Zombies are only half the problem; the other half is deciding what to upgrade and when to get behind the wheel."
+    "whyPlay": "Zombies are only half the problem; the other half is deciding what to upgrade and when to get behind the wheel.",
+    "x": []
   },
   "lumina-zombies": {
     "embed": {
@@ -324,7 +350,8 @@
       "finalUrl": "https://op7418.github.io/guizang-game-skill/"
     },
     "image": "https://raw.githubusercontent.com/op7418/guizang-game-skill/main/media/shot_combo.jpg",
-    "whyPlay": "Open the Chinese-language demo to see what a reusable game-making skill looks like as a playable project, not just a prompt."
+    "whyPlay": "Open the Chinese-language demo to see what a reusable game-making skill looks like as a playable project, not just a prompt.",
+    "x": []
   },
   "number": {
     "embed": {
@@ -339,7 +366,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTM1MTQ2Ny8zMjI4Mzc3OS5wbmc=/794x1000/R3u8Mt.png",
-    "whyPlay": "The challenge is keeping a running count while the game is asking you to act, not simply recognizing a number."
+    "whyPlay": "The challenge is keeping a running count while the game is asking you to act, not simply recognizing a number.",
+    "x": []
   },
   "out-of-frame": {
     "embed": {
@@ -354,7 +382,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI5NDQ4My8zMTc3OTU2OC5wbmc=/original/yOj7e2.png",
-    "whyPlay": "Step through the frames of three famous paintings and get to know their compositions by putting them back in order."
+    "whyPlay": "Step through the frames of three famous paintings and get to know their compositions by putting them back in order.",
+    "x": []
   },
   "paper-moon": {
     "embed": {
@@ -369,7 +398,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE0MDg5MS8zMDc3OTU1OS5wbmc=/794x1000/gmEBRL.png",
-    "whyPlay": "Roll a little paper character through the night and see how much 3D atmosphere can fit inside a single file."
+    "whyPlay": "Roll a little paper character through the night and see how much 3D atmosphere can fit inside a single file.",
+    "x": []
   },
   "raccoon-heist": {
     "embed": {
@@ -381,7 +411,8 @@
       "finalUrl": "https://simonw.github.io/raccoon-heist/"
     },
     "image": "https://static.simonwillison.net/static/2026/shot-dog.png",
-    "whyPlay": "Plan your way past the guards with a crew better known for raiding bins than pulling off heists."
+    "whyPlay": "Plan your way past the guards with a crew better known for raiding bins than pulling off heists.",
+    "x": []
   },
   "saltline": {
     "embed": {
@@ -405,7 +436,8 @@
         "author": "Felix Rieseberg (@felixrieseberg) on X"
       }
     ],
-    "whyPlay": "Cutting relays gives your run through the storm-battered port a purpose beyond staying alive under robot guard."
+    "whyPlay": "Cutting relays gives your run through the storm-battered port a purpose beyond staying alive under robot guard.",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg"
   },
   "save-the-world": {
     "embed": {
@@ -461,7 +493,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE5Njc4MC8zMTEzMDQwNS5wbmc=/original/o6fIYZ.png",
-    "whyPlay": "Your aircraft design isn't just for show: take it through three shoot-'em-up missions to earn new parts for the next build."
+    "whyPlay": "Your aircraft design isn't just for show: take it through three shoot-'em-up missions to earn new parts for the next build.",
+    "x": []
   },
   "skywake": {
     "embed": {
@@ -499,7 +532,27 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI5MTIyMy8zMTg0ODIwNi5qcGc=/original/deKSOZ.jpg",
-    "whyPlay": "Duel Achilles inside the visual world of an ancient vase painting, with no dialogue to break the illusion."
+    "whyPlay": "Duel Achilles inside the visual world of an ancient vase painting, with no dialogue to break the illusion.",
+    "x": []
+  },
+  "sublevel-07": {
+    "whyPlay": "Try a three-wave FPS in a flooded substation, then inspect how one HTML file draws and scores the whole encounter.",
+    "image": "https://raw.githubusercontent.com/wquguru/fable52-fps-repro/main/docs/demo.gif",
+    "x": [
+      {
+        "url": "https://x.com/wquguru/status/2120383332722905400",
+        "views": 37342,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views",
+        "publishedAt": "2026-11-11T05:09:15.000Z"
+      }
+    ],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "sunwarden": {
     "embed": {
@@ -514,7 +567,8 @@
       ]
     },
     "image": "https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/0c4a8793-c32c-4222-b6c4-3d21db410e70.webp",
-    "whyPlay": "Explore and solve your way across a 3D world before putting down the puzzles to face the boss."
+    "whyPlay": "Explore and solve your way across a 3D world before putting down the puzzles to face the boss.",
+    "x": []
   },
   "the-waking-river": {
     "embed": {
@@ -538,6 +592,17 @@
     ],
     "whyPlay": "Take your time exploring the fantasy landscape, then consider that the browser adventure was built without a game engine."
   },
+  "three-js-quake": {
+    "whyPlay": "See how the original Quake shareware plays in a browser, then look through the open port code.",
+    "image": null,
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
+  },
   "tunas-last-archive": {
     "embed": {
       "status": "unknown",
@@ -551,7 +616,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI2ODU3MS8zMTYxMTYyOS5wbmc=/794x1000/ut7IU5.png",
-    "whyPlay": "Lead a squad with something worth bringing home: lost knowledge for the last archive you have to defend."
+    "whyPlay": "Lead a squad with something worth bringing home: lost knowledge for the last archive you have to defend.",
+    "x": []
   },
   "valle-morta": {
     "embed": {
@@ -585,7 +651,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE5NzE4MC8zMTEzMzM4Ny5qcGc=/794x1000/LPUTt%2F.jpg",
-    "whyPlay": "Try a psychological horror game that makes an ordinary trip home feel less reassuring the closer you get."
+    "whyPlay": "Try a psychological horror game that makes an ordinary trip home feel less reassuring the closer you get.",
+    "x": []
   },
   "wick": {
     "embed": {
@@ -600,7 +667,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE3ODM5Mi8zMTAxMDgwNi5qcGc=/794x1000/mu82%2FJ.jpg",
-    "whyPlay": "A candle-cat that burns through its own wax makes the next torch feel like a finish line."
+    "whyPlay": "A candle-cat that burns through its own wax makes the next torch feel like a finish line.",
+    "x": []
   },
   "wind-up-cat": {
     "embed": {
@@ -615,7 +683,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1nLzMwNTEyMzIyLnBuZw==/original/%2FCFCMU.png",
-    "whyPlay": "Break into the Vacuum Factory as a pocket-sized wind-up robot with a clear job: get the caged cats out."
+    "whyPlay": "Break into the Vacuum Factory as a pocket-sized wind-up robot with a clear job: get the caged cats out.",
+    "x": []
   },
   "wontfix": {
     "embed": {
@@ -626,7 +695,20 @@
       "httpStatus": 206,
       "finalUrl": "https://wontfix-game.netlify.app/"
     },
-    "whyPlay": "If a project-management board already makes you uneasy, step into a horror story that takes that feeling literally."
+    "whyPlay": "If a project-management board already makes you uneasy, step into a horror story that takes that feeling literally.",
+    "image": null,
+    "x": []
+  },
+  "38-0-0": {
+    "whyPlay": "Try to draft a Premier League XI that can win all 38 matches with no draws or losses.",
+    "image": "https://38-0-0.com/og.jpg?v=2",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "4096-torch": {
     "embed": {
@@ -641,7 +723,19 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI2NjA0MS8zMTU4Nzg4MS5wbmc=/original/SFiQxA.png",
-    "whyPlay": "Turn matching ghosts into fuel for your torch while steering clear of the numbers too big to take on."
+    "whyPlay": "Turn matching ghosts into fuel for your torch while steering clear of the numbers too big to take on.",
+    "x": []
+  },
+  "a-game-about-capybaras-delivering-food": {
+    "whyPlay": "The tower of groceries wobbles as you drift through town, so going faster can cost you the delivery.",
+    "image": "https://capybara-vibejam26.leocoout.dev/images/capybara_thumbnail.png?v=1",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "banana-mine-rush": {
     "embed": {
@@ -656,8 +750,9 @@
     "x": [
       {
         "url": "https://x.com/0xChuckstock/status/2120125184606658728",
-        "views": null,
-        "checkedAt": null
+        "views": 10259,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
       }
     ],
     "whyPlay": "Race karts through a 3D mine with friends or go after a place on the leaderboard yourself."
@@ -672,7 +767,9 @@
       "finalUrl": "https://vinish.dev/crust-courier",
       "xFrameOptions": "SAMEORIGIN"
     },
-    "whyPlay": "Put the pizza on a motorbike and see what happens when a delivery shift becomes a time trial."
+    "whyPlay": "Put the pizza on a motorbike and see what happens when a delivery shift becomes a time trial.",
+    "image": null,
+    "x": []
   },
   "dorbaaz": {
     "embed": {
@@ -684,7 +781,9 @@
       "finalUrl": "https://vinish.dev/dorbaaz-kite-fighting-browser-based-game",
       "xFrameOptions": "SAMEORIGIN"
     },
-    "whyPlay": "Use your kite string as both leash and blade as you cross and cut rivals above the city rooftops."
+    "whyPlay": "Use your kite string as both leash and blade as you cross and cut rivals above the city rooftops.",
+    "image": null,
+    "x": []
   },
   "fall-line": {
     "embed": {
@@ -721,7 +820,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI5MTcxMy8zMjQyODQ5My5naWY=/original/mfbkXo.gif",
-    "whyPlay": "Every word is a shot in this pirate roguelite, so your typing is what keeps the cannons firing."
+    "whyPlay": "Every word is a shot in this pirate roguelite, so your typing is what keeps the cannons firing.",
+    "x": []
   },
   "lightkeeper": {
     "embed": {
@@ -736,7 +836,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI2NTA2My8zMTU4MTczOS5wbmc=/original/ZCdp2E.png",
-    "whyPlay": "Read the stormy water from the shore and use your lighthouse beam to steer ships clear of the rocks."
+    "whyPlay": "Read the stormy water from the shore and use your lighthouse beam to steer ships clear of the rocks.",
+    "x": []
   },
   "penguin-path": {
     "embed": {
@@ -748,7 +849,9 @@
       "finalUrl": "https://vinish.dev/penguin-path-game-online",
       "xFrameOptions": "SAMEORIGIN"
     },
-    "whyPlay": "Pick a route across the ice one hop at a time while watching for Arctic hazards."
+    "whyPlay": "Pick a route across the ice one hop at a time while watching for Arctic hazards.",
+    "image": "https://vinish.dev/wp-content/uploads/2026/07/penguin-path-game-online.webp",
+    "x": []
   },
   "penguin-smack": {
     "embed": {
@@ -760,7 +863,8 @@
       "finalUrl": "https://penguinsmack.pages.dev/"
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE1MzQ4NS8zMTA5MjA0Ni5qcGc=/794x1000/0uaX%2Bx.jpg",
-    "whyPlay": "Take a quick detour into 3D arcade silliness if you miss the old Yetisports style of minigame."
+    "whyPlay": "Take a quick detour into 3D arcade silliness if you miss the old Yetisports style of minigame.",
+    "x": []
   },
   "pumpkin-panic": {
     "embed": {
@@ -775,7 +879,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIyODg5NS8zMTM0MjA2MS5wbmc=/347x500/AvGVIA.png",
-    "whyPlay": "See how many treats you can catch in sixty seconds without letting a skull into the cauldron."
+    "whyPlay": "See how many treats you can catch in sixty seconds without letting a skull into the cauldron.",
+    "x": []
   },
   "rift-run": {
     "embed": {
@@ -786,7 +891,9 @@
       "httpStatus": 206,
       "finalUrl": "https://riftrungame.com/"
     },
-    "whyPlay": "Give your reflexes both jobs at once: dodge what the scroll sends your way and shoot what you can't fly around."
+    "whyPlay": "Give your reflexes both jobs at once: dodge what the scroll sends your way and shoot what you can't fly around.",
+    "image": null,
+    "x": []
   },
   "rooftop-rally": {
     "embed": {
@@ -824,7 +931,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA5NTgxMy8zMDYxMzAwOC5wbmc=/original/wcv4m0.png",
-    "whyPlay": "The pleasure is in the reveal: scratch away the image of a house until the scene hidden underneath comes into view."
+    "whyPlay": "The pleasure is in the reveal: scratch away the image of a house until the scene hidden underneath comes into view.",
+    "x": []
   },
   "skull-jam": {
     "embed": {
@@ -835,7 +943,9 @@
       "httpStatus": 206,
       "finalUrl": "https://skulljam.com/"
     },
-    "whyPlay": "Try the physics duel solo first, then bring a second player to see what changes when another person is making the same calculations."
+    "whyPlay": "Try the physics duel solo first, then bring a second player to see what changes when another person is making the same calculations.",
+    "image": null,
+    "x": []
   },
   "solstice-racing": {
     "embed": {
@@ -911,7 +1021,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIwOTc0OS8zMTIxNTAyNC5wbmc=/794x1000/QcncjW.png",
-    "whyPlay": "Play if you like territory games where one daring loop can claim a chunk of the map or leave your trail open to a cut."
+    "whyPlay": "Play if you like territory games where one daring loop can claim a chunk of the map or leave your trail open to a cut.",
+    "x": []
   },
   "typissimo": {
     "embed": {
@@ -922,7 +1033,9 @@
       "httpStatus": 206,
       "finalUrl": "https://typissimo.com/"
     },
-    "whyPlay": "Try a round if you like rhythm games: accurate typing adds notes and drums, so the soundtrack changes as you play."
+    "whyPlay": "Try a round if you like rhythm games: accurate typing adds notes and drums, so the soundtrack changes as you play.",
+    "image": null,
+    "x": []
   },
   "uno-com-escada": {
     "embed": {
@@ -960,7 +1073,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTMwNzgwNy8zMTg4MDI2Ny5wbmc=/original/SuDX19.png",
-    "whyPlay": "Pick this for a stealth game with an unusually charming setting: a museum full of cat paintings."
+    "whyPlay": "Pick this for a stealth game with an unusually charming setting: a museum full of cat paintings.",
+    "x": []
   },
   "castling-rights": {
     "embed": {
@@ -975,7 +1089,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA3NjEwMC8zMDM4NTg3MC5wbmc=/794x1000/O5KNrN.png",
-    "whyPlay": "Try it if you enjoy chess puzzles that build a whole challenge around one easily overlooked rule."
+    "whyPlay": "Try it if you enjoy chess puzzles that build a whole challenge around one easily overlooked rule.",
+    "x": []
   },
   "coalheart": {
     "embed": {
@@ -990,7 +1105,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIxMzcxNS8zMTI0MjMzMC5wbmc=/original/xZAKDQ.png",
-    "whyPlay": "Play for a puzzle where fire is scarce and getting a small creature through a temple means making that supply last."
+    "whyPlay": "Play for a puzzle where fire is scarce and getting a small creature through a temple means making that supply last.",
+    "x": []
   },
   "crosstographer": {
     "embed": {
@@ -1005,7 +1121,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA2NTU3Ny8zMDM0NjQzMS5wbmc=/794x1000/3bgFpV.png",
-    "whyPlay": "Pick this if you like both exploration and wordplay: the crossword is hidden in the layout of a starship."
+    "whyPlay": "Pick this if you like both exploration and wordplay: the crossword is hidden in the layout of a starship.",
+    "x": []
   },
   "dawnlings": {
     "embed": {
@@ -1032,20 +1149,16 @@
     ],
     "whyPlay": "Try it for the tactile challenge of tilting a 3D valley and rolling its tiny inhabitants to safety."
   },
-  "eko": {
+  "geosports": {
+    "whyPlay": "A five-clue daily round turns sports trivia into a map challenge you can finish in about a minute.",
+    "image": null,
+    "x": [],
     "embed": {
       "status": "unknown",
       "url": null,
-      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-      "checkedAt": "2026-11-19T07:12:28Z",
-      "httpStatus": 200,
-      "finalUrl": "https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine",
-      "frameAncestors": [
-        "'self' https://itch.io"
-      ]
-    },
-    "image": "https://img.itch.zone/aW1hZ2UvNTM4MDE4OS8zMjQyMjA0My5wbmc=/794x1000/FiIhhv.png",
-    "whyPlay": "Play if you like puzzles that make your own past attempts part of the solution."
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "grandma-s-tech-support": {
     "embed": {
@@ -1060,7 +1173,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE5NzE2Ni8zMTEzMjQwMy5wbmc=/794x1000/Y6lGhp.png",
-    "whyPlay": "Choose this when you want a short puzzle session with the comedy of taking questionable tech instructions from Grandma."
+    "whyPlay": "Choose this when you want a short puzzle session with the comedy of taking questionable tech instructions from Grandma.",
+    "x": []
   },
   "i-would-have-gotten-away-with-it": {
     "embed": {
@@ -1097,7 +1211,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTEwMDc3MS8zMDY3OTA0MS5wbmc=/original/YyviqE.png",
-    "whyPlay": "Try it for an indirect-control puzzle where you point a laser and let a cat decide how to follow it."
+    "whyPlay": "Try it for an indirect-control puzzle where you point a laser and let a cat decide how to follow it.",
+    "x": []
   },
   "meowcha": {
     "embed": {
@@ -1112,7 +1227,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTEyMDE2MC8zMDY1OTcwNC5wbmc=/794x1000/G%2BVHo5.png",
-    "whyPlay": "Play on a keyboard for the unlikely pairing of a cat-piloted mech and a puzzle platformer."
+    "whyPlay": "Play on a keyboard for the unlikely pairing of a cat-piloted mech and a puzzle platformer.",
+    "x": []
   },
   "mule": {
     "embed": {
@@ -1127,7 +1243,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIwODk4Ny8zMTI4NjEzNi5naWY=/original/S%2Bkpti.gif",
-    "whyPlay": "Try it if you want match-three decisions to carry consequences beyond the score, from crafting supplies to surviving a fight."
+    "whyPlay": "Try it if you want match-three decisions to carry consequences beyond the score, from crafting supplies to surviving a fight.",
+    "x": []
   },
   "patchwork60": {
     "embed": {
@@ -1142,7 +1259,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI4MzA1Mi8zMTcwMzA3NC5wbmc=/original/RNZycu.png",
-    "whyPlay": "Play for a visual puzzle that turns recognizing pieces of a painting into a one-minute sprint."
+    "whyPlay": "Play for a visual puzzle that turns recognizing pieces of a painting into a one-minute sprint.",
+    "x": []
   },
   "silly-kitty": {
     "embed": {
@@ -1157,7 +1275,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA5Mzg5NS8zMDU0MzE3Ni5wbmc=/original/3IgUw1.png",
-    "whyPlay": "Choose this for the gentle comedy of steering a robot that has to coax, rather than control, a distractible cat."
+    "whyPlay": "Choose this for the gentle comedy of steering a robot that has to coax, rather than control, a distractible cat.",
+    "x": []
   },
   "snip": {
     "embed": {
@@ -1172,7 +1291,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIxMzA5My8zMTI0MDQ0My5wbmc=/original/YdmcLE.png",
-    "whyPlay": "Try it if you enjoyed cutting paper snowflakes: every fold changes where a single snip will appear in the finished pattern."
+    "whyPlay": "Try it if you enjoyed cutting paper snowflakes: every fold changes where a single snip will appear in the finished pattern.",
+    "x": []
   },
   "tally-light": {
     "embed": {
@@ -1187,7 +1307,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTM3Njg1My8zMjM1NTkwMy5wbmc=/794x1000/hVXNbT.png",
-    "whyPlay": "Play if you want the challenge of making a good cut in real time instead of directly controlling the on-screen action."
+    "whyPlay": "Play if you want the challenge of making a good cut in real time instead of directly controlling the on-screen action.",
+    "x": []
   },
   "tumblebuds-the-journey-home": {
     "embed": {
@@ -1198,7 +1319,20 @@
       "httpStatus": 206,
       "finalUrl": "https://johnnyffm.github.io/tumblebuds/"
     },
-    "whyPlay": "Pick this for a 3D puzzle adventure where the goal is to shepherd little creatures rather than defeat them."
+    "whyPlay": "Pick this for a 3D puzzle adventure where the goal is to shepherd little creatures rather than defeat them.",
+    "image": null,
+    "x": []
+  },
+  "ares-outpost": {
+    "whyPlay": "There are no fixed lanes: experiment with layouts and upgrades instead of just filling predetermined tower slots.",
+    "image": "https://img.itch.zone/aW1hZ2UvNDg0MDQ2My8yOTYwMDcwMC5qcGc=/794x1000/lQ62Xe.jpg",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "argon-dominates": {
     "embed": {
@@ -1213,7 +1347,19 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI1Nzk3Mi8zMTUzMzQ4My5wbmc=/794x1000/FyZzAY.png",
-    "whyPlay": "Try it for the unusual pleasure of steering a cloud that grows by absorbing other noble gases."
+    "whyPlay": "Try it for the unusual pleasure of steering a cloud that grows by absorbing other noble gases.",
+    "x": []
+  },
+  "arrr": {
+    "whyPlay": "Plot a course between procedural islands and see what happens when other pirates find the same waters.",
+    "image": null,
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "battle-drones": {
     "embed": {
@@ -1225,7 +1371,8 @@
       "finalUrl": "https://simonw.github.io/battledrones/"
     },
     "image": "https://static.simonwillison.net/static/2026/battledrones-v8.jpg",
-    "whyPlay": "Pick this when you want tactical decisions in a real-time strategy match without installing anything."
+    "whyPlay": "Pick this when you want tactical decisions in a real-time strategy match without installing anything.",
+    "x": []
   },
   "cerebronline": {
     "embed": {
@@ -1240,22 +1387,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTM0ODQxMC8zMjM2MTQ5Ni5wbmc=/794x1000/bwDRss.png",
-    "whyPlay": "Try it if you are curious what a browser RPG made for an Epic game jam looks like beyond a short tech demo."
-  },
-  "chokepoint": {
-    "embed": {
-      "status": "unknown",
-      "url": null,
-      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-      "checkedAt": "2026-11-19T07:12:31Z",
-      "httpStatus": 200,
-      "finalUrl": "https://umutcanekinci.itch.io/chokepoint",
-      "frameAncestors": [
-        "'self' https://itch.io"
-      ]
-    },
-    "image": "https://img.itch.zone/aW1hZ2UvNDc0NDIzMi8zMjA3OTM5NC5wbmc=/794x1000/GFHTzD.png",
-    "whyPlay": "Play for a clear tower-defense challenge with 25 rounds to beat and an endless mode when you want a longer test."
+    "whyPlay": "Try it if you are curious what a browser RPG made for an Epic game jam looks like beyond a short tech demo.",
+    "x": []
   },
   "clanbound": {
     "embed": {
@@ -1270,7 +1403,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTAyMzM2Ny8zMDExNzA2Mi5qcGc=/794x1000/btPFvt.jpg",
-    "whyPlay": "Choose this if you like deckbuilders where where you place a creature matters as much as which card you draw."
+    "whyPlay": "Choose this if you like deckbuilders where where you place a creature matters as much as which card you draw.",
+    "x": []
   },
   "conga-crawl": {
     "embed": {
@@ -1285,7 +1419,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTM2NjA4Ny8zMjI4NjAzMy5wbmc=/347x500/ZqloQ%2F.png",
-    "whyPlay": "Try it for a dungeon crawl where steering the entire marching line is the challenge."
+    "whyPlay": "Try it for a dungeon crawl where steering the entire marching line is the challenge.",
+    "x": []
   },
   "dark-pattern": {
     "embed": {
@@ -1296,7 +1431,9 @@
       "httpStatus": 200,
       "finalUrl": "https://darkpattern.diamonddoge.org/"
     },
-    "whyPlay": "Play if you enjoy chasing a clever poker-like combo and then building around it with loot and a deep progression tree."
+    "whyPlay": "Play if you enjoy chasing a clever poker-like combo and then building around it with loot and a deep progression tree.",
+    "image": null,
+    "x": []
   },
   "dread-district": {
     "embed": {
@@ -1311,8 +1448,9 @@
     "x": [
       {
         "url": "https://x.com/emollick/status/2120248525254742318",
-        "views": null,
-        "checkedAt": null
+        "views": 30692,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
       }
     ],
     "whyPlay": "Pick this if the part of fantasy games you enjoy most is keeping an operation moving through dangerous territory."
@@ -1330,22 +1468,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTM0NDMwNy8zMjE1MTQyMy5wbmc=/794x1000/E8TFue.png",
-    "whyPlay": "Try it for a castle defense game that asks you to turn a lucky number and uncertain dice into a plan."
-  },
-  "minimal-rogue": {
-    "embed": {
-      "status": "unknown",
-      "url": null,
-      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-      "checkedAt": "2026-11-19T07:12:32Z",
-      "httpStatus": 200,
-      "finalUrl": "https://hirotaka-adachi.itch.io/minimal-rogue",
-      "frameAncestors": [
-        "'self' https://itch.io"
-      ]
-    },
-    "image": "https://img.itch.zone/aW1hZ2UvNDYxODM5OS8yNzUxNzc0MS5wbmc=/794x1000/%2BxVVO7.png",
-    "whyPlay": "Pick this for a retro dungeon RPG that lets you choose between English and Japanese."
+    "whyPlay": "Try it for a castle defense game that asks you to turn a lucky number and uncertain dice into a plan.",
+    "x": []
   },
   "othello-variants": {
     "embed": {
@@ -1360,7 +1484,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIwNTcxOS8zMTE4ODI5Mi5wbmc=/original/SH2ucv.png",
-    "whyPlay": "Play if you know classic Othello and want to see how seven variations change familiar board positions."
+    "whyPlay": "Play if you know classic Othello and want to see how seven variations change familiar board positions.",
+    "x": []
   },
   "placebound": {
     "embed": {
@@ -1372,7 +1497,19 @@
       "finalUrl": "https://placebound.dariuszparys.com/"
     },
     "image": "https://www.dariuszparys.com/_astro/board.CGN6NWaU_Z1eKmIN.webp",
-    "whyPlay": "Bring a second player if you want a desktop strategy game where planning breaks into real-time clashes."
+    "whyPlay": "Bring a second player if you want a desktop strategy game where planning breaks into real-time clashes.",
+    "x": []
+  },
+  "pyramid-wars-demo": {
+    "whyPlay": "Build the factories that spawn your tanks, then jump into the fight by clicking enemies and casting ability cards.",
+    "image": "https://img.itch.zone/aW1nLzI4MTA2NDg4LnBuZw==/original/%2BwABwV.png",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "two-castles": {
     "embed": {
@@ -1387,7 +1524,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA3MzE5OC8zMDM3NTQ5OS5naWY=/original/rKa3AZ.gif",
-    "whyPlay": "Choose this for the essentials of siege strategy in short matches: build pressure and bring down the other castle."
+    "whyPlay": "Choose this for the essentials of siege strategy in short matches: build pressure and bring down the other castle.",
+    "x": []
   },
   "valsera": {
     "embed": {
@@ -1408,6 +1546,28 @@
     ],
     "whyPlay": "Try it for a side-scrolling fantasy RPG with a visual twist: the game draws its world in code."
   },
+  "world-of-claudecraft": {
+    "whyPlay": "A browser MMO with distinct classes and group dungeons, rather than a single combat demo.",
+    "image": "https://levystreet.com/img/woc-dungeon-1200-76184c1c.webp",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
+  },
+  "1-in-8-billion": {
+    "whyPlay": "Start with a family and birthplace you didn’t choose and see how the choices available to you change.",
+    "image": "https://1in8b.life/og-en.png",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
+  },
   "cinderscoop": {
     "embed": {
       "status": "blocked",
@@ -1418,7 +1578,9 @@
       "finalUrl": "https://vinish.dev/cinderscoop-firefighting-plane-browser-based-game",
       "xFrameOptions": "SAMEORIGIN"
     },
-    "whyPlay": "Play for the satisfying loop of skimming up lake water and returning to drop it on a growing wildfire."
+    "whyPlay": "Play for the satisfying loop of skimming up lake water and returning to drop it on a growing wildfire.",
+    "image": null,
+    "x": []
   },
   "cozy-cat-cooking-cafe": {
     "embed": {
@@ -1433,7 +1595,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTEwOTU0NC8zMDU4OTkzNS5wbmc=/original/Th6RKr.png",
-    "whyPlay": "Choose this if running a food truck with a cat and a robot sounds like a better break than another boss battle."
+    "whyPlay": "Choose this if running a food truck with a cat and a robot sounds like a better break than another boss battle.",
+    "x": []
   },
   "dustfall": {
     "embed": {
@@ -1445,7 +1608,8 @@
       "finalUrl": "https://dustfalls.netlify.app/"
     },
     "image": "https://raw.githubusercontent.com/webKing021/dustfall/main/docs/logo.png",
-    "whyPlay": "Try it if you want an original western that leaves room for fishing and blackjack alongside the trail and the feud."
+    "whyPlay": "Try it if you want an original western that leaves room for fishing and blackjack alongside the trail and the feud.",
+    "x": []
   },
   "falaj": {
     "embed": {
@@ -1460,7 +1624,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTM2NjA3Ny8zMjI4NDgwNS5qcGc=/794x1000/FT2tY5.jpg",
-    "whyPlay": "Pick this for a 3D oasis where restoring and sharing water matters more than expanding the map."
+    "whyPlay": "Pick this for a 3D oasis where restoring and sharing water matters more than expanding the map.",
+    "x": []
   },
   "first-crush": {
     "embed": {
@@ -1495,7 +1660,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTA5MTY5OC8zMDQ4MTAwMi5wbmc=/794x1000/EwPUHH.png",
-    "whyPlay": "Play for a city builder where the interesting problem is not just what to build, but how to live with the water."
+    "whyPlay": "Play for a city builder where the interesting problem is not just what to build, but how to live with the water.",
+    "x": []
   },
   "heir-guitar": {
     "embed": {
@@ -1510,7 +1676,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI0NDk5Ny8zMTQ0OTk0My5wbmc=/original/NRaAVJ.png",
-    "whyPlay": "Choose this for the ridiculous premise of building a music career around an instrument that does not exist."
+    "whyPlay": "Choose this for the ridiculous premise of building a music career around an instrument that does not exist.",
+    "x": []
   },
   "keep-scrolling-keep-the-flame": {
     "embed": {
@@ -1525,22 +1692,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIwNTQ1Ni8zMTgzOTU0MS5wbmc=/794x1000/DZy4Lc.png",
-    "whyPlay": "Try it for the pointed tension of keeping something alive while a simulated social feed demands your attention."
-  },
-  "kiosk-days-st-martin-s-evening": {
-    "embed": {
-      "status": "unknown",
-      "url": null,
-      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
-      "checkedAt": "2026-11-19T07:12:35Z",
-      "httpStatus": 200,
-      "finalUrl": "https://kigaro-games.itch.io/kiosk-days-st-martins-evening",
-      "frameAncestors": [
-        "'self' https://itch.io"
-      ]
-    },
-    "image": "https://img.itch.zone/aW1hZ2UvNTI0NDkxNy8zMTQ0ODAyOS5wbmc=/original/4vhQFK.png",
-    "whyPlay": "Pick this for a management game with a small, tangible goal: have the kiosk ready before the lantern parade."
+    "whyPlay": "Try it for the pointed tension of keeping something alive while a simulated social feed demands your attention.",
+    "x": []
   },
   "mudlark-pottery": {
     "embed": {
@@ -1555,7 +1708,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTE5MjA2My8zMTIzNjI4NC5naWY=/original/OHVhua.gif",
-    "whyPlay": "Try it for a relaxed session of shaping an object from wet clay all the way through glazing and firing."
+    "whyPlay": "Try it for a relaxed session of shaping an object from wet clay all the way through glazing and firing.",
+    "x": []
   },
   "small-magic": {
     "embed": {
@@ -1576,6 +1730,17 @@
     ],
     "whyPlay": "Play if you like learning what a spell does by knocking things over in a physics playground."
   },
+  "the-great-refinery-run": {
+    "whyPlay": "The roughly five-minute run makes real industrial processes tangible through hands-on minigames instead of a textbook.",
+    "image": "https://fuelingcuriosity.com/social-preview.jpg",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
+  },
   "the-list-s-champion": {
     "embed": {
       "status": "unknown",
@@ -1589,7 +1754,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNDkwNjI4Mi8yOTMzMTcwOS5wbmc=/794x1000/PJR4CT.png",
-    "whyPlay": "Choose this if you want medieval competition built around the feel of balancing and lining up one good pass."
+    "whyPlay": "Choose this if you want medieval competition built around the feel of balancing and lining up one good pass.",
+    "x": []
   },
   "torchdeep": {
     "embed": {
@@ -1604,7 +1770,19 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTIyMjc1MS8zMTMwMzkwMC5wbmc=/794x1000/2%2B2MvC.png",
-    "whyPlay": "Pick this for cave exploration where managing your light is part of the challenge, not just a visual effect."
+    "whyPlay": "Pick this for cave exploration where managing your light is part of the challenge, not just a visual effect.",
+    "x": []
+  },
+  "traffic-architect": {
+    "whyPlay": "Skip zoning and construction. Let the city expand on its own and see whether your road network can keep up.",
+    "image": "https://imgs.crazygames.com/traffic-architect-tic_16x9/20261023042932/traffic-architect-tic_16x9-cover.png",
+    "x": [],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame policy not yet checked.",
+      "checkedAt": null
+    }
   },
   "tugwake": {
     "embed": {
@@ -1616,7 +1794,9 @@
       "finalUrl": "https://vinish.dev/tugwake-tugboat-browser-based-game",
       "xFrameOptions": "SAMEORIGIN"
     },
-    "whyPlay": "Try it if the precision of nudging a big ship into berth sounds more rewarding than racing one."
+    "whyPlay": "Try it if the precision of nudging a big ship into berth sounds more rewarding than racing one.",
+    "image": null,
+    "x": []
   },
   "voidstruck": {
     "embed": {
@@ -1628,7 +1808,8 @@
       "finalUrl": "https://voidstruck.com/"
     },
     "image": "https://voidstruck.com/screenshots/living-world.jpg",
-    "whyPlay": "Try it on a WebGPU-capable desktop if you want to pilot a ship through a galaxy that is generated as an open-ended setting."
+    "whyPlay": "Try it on a WebGPU-capable desktop if you want to pilot a ship through a galaxy that is generated as an open-ended setting.",
+    "x": []
   },
   "wardlight-frontier": {
     "embed": {
@@ -1643,7 +1824,8 @@
       ]
     },
     "image": "https://img.itch.zone/aW1hZ2UvNTI1MzIwOS8zMTUwMTUwMi5qcGc=/794x1000/eS4TiN.jpg",
-    "whyPlay": "Play if you like crafting where the tools you make determine which hostile biomes you can venture into."
+    "whyPlay": "Play if you like crafting where the tools you make determine which hostile biomes you can venture into.",
+    "x": []
   },
   "skyfire": {
     "embed": {
@@ -1673,7 +1855,8 @@
       "checkedAt": null
     },
     "image": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e",
-    "whyPlay": "Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo."
+    "whyPlay": "Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo.",
+    "x": []
   },
   "abyssal-garden": {
     "embed": {
@@ -1684,7 +1867,9 @@
       "httpStatus": 206,
       "finalUrl": "https://noniv.github.io/abyssal-garden/"
     },
-    "whyPlay": "Open this when you want to swim through a procedural underwater soundscape without a score to chase."
+    "whyPlay": "Open this when you want to swim through a procedural underwater soundscape without a score to chase.",
+    "image": null,
+    "x": []
   },
   "papertrails": {
     "embed": {
@@ -1702,63 +1887,151 @@
         "checkedAt": null
       }
     ],
-    "whyPlay": "Open it for the pleasure of moving through a landscape built like a pop-up paper scene."
+    "whyPlay": "Open it for the pleasure of moving through a landscape built like a pop-up paper scene.",
+    "image": "https://xikhar.github.io/papertrails/social-card.jpg"
   },
-  "geosports": {
-    "whyPlay": "A five-clue daily round turns sports trivia into a map challenge you can finish in about a minute."
-  },
-  "38-0-0": {
-    "whyPlay": "Try to draft a Premier League XI that can win all 38 matches with no draws or losses.",
-    "image": "https://38-0-0.com/og.jpg?v=2"
-  },
-  "a-game-about-capybaras-delivering-food": {
-    "whyPlay": "The tower of groceries wobbles as you drift through town, so going faster can cost you the delivery.",
-    "image": "https://capybara-vibejam26.leocoout.dev/images/capybara_thumbnail.png?v=1"
-  },
-  "world-of-claudecraft": {
-    "whyPlay": "A browser MMO with distinct classes and group dungeons, rather than a single combat demo."
-  },
-  "1-in-8-billion": {
-    "whyPlay": "Start with a family and birthplace you didn’t choose and see how the choices available to you change.",
-    "image": "https://1in8b.life/og-en.png"
-  },
-  "castle-valley": {
-    "whyPlay": "Step inside a moving oil painting: follow a torchlit trail from purple mountains to a village below the castle.",
-    "image": "https://pbs.twimg.com/amplify_video_thumb/2122010188265701376/img/gl15gu0pAPmWE-oj.jpg"
-  },
-  "traffic-architect": {
-    "whyPlay": "Skip zoning and construction. Let the city expand on its own and see whether your road network can keep up.",
-    "image": "https://imgs.crazygames.com/traffic-architect-tic_16x9/20261023042932/traffic-architect-tic_16x9-cover.png"
-  },
-  "arrr": {
-    "whyPlay": "Plot a course between procedural islands and see what happens when other pirates find the same waters."
-  },
-  "sublevel-07": {
-    "whyPlay": "Try a three-wave FPS in a flooded substation, then inspect how one HTML file draws and scores the whole encounter.",
-    "image": "https://raw.githubusercontent.com/wquguru/fable52-fps-repro/main/docs/demo.gif",
+  "danfo-run": {
+    "image": "https://danforun.com/og.jpg",
     "x": [
       {
-        "url": "https://x.com/wquguru/status/2120383332722905400",
-        "views": 37342,
+        "url": "https://x.com/eureka_seamless/status/2103938108668420286",
+        "views": 14362076,
         "checkedAt": "2026-11-19",
-        "metric": "post_views",
-        "publishedAt": "2026-11-11T05:09:15.000Z"
+        "metric": "post_views"
       }
-    ]
+    ],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame playback has not been verified.",
+      "checkedAt": null
+    },
+    "whyPlay": "Make your stops in Lagos traffic while motorcycles weave past and the bus radio plays local music."
   },
-  "ares-outpost": {
-    "whyPlay": "There are no fixed lanes: experiment with layouts and upgrades instead of just filling predetermined tower slots.",
-    "image": "https://img.itch.zone/aW1hZ2UvNDg0MDQ2My8yOTYwMDcwMC5qcGc=/794x1000/lQ62Xe.jpg"
+  "sky-reach": {
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2105420105006129152/img/X1oraoFuCSjDZC_e.jpg",
+    "x": [
+      {
+        "url": "https://x.com/Rubzem/status/2105425742100341240",
+        "views": 1998236,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The external play page does not allow cross-origin framing.",
+      "checkedAt": "2026-11-19"
+    },
+    "whyPlay": "Harpoon giant walkers by the legs, then fly straight into an orbital dogfight."
   },
-  "pyramid-wars-demo": {
-    "whyPlay": "Build the factories that spawn your tanks, then jump into the fight by clicking enemies and casting ability cards.",
-    "image": "https://img.itch.zone/aW1nLzI4MTA2NDg4LnBuZw==/original/%2BwABwV.png"
+  "tennis": {
+    "image": "https://tennis.sixfingerpunch.com/og.jpg",
+    "x": [
+      {
+        "url": "https://x.com/photonstorm/status/2120330010112434313",
+        "views": 415215,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame playback has not been verified.",
+      "checkedAt": null
+    },
+    "whyPlay": "It starts as Pong and turns into a psychedelic paddle duel, best tried with the sound on."
   },
-  "three-js-quake": {
-    "whyPlay": "See how the original Quake shareware plays in a browser, then look through the open port code."
+  "getting-there": {
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122012845512744960/img/bkZQfV-qoBFjDMzz.jpg",
+    "x": [
+      {
+        "url": "https://x.com/Rubzem/status/2122013352755126431",
+        "views": 154864,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The external play page does not allow cross-origin framing.",
+      "checkedAt": "2026-11-19"
+    },
+    "whyPlay": "Travel with Moss by canoe and hot-air balloon through fourteen chapters without a timer or fail state."
   },
-  "the-great-refinery-run": {
-    "whyPlay": "The roughly five-minute run makes real industrial processes tangible through hands-on minigames instead of a textbook.",
-    "image": "https://fuelingcuriosity.com/social-preview.jpg"
+  "vice-86": {
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122338376271687680/img/MlUAJpFXv-M_6NY2.jpg",
+    "x": [
+      {
+        "url": "https://x.com/AravSrinivas/status/2122338465648103676",
+        "views": 84089,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The external play page does not allow cross-origin framing.",
+      "checkedAt": "2026-11-19"
+    },
+    "whyPlay": "Take a midnight drive through rain-slick streets in a neon city rendered from code."
+  },
+  "petalwake": {
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119986949620658176/img/goIGmQtakymRjq2K.jpg",
+    "x": [
+      {
+        "url": "https://x.com/pwnies/status/2119987174884143348",
+        "views": 33046,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame playback has not been verified.",
+      "checkedAt": null
+    },
+    "whyPlay": "Catch gusts and bank a broom between coastal towns, then land to deliver a parcel."
+  },
+  "understory": {
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2107504125336535040/img/FVuSUtIYocFjVkmM.jpg",
+    "x": [
+      {
+        "url": "https://x.com/DannyLimanseta/status/2107505970809336071",
+        "views": 27145,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The external play page does not allow cross-origin framing.",
+      "checkedAt": "2026-11-19"
+    },
+    "whyPlay": "Plant light to make bridges and traps, then outthink five guardians to bring the seasons back."
+  },
+  "what-the-water-keeps": {
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119868394363367424/img/OARGnHXgicPmtCwd.jpg",
+    "x": [
+      {
+        "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+        "views": 512365,
+        "checkedAt": "2026-11-19",
+        "metric": "post_views"
+      }
+    ],
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "Frame playback has not been verified.",
+      "checkedAt": null
+    },
+    "whyPlay": "Watch how each world changes as your boat crosses from one dream into the next."
   }
 }
