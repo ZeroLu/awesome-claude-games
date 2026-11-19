@@ -2,11 +2,11 @@
 
 > **Claude AI games you can play right now.** Play in your browser, then see how the creators built them.
 
-**104 browser games**, plus [2 local builds](#local-builds) and [2 interactive demos](#interactive-demos). Every game links to a creator's build note, repository, or firsthand account of Claude's role.
+**117 browser games**, plus [2 local builds](#local-builds) and [2 interactive demos](#interactive-demos). Every game links to a creator's build note, repository, or firsthand account of Claude's role.
 
 ## Jump to a genre
 
-[Action & adventure](#action--adventure-38) · [Arcade, racing & sports](#arcade-racing--sports-20) · [Puzzle & narrative](#puzzle--narrative-16) · [RPG & strategy](#rpg--strategy-14) · [Simulation & sandbox](#simulation--sandbox-16)
+[Action & adventure](#action--adventure-41) · [Arcade, racing & sports](#arcade-racing--sports-22) · [Puzzle & narrative](#puzzle--narrative-17) · [RPG & strategy](#rpg--strategy-18) · [Simulation & sandbox](#simulation--sandbox-19)
 
 [Browse on PlayForge](https://playforge-arcade.xiongying95.chatgpt.site/#catalog) · [Full directory](CATALOG.md) · [Local builds](#local-builds) · [Interactive demos](#interactive-demos) · [Submit a game](CONTRIBUTING.md)
 
@@ -21,26 +21,28 @@ These are editorial picks across different genres and play styles, not a popular
 - [**Mudlark Pottery**](#game-mudlark-pottery): Make pottery in a relaxed studio.
 - [**Out of Frame**](#game-out-of-frame): Step into three paintings rendered in different styles.
 
+**New additions:** [GeoSports](#game-geosports) · [38-0-0](#game-38-0-0) · [A Game About Capybaras Delivering Food](#game-a-game-about-capybaras-delivering-food)
+
 <details>
 <summary><strong>Browse games with widely viewed X posts</strong></summary>
 
-The three highest-viewed posts among **seven browser games with verified X counts** in this snapshot. These are post views, not player counts, and they do not determine the directory order.
+The three highest-viewed posts among **8 browser games with verified X counts** in this snapshot. These are post views, not player counts, and they do not determine the directory order.
 
-- [Saltline](#game-saltline) · [4,465,009 X post views](https://x.com/felixrieseberg/status/2119925633564463609)
-- [Starry Nightrider](#game-starry-nightrider) · [1,980,333 X post views](https://x.com/ebbyamir/status/2120284261089673376)
-- [Evensong](#game-evensong) · [487,066 X post views](https://x.com/kevin_t_ngo/status/2120238844754923874)
-
-Checked November 19, 2026 (UTC).
+- [Saltline](#game-saltline) · [4,465,009 X post views](https://x.com/felixrieseberg/status/2119925633564463609) (checked 2026-11-19 UTC)
+- [Starry Nightrider](#game-starry-nightrider) · [1,980,333 X post views](https://x.com/ebbyamir/status/2120284261089673376) (checked 2026-11-19 UTC)
+- [Evensong](#game-evensong) · [487,066 X post views](https://x.com/kevin_t_ngo/status/2120238844754923874) (checked 2026-11-19 UTC)
 
 </details>
 
 Click a screenshot to play. Open **Gameplay & creator source** for a description and build notes. Games without a creator screenshot show a play link only. Some games need a desktop keyboard or a modern browser.
 
-## Action & adventure (38)
+## Action & adventure (41)
 
 <a name="game-agent-of-somebody"></a>
 
 ### Agent of Somebody
+
+**Why play:** Skip the buildup and go straight to boss fights where picking a path through the barrage is half the battle.
 
 [**Play in browser**](https://www.anchorterminal.com/games/agent-of-somebody/)
 
@@ -59,6 +61,8 @@ Fable 5.2. [Creator source](https://www.reddit.com/r/accelerate/comments/1xtjrsp
 
 ### Aiden's Revenge
 
+**Why play:** Grab a couch co-op partner and see how a kid's own game sketches translate into a pixel-art brawl.
+
 [**Play in browser**](https://aidens-revenge.pages.dev/)
 
 <details>
@@ -75,6 +79,8 @@ Fable 5.2 for code; OpenAI Images and ElevenLabs for assets. [Creator source](ht
 <p><a href="https://soupsarah.itch.io/alias"><img src="https://img.itch.zone/aW1hZ2UvNTA5MTkxNy8zMDQ4NTgwOS5wbmc=/original/as%2BbFt.png" width="720" alt="ALIAS: In Space No-One Can Hear You Meow screenshot"></a></p>
 
 ### ALIAS: In Space No-One Can Hear You Meow
+
+**Why play:** Sneaking through space is a more amusing proposition when the operative you're trying to keep out of sight is a cat.
 
 [**Play in browser**](https://soupsarah.itch.io/alias)
 
@@ -93,6 +99,8 @@ The creator credits Claude for programming, with Gemini and Copilot also involve
 
 ### all you mean to me
 
+**Why play:** Play as the one thing a forbidding museum is least equipped to contain: a wet brushstroke on the loose.
+
 [**Play in browser**](https://woflo.itch.io/all-you-mean-to-me)
 
 <details>
@@ -109,6 +117,8 @@ Claude Opus 5.5 implemented most gameplay code, shaders, geometry and tests. [Cr
 <p><a href="https://atlas-house.itch.io/bayun"><img src="https://img.itch.zone/aW1hZ2UvNTA4OTY1Ny8zMDY1MDA4OS5wbmc=/original/JrR9e6.png" width="720" alt="Bayun screenshot"></a></p>
 
 ### Bayun
+
+**Why play:** Climb toward a storytelling cat from folklore, with riddles to untangle on the way up.
 
 [**Play in browser**](https://atlas-house.itch.io/bayun)
 
@@ -127,6 +137,8 @@ Claude Opus 5.5 wrote the Godot game and contributed character and art pipelines
 
 ### BLAMELESS
 
+**Why play:** If you've ever been paged for an incident, there's a particular joke in sorting one out as a 3D shooter.
+
 [**Play in browser**](https://blameless.petruha.ge/)
 
 <details>
@@ -142,6 +154,8 @@ Fable 5.2; original prompt in the project repository. [Creator source](https://g
 
 ### Brontide
 
+**Why play:** The payoff for exploring the underground hangar is getting behind the controls of its sixty-ton mech.
+
 [**Play in browser**](https://brontide.live/)
 
 <details>
@@ -153,11 +167,32 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 </details>
 
+<a name="game-castle-valley"></a>
+
+<p><a href="https://omw-game.kimaki.dev"><img src="https://pbs.twimg.com/amplify_video_thumb/2122010188265701376/img/gl15gu0pAPmWE-oj.jpg" width="720" alt="Castle Valley screenshot"></a></p>
+
+### Castle Valley
+
+**Why play:** Step inside a moving oil painting: follow a torchlit trail from purple mountains to a village below the castle.
+
+[**Play in browser**](https://omw-game.kimaki.dev)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Walk from a dark forest to a mountain castle, torch and sword in hand, fighting goblins and trolls.
+
+Tommy D. Rossi credits Claude Fable 5.2 for the playable adaptation of Desimulate’s original “omw” pixel-art scene. [Creator source](https://x.com/__morse/status/2122013410309153042) · [Project repository](https://github.com/remorses/castle-valley)
+
+</details>
+
 <a name="game-cindervale"></a>
 
 <p><a href="https://mistercoconut.itch.io/cindervale"><img src="https://img.itch.zone/aW1nLzMxMzU5Mzg3LnBuZw==/original/umAy%2Bk.png" width="720" alt="Cindervale screenshot"></a></p>
 
 ### Cindervale
+
+**Why play:** Try a metroidvania that makes getting around as demanding as fighting, with a grapple for the caves and curtains of bullets to dodge.
 
 [**Play in browser**](https://mistercoconut.itch.io/cindervale)
 
@@ -175,6 +210,8 @@ The creator attributes the build to Claude Code with human assistance. [Creator 
 <p><a href="https://evensong-phi.vercel.app/"><img src="https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg" width="720" alt="Evensong screenshot"></a></p>
 
 ### Evensong
+
+**Why play:** If the boss fight is what you come to a soulslike for, this compact dark-fantasy encounter gets right to it.
 
 [**Play in browser**](https://evensong-phi.vercel.app/)
 
@@ -195,6 +232,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/k
 
 ### Feed the Backrooms
 
+**Why play:** Find out what the Backrooms feel like from the other side of the chase, as the monster rather than the escapee.
+
 [**Play in browser**](https://feed-backrooms.vercel.app)
 
 <details>
@@ -211,6 +250,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/L
 <p><a href="https://gilt-and-gutter.vercel.app/"><img src="https://pbs.twimg.com/amplify_video_thumb/2119899054520061952/img/5AHKPQpLbKV5Hi0o.jpg" width="720" alt="Gilt &amp; Gutter screenshot"></a></p>
 
 ### Gilt & Gutter
+
+**Why play:** Pick between two duelists and face your opponent at eye level instead of watching the fight from the sidelines.
 
 [**Play in browser**](https://gilt-and-gutter.vercel.app/)
 
@@ -229,6 +270,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/k
 
 ### Greatest Work of Art
 
+**Why play:** Let the images do the unnerving in a short horror story that never puts a word on screen.
+
 [**Play in browser**](https://storytellermeeka.itch.io/greatest-work-of-art)
 
 <details>
@@ -245,6 +288,8 @@ Claude implemented the game, including its audio engine and headless playtest. [
 <p><a href="https://shubhu121.github.io/hitdude/play/"><img src="https://pbs.twimg.com/amplify_video_thumb/2120373808574152704/img/chDaqlI3QO5-IhXS.jpg" width="720" alt="Hitofude screenshot"></a></p>
 
 ### Hitofude
+
+**Why play:** The brush-painted look is the draw, especially once you notice the game achieves it without sprite assets.
 
 [**Play in browser**](https://shubhu121.github.io/hitdude/play/)
 
@@ -263,6 +308,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/p
 
 ### HUNGERETH
 
+**Why play:** Keeping your torch alive gives you something to worry about besides the monsters coming at you from every side.
+
 [**Play in browser**](https://clipmarz.itch.io/hungereth)
 
 <details>
@@ -279,6 +326,8 @@ The creator credits Claude for programming, design and audio mixing. [Creator so
 <p><a href="https://dgeisert.itch.io/kitty-kingdom"><img src="https://img.itch.zone/aW1hZ2UvNTA5NDk4NS8zMDU5MjE2MS5naWY=/original/VMVmg0.gif" width="720" alt="Kitty Kingdom: And the Robot Menace screenshot"></a></p>
 
 ### Kitty Kingdom: And the Robot Menace
+
+**Why play:** Hold the line for a kingdom of cats against a threat it can't negotiate with: wave after wave of robots.
 
 [**Play in browser**](https://dgeisert.itch.io/kitty-kingdom)
 
@@ -297,6 +346,8 @@ The jam submission credits Claude for code, art and sound effects. [Creator sour
 
 ### Kumokiri
 
+**Why play:** Step into a painterly 3D samurai world if you're curious how brushwork can read in motion rather than in a still image.
+
 [**Play in browser**](https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a)
 
 <details>
@@ -313,6 +364,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/a
 <p><a href="https://loktar00.github.io/lanternfall/"><img src="https://pbs.twimg.com/amplify_video_thumb/2120187656881516544/img/ugjT74smgSzi_U3X.jpg" width="720" alt="Lanternfall screenshot"></a></p>
 
 ### Lanternfall
+
+**Why play:** Try it for the mood: the 3D fantasy world is as much a reason to keep moving as the fights along the way.
 
 [**Play in browser**](https://loktar00.github.io/lanternfall/)
 
@@ -331,6 +384,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/l
 
 ### Last Light
 
+**Why play:** Zombies are only half the problem; the other half is deciding what to upgrade and when to get behind the wheel.
+
 [**Play in browser**](https://8hm-v2.itch.io/last-light)
 
 <details>
@@ -347,6 +402,8 @@ The developer says the game was made with Claude Sonnet 5.5. [Creator source](ht
 <p><a href="https://luminazombies.com/"><img src="https://pbs.twimg.com/amplify_video_thumb/2120656161665880064/img/aVeGxS9F3WC8dHJn.jpg" width="720" alt="Lumina Zombies screenshot"></a></p>
 
 ### Lumina Zombies
+
+**Why play:** Get your bearings in the first-person zombie map, then see what Easter eggs you can find without becoming lunch.
 
 [**Play in browser**](https://luminazombies.com/)
 
@@ -365,6 +422,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/L
 
 ### Mist-Locked Gate / 雾锁山门
 
+**Why play:** Open the Chinese-language demo to see what a reusable game-making skill looks like as a playable project, not just a prompt.
+
 [**Play in browser**](https://op7418.github.io/guizang-game-skill/)
 
 <details>
@@ -381,6 +440,8 @@ See the creator's workflow. [Creator source](https://github.com/op7418/guizang-g
 <p><a href="https://nipad.itch.io/number"><img src="https://img.itch.zone/aW1hZ2UvNTM1MTQ2Ny8zMjI4Mzc3OS5wbmc=/794x1000/R3u8Mt.png" width="720" alt="Number screenshot"></a></p>
 
 ### Number
+
+**Why play:** The challenge is keeping a running count while the game is asking you to act, not simply recognizing a number.
 
 [**Play in browser**](https://nipad.itch.io/number)
 
@@ -399,6 +460,8 @@ The developer credits Fable, Opus, and Sonnet in Claude Code with gameplay logic
 
 ### Out of Frame
 
+**Why play:** Step through the frames of three famous paintings and get to know their compositions by putting them back in order.
+
 [**Play in browser**](https://nyxalium.itch.io/out-of-frame)
 
 <details>
@@ -415,6 +478,8 @@ Claude Opus 5.5 implemented the three painting worlds, physics, gallery and effe
 <p><a href="https://appsbymeredith.itch.io/paper-moon"><img src="https://img.itch.zone/aW1hZ2UvNTE0MDg5MS8zMDc3OTU1OS5wbmc=/794x1000/gmEBRL.png" width="720" alt="Paper Moon screenshot"></a></p>
 
 ### Paper Moon
+
+**Why play:** Roll a little paper character through the night and see how much 3D atmosphere can fit inside a single file.
 
 [**Play in browser**](https://appsbymeredith.itch.io/paper-moon)
 
@@ -433,6 +498,8 @@ The creator names Claude Opus 5.5 and Three.js r170 as its build tools. [Creator
 
 ### Raccoon Heist
 
+**Why play:** Plan your way past the guards with a crew better known for raiding bins than pulling off heists.
+
 [**Play in browser**](https://simonw.github.io/raccoon-heist/)
 
 <details>
@@ -447,6 +514,8 @@ The creator documents the Claude-assisted build. [Creator source](https://simonw
 <a name="game-saltline"></a>
 
 ### Saltline
+
+**Why play:** Cutting relays gives your run through the storm-battered port a purpose beyond staying alive under robot guard.
 
 [**Play in browser**](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)
 
@@ -467,6 +536,8 @@ Fable 5.2; the author describes a single-prompt experiment. [Creator source](htt
 
 ### Save the World
 
+**Why play:** Take in the details of a city street from ground level while playing through a first-person action prototype.
+
 [**Play in browser**](https://save-the-world-fable.vercel.app/)
 
 <details>
@@ -483,6 +554,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/g
 <p><a href="https://bannerfall.itch.io/siege-wing"><img src="https://pbs.twimg.com/amplify_video_thumb/2120221793906802688/img/MHahsb6xmLHReK4o.jpg" width="720" alt="Siege Wing screenshot"></a></p>
 
 ### Siege Wing
+
+**Why play:** Bring a modern attack helicopter to a medieval fight and see what a cannon, rockets, and missiles do to the odds.
 
 [**Play in browser**](https://bannerfall.itch.io/siege-wing)
 
@@ -501,6 +574,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/b
 
 ### Sky Patent
 
+**Why play:** Your aircraft design isn't just for show: take it through three shoot-'em-up missions to earn new parts for the next build.
+
 [**Play in browser**](https://cocolitocollective.itch.io/sky-patent)
 
 <details>
@@ -517,6 +592,8 @@ Claude Opus 5.5 implemented the JavaScript, procedural graphics and sound. [Crea
 <p><a href="https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057"><img src="https://pbs.twimg.com/amplify_video_thumb/2120376389518217219/img/rJKc_ncENG8pq8Jq.jpg" width="720" alt="Skywake screenshot"></a></p>
 
 ### Skywake
+
+**Why play:** Take a flying craft out on a series of quests when you want somewhere to go rather than a lap timer to beat.
 
 [**Play in browser**](https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057)
 
@@ -535,6 +612,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/a
 
 ### Spears of Exekias
 
+**Why play:** Duel Achilles inside the visual world of an ancient vase painting, with no dialogue to break the illusion.
+
 [**Play in browser**](https://ans106.itch.io/exa)
 
 <details>
@@ -546,11 +625,34 @@ Claude Code and Codex helped create the code and procedural artwork. [Creator so
 
 </details>
 
+<a name="game-sublevel-07"></a>
+
+<p><a href="https://wquguru.github.io/fable52-fps-repro/demos/04-fps/"><img src="https://raw.githubusercontent.com/wquguru/fable52-fps-repro/main/docs/demo.gif" width="720" alt="SUBLEVEL 07 screenshot"></a></p>
+
+### SUBLEVEL 07
+
+**Why play:** Try a three-wave FPS in a flooded substation, then inspect how one HTML file draws and scores the whole encounter.
+
+[**Play in browser**](https://wquguru.github.io/fable52-fps-repro/demos/04-fps/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Fight three waves of drones inside a flooded underground substation.
+
+The creator documents using Claude Code with Fable 5.2 to produce the single-file FPS and its procedural models, textures, and audio. [Creator source](https://x.com/wquguru/status/2120383332722905400) · [Project repository](https://github.com/wquguru/fable52-fps-repro)
+
+[37,342 X post views](https://x.com/wquguru/status/2120383332722905400) (checked 2026-11-19 UTC; not game plays).
+
+</details>
+
 <a name="game-sunwarden"></a>
 
 <p><a href="https://sunwarden.higgsfield.app/"><img src="https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/0c4a8793-c32c-4222-b6c4-3d21db410e70.webp" width="720" alt="Sunwarden screenshot"></a></p>
 
 ### Sunwarden
+
+**Why play:** Explore and solve your way across a 3D world before putting down the puzzles to face the boss.
 
 [**Play in browser**](https://sunwarden.higgsfield.app/)
 
@@ -569,6 +671,8 @@ Fable 5.2 with Higgsfield tools. [Creator source](https://higgsfield.ai/mcp/new-
 
 ### The Waking River
 
+**Why play:** Take your time exploring the fantasy landscape, then consider that the browser adventure was built without a game engine.
+
 [**Play in browser**](https://rivergame-kappa.vercel.app)
 
 <details>
@@ -582,11 +686,30 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/f
 
 </details>
 
+<a name="game-three-js-quake"></a>
+
+### Three.js Quake
+
+**Why play:** See how the original Quake shareware plays in a browser, then look through the open port code.
+
+[**Play in browser**](https://mrdoob.github.io/three-quake/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Play the shareware episode of id Software’s Quake in a Three.js browser port.
+
+The project credits mrdoob and Claude for the Three.js port, not the original game or its assets. [Creator source](https://github.com/mrdoob/three-quake#credits) · [Project repository](https://github.com/mrdoob/three-quake)
+
+</details>
+
 <a name="game-tunas-last-archive"></a>
 
 <p><a href="https://ngong2000.itch.io/tunas-last-archive"><img src="https://img.itch.zone/aW1hZ2UvNTI2ODU3MS8zMTYxMTYyOS5wbmc=/794x1000/ut7IU5.png" width="720" alt="TUNAS: Last Archive screenshot"></a></p>
 
 ### TUNAS: Last Archive
+
+**Why play:** Lead a squad with something worth bringing home: lost knowledge for the last archive you have to defend.
 
 [**Play in browser**](https://ngong2000.itch.io/tunas-last-archive)
 
@@ -605,6 +728,8 @@ The developer selected the Claude Code build and then refined it with Claude Cod
 
 ### Valle Morta
 
+**Why play:** Trade the usual industrial shooter backdrop for a firefight set in a detailed Italian village.
+
 [**Play in browser**](https://valle-morta.vercel.app/)
 
 <details>
@@ -621,6 +746,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/L
 <p><a href="https://redrakam.itch.io/wake-word-almost-home"><img src="https://img.itch.zone/aW1hZ2UvNTE5NzE4MC8zMTEzMzM4Ny5qcGc=/794x1000/LPUTt%2F.jpg" width="720" alt="Wake Word: Almost Home screenshot"></a></p>
 
 ### Wake Word: Almost Home
+
+**Why play:** Try a psychological horror game that makes an ordinary trip home feel less reassuring the closer you get.
 
 [**Play in browser**](https://redrakam.itch.io/wake-word-almost-home)
 
@@ -639,6 +766,8 @@ Claude Code plus ChatGPT review. [Creator source](https://www.reddit.com/r/aigam
 
 ### WICK
 
+**Why play:** A candle-cat that burns through its own wax makes the next torch feel like a finish line.
+
 [**Play in browser**](https://hallucinatedgames.itch.io/wick)
 
 <details>
@@ -656,6 +785,8 @@ The creator says Claude Code with Claude Opus wrote, tested, and deployed the co
 
 ### Wind-up cat
 
+**Why play:** Break into the Vacuum Factory as a pocket-sized wind-up robot with a clear job: get the caged cats out.
+
 [**Play in browser**](https://korusagi.itch.io/wind-up-cat)
 
 <details>
@@ -671,6 +802,8 @@ The creator built the game with Claude Opus 5.5. [Creator source](https://itch.i
 
 ### WONTFIX
 
+**Why play:** If a project-management board already makes you uneasy, step into a horror story that takes that feeling literally.
+
 [**Play in browser**](https://wontfix-game.netlify.app/)
 
 <details>
@@ -682,13 +815,36 @@ Claude credited by the creator; the repository notes ElevenLabs audio. [Creator 
 
 </details>
 
-## Arcade, racing & sports (20)
+## Arcade, racing & sports (22)
+
+<a name="game-38-0-0"></a>
+
+<p><a href="https://38-0-0.com/"><img src="https://38-0-0.com/og.jpg?v=2" width="720" alt="38-0-0 screenshot"></a></p>
+
+### 38-0-0
+
+**Why play:** Try to draft a Premier League XI that can win all 38 matches with no draws or losses.
+
+[**Play in browser**](https://38-0-0.com/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Draft a starting XI from randomly chosen Premier League clubs and seasons, then simulate a season.
+
+Creator Deniz Sancar told MobileGamer.biz he used Claude Code to make the original web game and then its app. [Creator source](https://mobilegamer.biz/the-uks-number-one-ios-game-38-0-0-was-built-overnight-by-an-amateur-using-claude-code/)
+
+Creator-reported lower bound; platform split not specified. [Source](https://denizsancar.com/).
+
+</details>
 
 <a name="game-4096-torch"></a>
 
 <p><a href="https://4096x.itch.io/4096-torch"><img src="https://img.itch.zone/aW1hZ2UvNTI2NjA0MS8zMTU4Nzg4MS5wbmc=/original/SFiQxA.png" width="720" alt="4096 Torch screenshot"></a></p>
 
 ### 4096 Torch
+
+**Why play:** Turn matching ghosts into fuel for your torch while steering clear of the numbers too big to take on.
 
 [**Play in browser**](https://4096x.itch.io/4096-torch)
 
@@ -701,11 +857,36 @@ Claude designed, balanced and programmed the game. [Creator source](https://4096
 
 </details>
 
+<a name="game-a-game-about-capybaras-delivering-food"></a>
+
+<p><a href="https://capybara-vibejam26.leocoout.dev/"><img src="https://capybara-vibejam26.leocoout.dev/images/capybara_thumbnail.png?v=1" width="720" alt="A Game About Capybaras Delivering Food screenshot"></a></p>
+
+### A Game About Capybaras Delivering Food
+
+**Why play:** The tower of groceries wobbles as you drift through town, so going faster can cost you the delivery.
+
+[**Play in browser**](https://capybara-vibejam26.leocoout.dev/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Ride a scooter as a capybara and deliver food against the clock without spilling your order.
+
+Leo credits Claude Code with Opus 4.7 for code, with other tools credited for asset generation. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1urzr1q/i_just_made_25k_usd_with_my_capybara_game_built/)
+
+Gold, with a $25,000 competition prize, not sales. [Source](https://vibejam.com/).
+
+Rounded organizer count. [Source](https://vibejam.com/).
+
+</details>
+
 <a name="game-banana-mine-rush"></a>
 
 <p><a href="https://remix.gg/g/banana-mine-rush"><img src="https://pbs.twimg.com/amplify_video_thumb/2120124768791760896/img/z1VLzmLPCMMRDkFn.jpg" width="720" alt="Banana Mine Rush screenshot"></a></p>
 
 ### Banana Mine Rush
+
+**Why play:** Race karts through a 3D mine with friends or go after a place on the leaderboard yourself.
 
 [**Play in browser**](https://remix.gg/g/banana-mine-rush)
 
@@ -722,6 +903,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/0
 
 ### Crust Courier
 
+**Why play:** Put the pizza on a motorbike and see what happens when a delivery shift becomes a time trial.
+
 [**Play in browser**](https://vinish.dev/crust-courier)
 
 <details>
@@ -736,6 +919,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 <a name="game-dorbaaz"></a>
 
 ### Dorbaaz
+
+**Why play:** Use your kite string as both leash and blade as you cross and cut rivals above the city rooftops.
 
 [**Play in browser**](https://vinish.dev/dorbaaz-kite-fighting-browser-based-game)
 
@@ -753,6 +938,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 <p><a href="https://fallline-9zo.pages.dev"><img src="https://pbs.twimg.com/amplify_video_thumb/2123032785111621632/img/JrwexXqgK-HpJOsB.jpg" width="720" alt="Fall Line screenshot"></a></p>
 
 ### Fall Line
+
+**Why play:** Take on a downhill run tuned against the creator's experience of riding a real mountain bike.
 
 [**Play in browser**](https://fallline-9zo.pages.dev)
 
@@ -773,6 +960,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/B
 
 ### Ink & Tide
 
+**Why play:** Every word is a shot in this pirate roguelite, so your typing is what keeps the cannons firing.
+
 [**Play in browser**](https://jupitax.itch.io/ink-and-tide)
 
 <details>
@@ -790,6 +979,8 @@ The creator says the game was built entirely with Claude. [Creator source](https
 
 ### Lightkeeper
 
+**Why play:** Read the stormy water from the shore and use your lighthouse beam to steer ships clear of the rocks.
+
 [**Play in browser**](https://thedannos.itch.io/lightkeeper)
 
 <details>
@@ -804,6 +995,8 @@ Claude Code generated the visuals, software and tooling. [Creator source](https:
 <a name="game-penguin-path"></a>
 
 ### Penguin Path
+
+**Why play:** Pick a route across the ice one hop at a time while watching for Arctic hazards.
 
 [**Play in browser**](https://vinish.dev/penguin-path-game-online)
 
@@ -822,6 +1015,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 ### Penguin Smack
 
+**Why play:** Take a quick detour into 3D arcade silliness if you miss the old Yetisports style of minigame.
+
 [**Play in browser**](https://penguinsmack.pages.dev/)
 
 <details>
@@ -839,6 +1034,8 @@ Claude Code / Opus 5.5 for gameplay; Codex for images. [Creator source](https://
 
 ### Pumpkin Panic
 
+**Why play:** See how many treats you can catch in sixty seconds without letting a skull into the cauldron.
+
 [**Play in browser**](https://kestrelww.itch.io/pumpkin-panic)
 
 <details>
@@ -853,6 +1050,8 @@ Claude Code helped make the game and the scripts that draw its art. [Creator sou
 <a name="game-rift-run"></a>
 
 ### Rift Run
+
+**Why play:** Give your reflexes both jobs at once: dodge what the scroll sends your way and shoot what you can't fly around.
 
 [**Play in browser**](https://riftrungame.com/)
 
@@ -871,6 +1070,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 ### Rooftop Rally
 
+**Why play:** Play a pickleball match above the city streets instead of on the usual ground-level court.
+
 [**Play in browser**](https://wavedash.com/games/rooftop-rally)
 
 <details>
@@ -888,6 +1089,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/c
 
 ### SCRATCH
 
+**Why play:** The pleasure is in the reveal: scratch away the image of a house until the scene hidden underneath comes into view.
+
 [**Play in browser**](https://granthaffner.itch.io/scratch)
 
 <details>
@@ -902,6 +1105,8 @@ The jam submission identifies Claude Code as the primary coding tool. [Creator s
 <a name="game-skull-jam"></a>
 
 ### Skull Jam
+
+**Why play:** Try the physics duel solo first, then bring a second player to see what changes when another person is making the same calculations.
 
 [**Play in browser**](https://skulljam.com/)
 
@@ -920,6 +1125,8 @@ Fable 5.2. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1xuvop2/i
 
 ### Solstice Racing
 
+**Why play:** Plug in a controller if you like and race a jet-powered craft instead of another set of wheels.
+
 [**Play in browser**](https://samg-coder.github.io/solstice-racing/)
 
 <details>
@@ -936,6 +1143,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/S
 <p><a href="https://starrynightrider.com"><img src="https://pbs.twimg.com/amplify_video_thumb/2120283338477121537/img/tdKADwxxpbgwFZ3C.jpg" width="720" alt="Starry Nightrider screenshot"></a></p>
 
 ### Starry Nightrider
+
+**Why play:** See what Van Gogh's swirling night sky feels like from the saddle of a bike instead of from across a gallery.
 
 [**Play in browser**](https://starrynightrider.com)
 
@@ -956,6 +1165,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/e
 
 ### Thunder Valley
 
+**Why play:** Try it for the panic of a dinosaur chase in full 3D, especially if you like seeing how far an engine-free experiment can go.
+
 [**Play in browser**](https://loktar00.github.io/llm-test-pages/fable52-dino-chase/)
 
 <details>
@@ -973,6 +1184,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/l
 
 ### Turfrush
 
+**Why play:** Play if you like territory games where one daring loop can claim a chunk of the map or leave your trail open to a cut.
+
 [**Play in browser**](https://ringburst.itch.io/turfrush)
 
 <details>
@@ -987,6 +1200,8 @@ The creator says Claude wrote the game in a 48-hour experiment; graphics and aud
 <a name="game-typissimo"></a>
 
 ### Typissimo
+
+**Why play:** Try a round if you like rhythm games: accurate typing adds notes and drums, so the soundtrack changes as you play.
 
 [**Play in browser**](https://typissimo.com/)
 
@@ -1005,6 +1220,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 ### Uno com Escada
 
+**Why play:** Play for the absurd sight of a little Fiat hauling a roof ladder around a forest racetrack.
+
 [**Play in browser**](https://viktorkav.com.br/apoio/uno-com-escada/fable/)
 
 <details>
@@ -1016,13 +1233,15 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/V
 
 </details>
 
-## Puzzle & narrative (16)
+## Puzzle & narrative (17)
 
 <a name="game-art-cat-burglar"></a>
 
 <p><a href="https://aelysium.itch.io/art-cat-burglar"><img src="https://img.itch.zone/aW1hZ2UvNTMwNzgwNy8zMTg4MDI2Ny5wbmc=/original/SuDX19.png" width="720" alt="Art Cat Burglar screenshot"></a></p>
 
 ### Art Cat Burglar
+
+**Why play:** Pick this for a stealth game with an unusually charming setting: a museum full of cat paintings.
 
 [**Play in browser**](https://aelysium.itch.io/art-cat-burglar)
 
@@ -1041,6 +1260,8 @@ Claude Code implemented and tested the stealth systems, 3D renderer and editor. 
 
 ### Castling Rights
 
+**Why play:** Try it if you enjoy chess puzzles that build a whole challenge around one easily overlooked rule.
+
 [**Play in browser**](https://hergal.itch.io/castling-rights)
 
 <details>
@@ -1057,6 +1278,8 @@ The creator credits Claude Code with the code, SVG art, procedural sound, and 15
 <p><a href="https://nebitula.itch.io/coalheart"><img src="https://img.itch.zone/aW1hZ2UvNTIxMzcxNS8zMTI0MjMzMC5wbmc=/original/xZAKDQ.png" width="720" alt="Coalheart screenshot"></a></p>
 
 ### Coalheart
+
+**Why play:** Play for a puzzle where fire is scarce and getting a small creature through a temple means making that supply last.
 
 [**Play in browser**](https://nebitula.itch.io/coalheart)
 
@@ -1075,6 +1298,8 @@ Claude Code wrote the game and generated pixel art and synthesized audio in code
 
 ### Crosstographer
 
+**Why play:** Pick this if you like both exploration and wordplay: the crossword is hidden in the layout of a starship.
+
 [**Play in browser**](https://nicklesimba.itch.io/crosstographer)
 
 <details>
@@ -1091,6 +1316,8 @@ The studio says Claude Code programmed the game; gameplay design, writing, art, 
 <p><a href="https://kengoworks.itch.io/dawnlings"><img src="https://pbs.twimg.com/amplify_video_thumb/2122967328568827904/img/MMJhfmzUHB0dEaiW.jpg" width="720" alt="Dawnlings screenshot"></a></p>
 
 ### Dawnlings
+
+**Why play:** Try it for the tactile challenge of tilting a 3D valley and rolling its tiny inhabitants to safety.
 
 [**Play in browser**](https://kengoworks.itch.io/dawnlings)
 
@@ -1111,6 +1338,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/k
 
 ### Eko
 
+**Why play:** Play if you like puzzles that make your own past attempts part of the solution.
+
 [**Play in browser**](https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine)
 
 <details>
@@ -1122,11 +1351,32 @@ The developer credits Claude Code with programming, scripted art and sound, and 
 
 </details>
 
+<a name="game-geosports"></a>
+
+### GeoSports
+
+**Why play:** A five-clue daily round turns sports trivia into a map challenge you can finish in about a minute.
+
+[**Play in browser**](https://geosports.app/play)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Locate five sports clues by dropping pins on a map in a new daily challenge.
+
+Frank Michael Smith says he built and iterated on the first playable version with Claude Code. [Creator source](https://fmsnewsletter.beehiiv.com/p/geosports)
+
+Creator reported more than 4,000 daily active players before noon on launch day 3. [Source](https://fmsnewsletter.beehiiv.com/p/geosports).
+
+</details>
+
 <a name="game-grandmas-tech-support"></a>
 
 <p><a href="https://kawalight-studio.itch.io/grandmas-tech-support"><img src="https://img.itch.zone/aW1hZ2UvNTE5NzE2Ni8zMTEzMjQwMy5wbmc=/794x1000/Y6lGhp.png" width="720" alt="Grandma's Tech Support screenshot"></a></p>
 
 ### Grandma's Tech Support
+
+**Why play:** Choose this when you want a short puzzle session with the comedy of taking questionable tech instructions from Grandma.
 
 [**Play in browser**](https://kawalight-studio.itch.io/grandmas-tech-support)
 
@@ -1144,6 +1394,8 @@ Kawalight Studio discloses Claude Code in its development notes. [Creator source
 <p><a href="https://i-would-have-gotten-away-with-it.netlify.app/"><img src="https://pbs.twimg.com/amplify_video_thumb/2119876130807197696/img/0ltEr2WrQneox6dJ.jpg" width="720" alt="I Would Have Gotten Away With It screenshot"></a></p>
 
 ### I Would Have Gotten Away With It
+
+**Why play:** Pick it for the role reversal: instead of unmasking the villain, you get to scare off the investigators.
 
 [**Play in browser**](https://i-would-have-gotten-away-with-it.netlify.app/)
 
@@ -1164,6 +1416,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/e
 
 ### Laser Dot
 
+**Why play:** Try it for an indirect-control puzzle where you point a laser and let a cat decide how to follow it.
+
 [**Play in browser**](https://cocolitocollective.itch.io/laser-dot)
 
 <details>
@@ -1180,6 +1434,8 @@ Two Claude sessions implemented the project in 26 creator-approved batches. [Cre
 <p><a href="https://funkyape.itch.io/meowcha"><img src="https://img.itch.zone/aW1hZ2UvNTEyMDE2MC8zMDY1OTcwNC5wbmc=/794x1000/G%2BVHo5.png" width="720" alt="MEOWCHA screenshot"></a></p>
 
 ### MEOWCHA
+
+**Why play:** Play on a keyboard for the unlikely pairing of a cat-piloted mech and a puzzle platformer.
 
 [**Play in browser**](https://funkyape.itch.io/meowcha)
 
@@ -1198,6 +1454,8 @@ Claude Code for code, levels and pixel art; human direction and testing. [Creato
 
 ### MULE
 
+**Why play:** Try it if you want match-three decisions to carry consequences beyond the score, from crafting supplies to surviving a fight.
+
 [**Play in browser**](https://sykoramade.itch.io/mule)
 
 <details>
@@ -1214,6 +1472,8 @@ The creator credits Claude Code for the build and Claude for the music. [Creator
 <p><a href="https://strangeboltz.itch.io/patchwork60"><img src="https://img.itch.zone/aW1hZ2UvNTI4MzA1Mi8zMTcwMzA3NC5wbmc=/original/RNZycu.png" width="720" alt="PatchWork60 screenshot"></a></p>
 
 ### PatchWork60
+
+**Why play:** Play for a visual puzzle that turns recognizing pieces of a painting into a one-minute sprint.
 
 [**Play in browser**](https://strangeboltz.itch.io/patchwork60)
 
@@ -1232,6 +1492,8 @@ Claude Code created the software, procedural art and sound. [Creator source](htt
 
 ### Silly Kitty
 
+**Why play:** Choose this for the gentle comedy of steering a robot that has to coax, rather than control, a distractible cat.
+
 [**Play in browser**](https://linostar.itch.io/sillykitty)
 
 <details>
@@ -1248,6 +1510,8 @@ The creator says Claude built the whole game under human direction. [Creator sou
 <p><a href="https://quantumwhisker.itch.io/snip"><img src="https://img.itch.zone/aW1hZ2UvNTIxMzA5My8zMTI0MDQ0My5wbmc=/original/YdmcLE.png" width="720" alt="SNIP screenshot"></a></p>
 
 ### SNIP
+
+**Why play:** Try it if you enjoyed cutting paper snowflakes: every fold changes where a single snip will appear in the finished pattern.
 
 [**Play in browser**](https://quantumwhisker.itch.io/snip)
 
@@ -1266,6 +1530,8 @@ Claude Code wrote the Godot game, and Claude generated solvable level designs. [
 
 ### TALLY LIGHT
 
+**Why play:** Play if you want the challenge of making a good cut in real time instead of directly controlling the on-screen action.
+
 [**Play in browser**](https://markeljan.itch.io/tally-light)
 
 <details>
@@ -1281,6 +1547,8 @@ Markeljan describes using Claude Code to build and test the game. [Creator sourc
 
 ### Tumblebuds: The Journey Home
 
+**Why play:** Pick this for a 3D puzzle adventure where the goal is to shepherd little creatures rather than defeat them.
+
 [**Play in browser**](https://johnnyffm.github.io/tumblebuds/)
 
 <details>
@@ -1292,13 +1560,34 @@ Fable 5.2 in Claude Code. [Creator source](https://www.reddit.com/r/ClaudeAI/com
 
 </details>
 
-## RPG & strategy (14)
+## RPG & strategy (18)
+
+<a name="game-ares-outpost"></a>
+
+<p><a href="https://coyne-studios.itch.io/ares-outpost"><img src="https://img.itch.zone/aW1hZ2UvNDg0MDQ2My8yOTYwMDcwMC5qcGc=/794x1000/lQ62Xe.jpg" width="720" alt="ARES OUTPOST screenshot"></a></p>
+
+### ARES OUTPOST
+
+**Why play:** There are no fixed lanes: experiment with layouts and upgrades instead of just filling predetermined tower slots.
+
+[**Play in browser**](https://coyne-studios.itch.io/ares-outpost)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Position and upgrade towers on an open map to hold off endless enemy waves.
+
+The creator says they built the Godot project using Claude models via Cursor. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1vc2aw2/1000_in_claude_credits_to_create_my_dream_game/)
+
+</details>
 
 <a name="game-argon-dominates"></a>
 
 <p><a href="https://dexnazar.itch.io/argon-dominates"><img src="https://img.itch.zone/aW1hZ2UvNTI1Nzk3Mi8zMTUzMzQ4My5wbmc=/794x1000/FyZzAY.png" width="720" alt="ARGON DOMINATES screenshot"></a></p>
 
 ### ARGON DOMINATES
+
+**Why play:** Try it for the unusual pleasure of steering a cloud that grows by absorbing other noble gases.
 
 [**Play in browser**](https://dexnazar.itch.io/argon-dominates)
 
@@ -1311,11 +1600,30 @@ The creator credits Claude Code for the simulation, renderer, shaders, audio, le
 
 </details>
 
+<a name="game-arrr"></a>
+
+### ARRR
+
+**Why play:** Plot a course between procedural islands and see what happens when other pirates find the same waters.
+
+[**Play in browser**](https://play.arrr.fun/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Set sail, explore procedurally generated islands, and run into other crews in a browser pirate MMORPG.
+
+Jaeyun Noh credits Claude Code and Fable for world generation, multiplayer, and most gameplay systems. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1usno3r/i_made_a_pirate_mmo_with_fable_and_the_entire/)
+
+</details>
+
 <a name="game-battle-drones"></a>
 
 <p><a href="https://simonw.github.io/battledrones/"><img src="https://static.simonwillison.net/static/2026/battledrones-v8.jpg" width="720" alt="Battle Drones screenshot"></a></p>
 
 ### Battle Drones
+
+**Why play:** Pick this when you want tactical decisions in a real-time strategy match without installing anything.
 
 [**Play in browser**](https://simonw.github.io/battledrones/)
 
@@ -1334,6 +1642,8 @@ Opus 5.5 on the main build; Fable 5 in early versions. [Creator source](https://
 
 ### Cerebronline
 
+**Why play:** Try it if you are curious what a browser RPG made for an Epic game jam looks like beyond a short tech demo.
+
 [**Play in browser**](https://pogorskii.itch.io/cerebronline)
 
 <details>
@@ -1350,6 +1660,8 @@ The creator credits Claude Code and OpenAI Codex with most gameplay code and too
 <p><a href="https://umutcanekinci.itch.io/chokepoint"><img src="https://img.itch.zone/aW1hZ2UvNDc0NDIzMi8zMjA3OTM5NC5wbmc=/794x1000/GFHTzD.png" width="720" alt="Chokepoint screenshot"></a></p>
 
 ### Chokepoint
+
+**Why play:** Play for a clear tower-defense challenge with 25 rounds to beat and an endless mode when you want a longer test.
 
 [**Play in browser**](https://umutcanekinci.itch.io/chokepoint)
 
@@ -1368,6 +1680,8 @@ Umutcan Ekinci credits Claude Code as a coding assistant while retaining design,
 
 ### Clanbound
 
+**Why play:** Choose this if you like deckbuilders where where you place a creature matters as much as which card you draw.
+
 [**Play in browser**](https://assetsmithy.itch.io/clanbound)
 
 <details>
@@ -1385,6 +1699,8 @@ Claude Code for game code; other tools used for assets. [Creator source](https:/
 
 ### Conga Crawl
 
+**Why play:** Try it for a dungeon crawl where steering the entire marching line is the challenge.
+
 [**Play in browser**](https://sunsetmesagames.itch.io/conga-crawl)
 
 <details>
@@ -1399,6 +1715,8 @@ Claude Code / Opus 5.5, with separately credited third-party assets. [Creator so
 <a name="game-dark-pattern"></a>
 
 ### Dark Pattern
+
+**Why play:** Play if you enjoy chasing a clever poker-like combo and then building around it with loot and a deep progression tree.
 
 [**Play in browser**](https://darkpattern.diamonddoge.org/)
 
@@ -1417,6 +1735,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 ### Dread & District
 
+**Why play:** Pick this if the part of fantasy games you enjoy most is keeping an operation moving through dangerous territory.
+
 [**Play in browser**](https://dread-and-district.netlify.app)
 
 <details>
@@ -1433,6 +1753,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/e
 <p><a href="https://gyeongseok.itch.io/lucky-castle"><img src="https://img.itch.zone/aW1hZ2UvNTM0NDMwNy8zMjE1MTQyMy5wbmc=/794x1000/E8TFue.png" width="720" alt="Lucky Castle screenshot"></a></p>
 
 ### Lucky Castle
+
+**Why play:** Try it for a castle defense game that asks you to turn a lucky number and uncertain dice into a plan.
 
 [**Play in browser**](https://gyeongseok.itch.io/lucky-castle)
 
@@ -1451,6 +1773,8 @@ The creator used Claude Code as the coding assistant during the jam and Codex fo
 
 ### Minimal Rogue
 
+**Why play:** Pick this for a retro dungeon RPG that lets you choose between English and Japanese.
+
 [**Play in browser**](https://hirotaka-adachi.itch.io/minimal-rogue)
 
 <details>
@@ -1467,6 +1791,8 @@ Claude Code; separate credit for Suno music. [Creator source](https://github.com
 <p><a href="https://kawalight-studio.itch.io/othello-variants"><img src="https://img.itch.zone/aW1hZ2UvNTIwNTcxOS8zMTE4ODI5Mi5wbmc=/original/SH2ucv.png" width="720" alt="Othello Variants screenshot"></a></p>
 
 ### Othello Variants
+
+**Why play:** Play if you know classic Othello and want to see how seven variations change familiar board positions.
 
 [**Play in browser**](https://kawalight-studio.itch.io/othello-variants)
 
@@ -1485,6 +1811,8 @@ Parallel Claude Code agents designed and implemented the game. [Creator source](
 
 ### Placebound
 
+**Why play:** Bring a second player if you want a desktop strategy game where planning breaks into real-time clashes.
+
 [**Play in browser**](https://placebound.dariuszparys.com/)
 
 <details>
@@ -1496,11 +1824,34 @@ See the author's account of developing the browser build with Claude. [Creator s
 
 </details>
 
+<a name="game-pyramid-wars-demo"></a>
+
+<p><a href="https://durian-arcade.itch.io/pyramid-wars"><img src="https://img.itch.zone/aW1nLzI4MTA2NDg4LnBuZw==/original/%2BwABwV.png" width="720" alt="Pyramid Wars Demo screenshot"></a></p>
+
+### Pyramid Wars Demo
+
+**Why play:** Build the factories that spawn your tanks, then jump into the fight by clicking enemies and casting ability cards.
+
+[**Play in browser**](https://durian-arcade.itch.io/pyramid-wars)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Build factories and towers, send tanks at the enemy pyramid, and upgrade your army with new cards.
+
+Durian Arcade lists Claude Opus 4.8 for coding, graphics, sound, and music, and Grok for the cover. [Creator source](https://itch.io/jam/ai-game-jam-3/rate/4673138)
+
+Official first place overall and in Fun. [Source](https://itch.io/jam/ai-game-jam-3/rate/4673138).
+
+</details>
+
 <a name="game-two-castles"></a>
 
 <p><a href="https://emberbit.itch.io/two-castles"><img src="https://img.itch.zone/aW1hZ2UvNTA3MzE5OC8zMDM3NTQ5OS5naWY=/original/rKa3AZ.gif" width="720" alt="Two Castles screenshot"></a></p>
 
 ### Two Castles
+
+**Why play:** Choose this for the essentials of siege strategy in short matches: build pressure and bring down the other castle.
 
 [**Play in browser**](https://emberbit.itch.io/two-castles)
 
@@ -1519,6 +1870,8 @@ The developer credits Claude Code with building the Phaser game code from scratc
 
 ### Valsera
 
+**Why play:** Try it for a side-scrolling fantasy RPG with a visual twist: the game draws its world in code.
+
 [**Play in browser**](https://valsera-game.vercel.app/)
 
 <details>
@@ -1530,11 +1883,51 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/k
 
 </details>
 
-## Simulation & sandbox (16)
+<a name="game-world-of-claudecraft"></a>
+
+### World of ClaudeCraft
+
+**Why play:** A browser MMO with distinct classes and group dungeons, rather than a single combat demo.
+
+[**Play in browser**](https://worldofclaudecraft.com/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Level a character through a classic-style multiplayer RPG with nine classes, quests, and dungeons. Online play requires an account.
+
+Levy Street credits Claude Fable 5 for the original playable build, with human engineering and ongoing development. [Creator source](https://levystreet.com/portfolio/world-of-claudecraft/) · [Project repository](https://github.com/levy-street/world-of-claudecraft)
+
+</details>
+
+## Simulation & sandbox (19)
+
+<a name="game-1-in-8-billion"></a>
+
+<p><a href="https://1in8b.life/en/"><img src="https://1in8b.life/og-en.png" width="720" alt="1 in 8 Billion screenshot"></a></p>
+
+### 1 in 8 Billion
+
+**Why play:** Start with a family and birthplace you didn’t choose and see how the choices available to you change.
+
+[**Play in browser**](https://1in8b.life/en/)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Live a randomized life shaped by real-world statistics, deciding how to handle school, work, and relationships.
+
+Jin’s Earth documents creating the life simulation with Claude and refining it with public feedback. [Creator source](https://1in8b.life/en/story/eight-lines/)
+
+Creator-reported views on the launch post, not plays. [Source](https://1in8b.life/en/story/eight-lines/).
+
+</details>
 
 <a name="game-cinderscoop"></a>
 
 ### Cinderscoop
+
+**Why play:** Play for the satisfying loop of skimming up lake water and returning to drop it on a growing wildfire.
 
 [**Play in browser**](https://vinish.dev/cinderscoop-firefighting-plane-browser-based-game)
 
@@ -1553,6 +1946,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 ### Cozy Cat Cooking Cafe
 
+**Why play:** Choose this if running a food truck with a cat and a robot sounds like a better break than another boss battle.
+
 [**Play in browser**](https://simplesystemsstudios.itch.io/cozy-cat-cooking-cafe)
 
 <details>
@@ -1569,6 +1964,8 @@ The jam submission credits Claude Code for programming and ChatGPT for imagery. 
 <p><a href="https://dustfalls.netlify.app/"><img src="https://raw.githubusercontent.com/webKing021/dustfall/main/docs/logo.png" width="720" alt="Dustfall screenshot"></a></p>
 
 ### Dustfall
+
+**Why play:** Try it if you want an original western that leaves room for fishing and blackjack alongside the trail and the feud.
 
 [**Play in browser**](https://dustfalls.netlify.app/)
 
@@ -1587,6 +1984,8 @@ The creator documents the Claude-assisted build. [Creator source](https://github
 
 ### FALAJ
 
+**Why play:** Pick this for a 3D oasis where restoring and sharing water matters more than expanding the map.
+
 [**Play in browser**](https://jamesofoaye.itch.io/falaj)
 
 <details>
@@ -1603,6 +2002,8 @@ The creator credits Claude Code with code and procedural models, and ElevenLabs 
 <p><a href="https://frontier.every.to/experiments/first-crush"><img src="https://pbs.twimg.com/amplify_video_thumb/2119868302541586432/img/-eFP0RFaey5jxsSI.jpg" width="720" alt="First Crush screenshot"></a></p>
 
 ### First Crush
+
+**Why play:** Try it if you want to see how cleaning, testing the juice and choosing yeast become decisions in a winemaking sim.
 
 [**Play in browser**](https://frontier.every.to/experiments/first-crush)
 
@@ -1621,6 +2022,8 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/k
 
 ### Floodplain
 
+**Why play:** Play for a city builder where the interesting problem is not just what to build, but how to live with the water.
+
 [**Play in browser**](https://arcadesquirrel.itch.io/floodplain)
 
 <details>
@@ -1637,6 +2040,8 @@ Claude-assisted build, per creator. [Creator source](https://www.reddit.com/r/ai
 <p><a href="https://zucchinibasketgames.itch.io/heir-guitar"><img src="https://img.itch.zone/aW1hZ2UvNTI0NDk5Ny8zMTQ0OTk0My5wbmc=/original/NRaAVJ.png" width="720" alt="HEIR GUITAR screenshot"></a></p>
 
 ### HEIR GUITAR
+
+**Why play:** Choose this for the ridiculous premise of building a music career around an instrument that does not exist.
 
 [**Play in browser**](https://zucchinibasketgames.itch.io/heir-guitar)
 
@@ -1655,6 +2060,8 @@ Claude wrote the game code and text; Gemini supplied the music. [Creator source]
 
 ### Keep Scrolling, Keep the Flame
 
+**Why play:** Try it for the pointed tension of keeping something alive while a simulated social feed demands your attention.
+
 [**Play in browser**](https://dm9494.itch.io/keep-scrolling)
 
 <details>
@@ -1671,6 +2078,8 @@ The creator says Claude Code wrote the code and Claude wrote the in-game posts, 
 <p><a href="https://kigaro-games.itch.io/kiosk-days-st-martins-evening"><img src="https://img.itch.zone/aW1hZ2UvNTI0NDkxNy8zMTQ0ODAyOS5wbmc=/original/4vhQFK.png" width="720" alt="Kiosk Days: St. Martin's Evening screenshot"></a></p>
 
 ### Kiosk Days: St. Martin's Evening
+
+**Why play:** Pick this for a management game with a small, tangible goal: have the kiosk ready before the lantern parade.
 
 [**Play in browser**](https://kigaro-games.itch.io/kiosk-days-st-martins-evening)
 
@@ -1689,6 +2098,8 @@ Claude programmed the Godot game and scripted the pixel art. [Creator source](ht
 
 ### Mudlark Pottery
 
+**Why play:** Try it for a relaxed session of shaping an object from wet clay all the way through glazing and firing.
+
 [**Play in browser**](https://atlas-house.itch.io/mudlark-pottery)
 
 <details>
@@ -1706,6 +2117,8 @@ Claude Code wrote the Three.js game and scripted the Blender models. [Creator so
 
 ### Small Magic
 
+**Why play:** Play if you like learning what a spell does by knocking things over in a physics playground.
+
 [**Play in browser**](https://patch.gg/play/blendi/small-magic)
 
 <details>
@@ -1717,11 +2130,32 @@ The creator credits Claude Fable for the build. [Creator source](https://x.com/B
 
 </details>
 
+<a name="game-the-great-refinery-run"></a>
+
+<p><a href="https://fuelingcuriosity.com/game.html"><img src="https://fuelingcuriosity.com/social-preview.jpg" width="720" alt="The Great Refinery Run screenshot"></a></p>
+
+### The Great Refinery Run
+
+**Why play:** The roughly five-minute run makes real industrial processes tangible through hands-on minigames instead of a textbook.
+
+[**Play in browser**](https://fuelingcuriosity.com/game.html)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Follow crude oil through refinery stages via a sequence of physics minigames.
+
+The creator credits Claude, Copilot, and Gemini with helping to write the code. [Creator source](https://news.ycombinator.com/item?id=47338091)
+
+</details>
+
 <a name="game-the-lists-champion"></a>
 
 <p><a href="https://felmeric.itch.io/the-lists-champion"><img src="https://img.itch.zone/aW1hZ2UvNDkwNjI4Mi8yOTMzMTcwOS5wbmc=/794x1000/PJR4CT.png" width="720" alt="The List's Champion screenshot"></a></p>
 
 ### The List's Champion
+
+**Why play:** Choose this if you want medieval competition built around the feel of balancing and lining up one good pass.
 
 [**Play in browser**](https://felmeric.itch.io/the-lists-champion)
 
@@ -1740,6 +2174,8 @@ The creator used Claude Code with Opus 5 as a pair programmer throughout develop
 
 ### TORCHDEEP
 
+**Why play:** Pick this for cave exploration where managing your light is part of the challenge, not just a visual effect.
+
 [**Play in browser**](https://kqmigqkqri.itch.io/torchdeep)
 
 <details>
@@ -1751,9 +2187,32 @@ The creator says Claude wrote the cave generation, light, upgrades, saves, scree
 
 </details>
 
+<a name="game-traffic-architect"></a>
+
+<p><a href="https://www.crazygames.com/game/traffic-architect-tic"><img src="https://imgs.crazygames.com/traffic-architect-tic_16x9/20261023042932/traffic-architect-tic_16x9-cover.png" width="720" alt="Traffic Architect screenshot"></a></p>
+
+### Traffic Architect
+
+**Why play:** Skip zoning and construction. Let the city expand on its own and see whether your road network can keep up.
+
+[**Play in browser**](https://www.crazygames.com/game/traffic-architect-tic)
+
+<details>
+<summary>Gameplay &amp; creator source</summary>
+
+Build and revise road networks as a city grows on its own and traffic builds up.
+
+The developer credits Claude Code with Opus 4.6 and Three.js for the browser build. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1rz24eb/built_a_3d_browser_game_with_claude_traffic/)
+
+Creator-reported lower bound, not publisher telemetry. [Source](https://www.reddit.com/r/ClaudeCode/comments/1vjvawt/5_months_ago_you_told_me_ship_it_on_steam_and_now/).
+
+</details>
+
 <a name="game-tugwake"></a>
 
 ### Tugwake
+
+**Why play:** Try it if the precision of nudging a big ship into berth sounds more rewarding than racing one.
 
 [**Play in browser**](https://vinish.dev/tugwake-tugboat-browser-based-game)
 
@@ -1772,6 +2231,8 @@ The creator documents the Claude-assisted build. [Creator source](https://www.re
 
 ### Voidstruck
 
+**Why play:** Try it on a WebGPU-capable desktop if you want to pilot a ship through a galaxy that is generated as an open-ended setting.
+
 [**Play in browser**](https://voidstruck.com/)
 
 <details>
@@ -1788,6 +2249,8 @@ Fable 5.2 in Claude Code, per creator. [Creator source](https://www.reddit.com/r
 <p><a href="https://jpetree331.itch.io/wardlight-frontier"><img src="https://img.itch.zone/aW1hZ2UvNTI1MzIwOS8zMTUwMTUwMi5qcGc=/794x1000/eS4TiN.jpg" width="720" alt="Wardlight Frontier screenshot"></a></p>
 
 ### Wardlight Frontier
+
+**Why play:** Play if you like crafting where the tools you make determine which hostile biomes you can venture into.
 
 [**Play in browser**](https://jpetree331.itch.io/wardlight-frontier)
 
@@ -1810,6 +2273,8 @@ These need a download or setup; they are not included in the browser-game count.
 
 ### Skyfire
 
+**Why play:** Worth downloading if you want to fight from dragonback and see an aerial boss staged above the clouds.
+
 [**Download and workflow**](https://higgsfield.ai/@higgsfield.studio/blogs/claude-fable-5-2-built-a-dragon-riding-game-play-it-free)
 
 <details>
@@ -1828,6 +2293,8 @@ Higgsfield Studio. Ride a dragon, fight in the air, and face a titan above the c
 <p><a href="https://github.com/Rolandjg/fableflight"><img src="https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&amp;s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e" width="720" alt="FableFlight screenshot"></a></p>
 
 ### FableFlight
+
+**Why play:** Worth building locally if you are interested in an open-world flight simulator made with Claude rather than a short web demo.
 
 [**Source and setup**](https://github.com/Rolandjg/fableflight)
 
@@ -1848,6 +2315,8 @@ These are explorable scenes or technical experiments, not full games.
 
 ### Abyssal Garden
 
+**Why play:** Open this when you want to swim through a procedural underwater soundscape without a score to chase.
+
 [**Open demo**](https://noniv.github.io/abyssal-garden/)
 
 <details>
@@ -1862,6 +2331,8 @@ Maksymilian Dendura. Swim through a WebGPU underwater scene with procedural geom
 <a name="game-papertrails"></a>
 
 ### Papertrails
+
+**Why play:** Open it for the pleasure of moving through a landscape built like a pop-up paper scene.
 
 [**Open demo**](https://xikhar.github.io/papertrails/)
 

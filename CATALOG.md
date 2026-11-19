@@ -1,10 +1,10 @@
 # Full game directory
 
-**104 browser games**, plus 2 local builds and 2 interactive demos. [Back to the screenshot gallery](README.md).
+**117 browser games**, plus 2 local builds and 2 interactive demos. [Back to the screenshot gallery](README.md).
 
 Browser games are listed on their creator’s play page or an official publishing platform. Some need a desktop keyboard, WebGPU, or a modern browser. A link is not a claim of hands-on testing.
 
-## Action & adventure (38)
+## Action & adventure (41)
 
 | Game | What you do | Claude attribution |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Bayun](https://atlas-house.itch.io/bayun) | Solve riddles and climb to the folkloric storytelling cat. | Claude Opus 5.5 wrote the Godot game and contributed character and art pipelines. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-1/rate/5089657) |
 | [BLAMELESS](https://blameless.petruha.ge/) | A desktop 3D shooter that turns an on-call incident into satire. | Fable 5.2; original prompt in the project repository. [Creator source](https://github.com/Petyok/blameless) |
 | [Brontide](https://brontide.live/) | Explore an underground hangar and pilot a sixty-ton mech through a training arena. Fable 5.2 is credited for the Cavern mode. | The creator documents the Claude-assisted build. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1xvl8nu/) |
+| [Castle Valley](https://omw-game.kimaki.dev) | Walk from a dark forest to a mountain castle, torch and sword in hand, fighting goblins and trolls. | Tommy D. Rossi credits Claude Fable 5.2 for the playable adaptation of Desimulate’s original “omw” pixel-art scene. [Creator source](https://x.com/__morse/status/2122013410309153042) · [Project repository](https://github.com/remorses/castle-valley) |
 | [Cindervale](https://mistercoconut.itch.io/cindervale) | Grapple through an underground metroidvania with bullet-hell combat. | The creator attributes the build to Claude Code with human assistance. [Creator source](https://mistercoconut.itch.io/cindervale) |
 | [Evensong](https://evensong-phi.vercel.app/) | Fight a dark-fantasy boss in a compact soulslike prototype. | The creator credits Claude Fable for the build. [Creator source](https://x.com/kevin_t_ngo/status/2120238844754923874) |
 | [Feed the Backrooms](https://feed-backrooms.vercel.app) | Play as the monster instead of the escapee in a Backrooms horror game. | The creator credits Claude Fable for the build. [Creator source](https://x.com/LexnLin/status/2119966127149429093) |
@@ -38,8 +39,10 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Sky Patent](https://cocolitocollective.itch.io/sky-patent) | Build a blueprint-style aircraft and shoot through three missions to unlock new parts. | Claude Opus 5.5 implemented the JavaScript, procedural graphics and sound. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-2/rate/5196780) |
 | [Skywake](https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057) | Pilot a flying craft through a series of quests. | The creator credits Claude Fable for the build. [Creator source](https://x.com/aniketjart/status/2120378493729222700) |
 | [Spears of Exekias](https://ans106.itch.io/exa) | Duel Achilles in a wordless game modeled on an ancient painted vase. | Claude Code and Codex helped create the code and procedural artwork. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-3/rate/5291223) |
+| [SUBLEVEL 07](https://wquguru.github.io/fable52-fps-repro/demos/04-fps/) | Fight three waves of drones inside a flooded underground substation. | The creator documents using Claude Code with Fable 5.2 to produce the single-file FPS and its procedural models, textures, and audio. [Creator source](https://x.com/wquguru/status/2120383332722905400) · [Project repository](https://github.com/wquguru/fable52-fps-repro) |
 | [Sunwarden](https://sunwarden.higgsfield.app/) | Explore a 3D world, solve puzzles, and face a boss. Desktop recommended. | Fable 5.2 with Higgsfield tools. [Creator source](https://higgsfield.ai/mcp/new-skill-2fb09e61-56a6-45de-9eef-7028a5bafbab) |
 | [The Waking River](https://rivergame-kappa.vercel.app) | Explore a fantasy landscape in a browser adventure built without a game engine. | The creator credits Claude Fable for the build. [Creator source](https://x.com/flxrnc/status/2120494277528580110) |
+| [Three.js Quake](https://mrdoob.github.io/three-quake/) | Play the shareware episode of id Software’s Quake in a Three.js browser port. | The project credits mrdoob and Claude for the Three.js port, not the original game or its assets. [Creator source](https://github.com/mrdoob/three-quake#credits) · [Project repository](https://github.com/mrdoob/three-quake) |
 | [TUNAS: Last Archive](https://ngong2000.itch.io/tunas-last-archive) | Lead a tactical squad, recover lost knowledge, and defend the last archive. | The developer selected the Claude Code build and then refined it with Claude Code, Codex, and human input. [Creator source](https://ngong2000.itch.io/tunas-last-archive) |
 | [Valle Morta](https://valle-morta.vercel.app/) | Fight through a first-person shooter set in a detailed Italian village. | The creator credits Claude Fable for the build. [Creator source](https://x.com/LexnLin/status/2121934071429468543) |
 | [Wake Word: Almost Home](https://redrakam.itch.io/wake-word-almost-home) | Psychological horror built around an uneasy trip home. | Claude Code plus ChatGPT review. [Creator source](https://www.reddit.com/r/aigamedev/comments/1xbwv2h/i_built_a_horror_game_with_claude_code_chatgpt/) |
@@ -47,11 +50,13 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Wind-up cat](https://korusagi.itch.io/wind-up-cat) | Break into the Vacuum Factory with a tiny wind-up robot and rescue caged cats. | The creator built the game with Claude Opus 5.5. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-1/rate/5096791) |
 | [WONTFIX](https://wontfix-game.netlify.app/) | Explore a haunted project-management system in a narrative horror game. | Claude credited by the creator; the repository notes ElevenLabs audio. [Creator source](https://github.com/emollick/audiologs) |
 
-## Arcade, racing & sports (20)
+## Arcade, racing & sports (22)
 
 | Game | What you do | Claude attribution |
 | --- | --- | --- |
+| [38-0-0](https://38-0-0.com/) | Draft a starting XI from randomly chosen Premier League clubs and seasons, then simulate a season. | Creator Deniz Sancar told MobileGamer.biz he used Claude Code to make the original web game and then its app. [Creator source](https://mobilegamer.biz/the-uks-number-one-ios-game-38-0-0-was-built-overnight-by-an-amateur-using-claude-code/) |
 | [4096 Torch](https://4096x.itch.io/4096-torch) | Dodge larger number ghosts and merge matching ones to grow your torch. | Claude designed, balanced and programmed the game. [Creator source](https://4096x.itch.io/4096-torch) |
+| [A Game About Capybaras Delivering Food](https://capybara-vibejam26.leocoout.dev/) | Ride a scooter as a capybara and deliver food against the clock without spilling your order. | Leo credits Claude Code with Opus 4.7 for code, with other tools credited for asset generation. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1urzr1q/i_just_made_25k_usd_with_my_capybara_game_built/) |
 | [Banana Mine Rush](https://remix.gg/g/banana-mine-rush) | Race karts around a mine in a 3D game with multiplayer and leaderboards. | The creator credits Claude Fable for the build. [Creator source](https://x.com/0xChuckstock/status/2120125184606658728) |
 | [Crust Courier](https://vinish.dev/crust-courier) | Deliver pizza by motorbike before time runs out. | The creator documents the Claude-assisted build. [Creator source](https://www.reddit.com/r/ClaudeGameDev/comments/1xu808o/37_browser_games_and_25_simulators_all_made_with/) |
 | [Dorbaaz](https://vinish.dev/dorbaaz-kite-fighting-browser-based-game) | Cross and cut rival kite strings above city rooftops. | The creator documents the Claude-assisted build. [Creator source](https://www.reddit.com/r/ClaudeGameDev/comments/1xu808o/37_browser_games_and_25_simulators_all_made_with/) |
@@ -72,7 +77,7 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Typissimo](https://typissimo.com/) | Type words accurately to add notes and drums to a live electronic soundtrack. | The creator documents the Claude-assisted build. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1xun1vk/) |
 | [Uno com Escada](https://viktorkav.com.br/apoio/uno-com-escada/fable/) | Race a 1996 Fiat Uno with a ladder strapped to the roof around a forest circuit. | The creator credits Claude Fable for the build. [Creator source](https://x.com/ViktorKav/status/2122647483281015155) |
 
-## Puzzle & narrative (16)
+## Puzzle & narrative (17)
 
 | Game | What you do | Claude attribution |
 | --- | --- | --- |
@@ -82,6 +87,7 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Crosstographer](https://nicklesimba.itch.io/crosstographer) | Map a locked-down starship and solve a crossword hidden in its corridors. | The studio says Claude Code programmed the game; gameplay design, writing, art, and music were not AI-made. [Creator source](https://nicklesimba.itch.io/crosstographer) |
 | [Dawnlings](https://kengoworks.itch.io/dawnlings) | Tilt a 3D valley to roll small creatures to safety. | The creator credits Claude Fable for the build. [Creator source](https://x.com/kevin_t_ngo/status/2122969346935017497) |
 | [Eko](https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine) | Use echoes of previous runs to solve 31 rooms. | The developer credits Claude Code with programming, scripted art and sound, and language support. [Creator source](https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine) |
+| [GeoSports](https://geosports.app/play) | Locate five sports clues by dropping pins on a map in a new daily challenge. | Frank Michael Smith says he built and iterated on the first playable version with Claude Code. [Creator source](https://fmsnewsletter.beehiiv.com/p/geosports) |
 | [Grandma's Tech Support](https://kawalight-studio.itch.io/grandmas-tech-support) | Follow Grandma’s questionable instructions through a short set of LittleJS puzzles. | Kawalight Studio discloses Claude Code in its development notes. [Creator source](https://kawalight-studio.itch.io/grandmas-tech-support) |
 | [I Would Have Gotten Away With It](https://i-would-have-gotten-away-with-it.netlify.app/) | Play the villain in a reverse Scooby-Doo parody and scare the meddling investigators. | The creator credits Claude Fable for the build. [Creator source](https://x.com/emollick/status/2119876449494540554) |
 | [Laser Dot](https://cocolitocollective.itch.io/laser-dot) | Lead a cat through seven rooms using a robot's laser pointer. | Two Claude sessions implemented the project in 26 creator-approved batches. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-1/rate/5100771) |
@@ -93,11 +99,13 @@ Browser games are listed on their creator’s play page or an official publishin
 | [TALLY LIGHT](https://markeljan.itch.io/tally-light) | Switch among cameras to direct a live toy-action show. | Markeljan describes using Claude Code to build and test the game. [Creator source](https://markeljan.itch.io/tally-light) |
 | [Tumblebuds: The Journey Home](https://johnnyffm.github.io/tumblebuds/) | Guide little creatures through a 3D puzzle adventure. | Fable 5.2 in Claude Code. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1xx4y79/i_built_a_3d_puzzle_game_for_my_5yearold_with/) · [Project repository](https://github.com/JohnnyFFM/tumblebuds) |
 
-## RPG & strategy (14)
+## RPG & strategy (18)
 
 | Game | What you do | Claude attribution |
 | --- | --- | --- |
+| [ARES OUTPOST](https://coyne-studios.itch.io/ares-outpost) | Position and upgrade towers on an open map to hold off endless enemy waves. | The creator says they built the Godot project using Claude models via Cursor. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1vc2aw2/1000_in_claude_credits_to_create_my_dream_game/) |
 | [ARGON DOMINATES](https://dexnazar.itch.io/argon-dominates) | Steer a living swarm of violet argon and absorb other noble gases. | The creator credits Claude Code for the simulation, renderer, shaders, audio, levels, UI, and tools. [Creator source](https://dexnazar.itch.io/argon-dominates) |
+| [ARRR](https://play.arrr.fun/) | Set sail, explore procedurally generated islands, and run into other crews in a browser pirate MMORPG. | Jaeyun Noh credits Claude Code and Fable for world generation, multiplayer, and most gameplay systems. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1usno3r/i_made_a_pirate_mmo_with_fable_and_the_entire/) |
 | [Battle Drones](https://simonw.github.io/battledrones/) | Play a tactical real-time strategy game in your browser. | Opus 5.5 on the main build; Fable 5 in early versions. [Creator source](https://simonwillison.net/2026/Oct/20/battledrones/) · [Project repository](https://github.com/simonw/battledrones) |
 | [Cerebronline](https://pogorskii.itch.io/cerebronline) | Play a browser RPG developed for the Epic AI MegaJam. | The creator credits Claude Code and OpenAI Codex with most gameplay code and tooling. [Creator source](https://pogorskii.itch.io/cerebronline) |
 | [Chokepoint](https://umutcanekinci.itch.io/chokepoint) | Hold the line through 25 rounds of tower defense, then play endless mode. | Umutcan Ekinci credits Claude Code as a coding assistant while retaining design, direction, and playtesting. [Creator source](https://umutcanekinci.itch.io/chokepoint) |
@@ -109,13 +117,16 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Minimal Rogue](https://hirotaka-adachi.itch.io/minimal-rogue) | Retro dungeon RPG with English and Japanese support. | Claude Code; separate credit for Suno music. [Creator source](https://github.com/HirotakaAdachi/Rogue) |
 | [Othello Variants](https://kawalight-studio.itch.io/othello-variants) | Play seven versions of Othello, solo or against another player. | Parallel Claude Code agents designed and implemented the game. [Creator source](https://kawalight-studio.itch.io/othello-variants) |
 | [Placebound](https://placebound.dariuszparys.com/) | A two-player desktop strategy game with real-time arena battles. | See the author's account of developing the browser build with Claude. [Creator source](https://www.dariuszparys.com/placebound-archon-in-the-browser) |
+| [Pyramid Wars Demo](https://durian-arcade.itch.io/pyramid-wars) | Build factories and towers, send tanks at the enemy pyramid, and upgrade your army with new cards. | Durian Arcade lists Claude Opus 4.8 for coding, graphics, sound, and music, and Grok for the cover. [Creator source](https://itch.io/jam/ai-game-jam-3/rate/4673138) |
 | [Two Castles](https://emberbit.itch.io/two-castles) | Send an army against an opposing castle in short battles. | The developer credits Claude Code with building the Phaser game code from scratch. [Creator source](https://emberbit.itch.io/two-castles) |
 | [Valsera](https://valsera-game.vercel.app/) | Fight through a side-scrolling fantasy RPG drawn entirely in code. | The creator credits Claude Fable for the build. [Creator source](https://x.com/kevin_t_ngo/status/2121701020598415465) |
+| [World of ClaudeCraft](https://worldofclaudecraft.com/) | Level a character through a classic-style multiplayer RPG with nine classes, quests, and dungeons. Online play requires an account. | Levy Street credits Claude Fable 5 for the original playable build, with human engineering and ongoing development. [Creator source](https://levystreet.com/portfolio/world-of-claudecraft/) · [Project repository](https://github.com/levy-street/world-of-claudecraft) |
 
-## Simulation & sandbox (16)
+## Simulation & sandbox (19)
 
 | Game | What you do | Claude attribution |
 | --- | --- | --- |
+| [1 in 8 Billion](https://1in8b.life/en/) | Live a randomized life shaped by real-world statistics, deciding how to handle school, work, and relationships. | Jin’s Earth documents creating the life simulation with Claude and refining it with public feedback. [Creator source](https://1in8b.life/en/story/eight-lines/) |
 | [Cinderscoop](https://vinish.dev/cinderscoop-firefighting-plane-browser-based-game) | Scoop lake water and drop it on spreading wildfires. | The creator documents the Claude-assisted build. [Creator source](https://www.reddit.com/r/ClaudeGameDev/comments/1xu808o/37_browser_games_and_25_simulators_all_made_with/) |
 | [Cozy Cat Cooking Cafe](https://simplesystemsstudios.itch.io/cozy-cat-cooking-cafe) | Run a cozy food truck with a cat and a robot. | The jam submission credits Claude Code for programming and ChatGPT for imagery. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-1/rate/5109544) |
 | [Dustfall](https://dustfalls.netlify.app/) | Ride, hunt, fish, play blackjack, and settle a score in an original open-world western. | The creator documents the Claude-assisted build. [Creator source](https://github.com/webKing021/dustfall#readme) |
@@ -127,8 +138,10 @@ Browser games are listed on their creator’s play page or an official publishin
 | [Kiosk Days: St. Martin's Evening](https://kigaro-games.itch.io/kiosk-days-st-martins-evening) | Stock a small kiosk ahead of the village lantern parade. | Claude programmed the Godot game and scripted the pixel art. [Creator source](https://kigaro-games.itch.io/kiosk-days-st-martins-evening) |
 | [Mudlark Pottery](https://atlas-house.itch.io/mudlark-pottery) | Throw, trim, glaze and fire pottery in a cozy studio. | Claude Code wrote the Three.js game and scripted the Blender models. [Creator source](https://itch.io/jam/jamference-ai-game-jam-hack-2/rate/5192063) |
 | [Small Magic](https://patch.gg/play/blendi/small-magic) | Cast seven spells and knock apart a wizard’s physics playground. | The creator credits Claude Fable for the build. [Creator source](https://x.com/BlendiByl/status/2121594536153718972) |
+| [The Great Refinery Run](https://fuelingcuriosity.com/game.html) | Follow crude oil through refinery stages via a sequence of physics minigames. | The creator credits Claude, Copilot, and Gemini with helping to write the code. [Creator source](https://news.ycombinator.com/item?id=47338091) |
 | [The List's Champion](https://felmeric.itch.io/the-lists-champion) | Practice timing, balance, and aim in a medieval jousting sim. | The creator used Claude Code with Opus 5 as a pair programmer throughout development. [Creator source](https://felmeric.itch.io/the-lists-champion) |
 | [TORCHDEEP](https://kqmigqkqri.itch.io/torchdeep) | Explore a dark cave and manage light and upgrades. | The creator says Claude wrote the cave generation, light, upgrades, saves, screens, and page. [Creator source](https://kqmigqkqri.itch.io/torchdeep) |
+| [Traffic Architect](https://www.crazygames.com/game/traffic-architect-tic) | Build and revise road networks as a city grows on its own and traffic builds up. | The developer credits Claude Code with Opus 4.6 and Three.js for the browser build. [Creator source](https://www.reddit.com/r/ClaudeAI/comments/1rz24eb/built_a_3d_browser_game_with_claude_traffic/) |
 | [Tugwake](https://vinish.dev/tugwake-tugboat-browser-based-game) | Berth ships and rescue drifting vessels with a harbour tug. | The creator documents the Claude-assisted build. [Creator source](https://www.reddit.com/r/ClaudeGameDev/comments/1xu808o/37_browser_games_and_25_simulators_all_made_with/) |
 | [Voidstruck](https://voidstruck.com/) | Pilot a ship through a procedural galaxy. Desktop WebGPU recommended. | Fable 5.2 in Claude Code, per creator. [Creator source](https://www.reddit.com/r/ClaudeCode/comments/1xzp5o4/a_game_with_a_galaxy_of_150_million_star_systems/) · [Project repository](https://github.com/vitaminclaude/voidstruck) |
 | [Wardlight Frontier](https://jpetree331.itch.io/wardlight-frontier) | Dig up and refine materials, then carry the right light into hostile biomes. | The developer's AI-usage note credits Anthropic Claude in Claude Code. [Creator source](https://jpetree331.itch.io/wardlight-frontier) |

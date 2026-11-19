@@ -68,7 +68,7 @@ def main():
     if args.metadata:
         extras=json.loads(args.metadata.read_text(encoding="utf-8"))
         for g in catalog["games"]:
-            for key in ("embed","image","x","recommended"):
+            for key in ("embed","image","x","recommended","whyPlay","imageSource"):
                 if key in extras.get(g["id"],{}):
                     g[key]=extras[g["id"]][key]
     args.output.write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
