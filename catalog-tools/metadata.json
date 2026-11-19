@@ -1,0 +1,1599 @@
+{
+  "agent-of-somebody": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://www.anchorterminal.com/games/agent-of-somebody/",
+      "xFrameOptions": "SAMEORIGIN"
+    }
+  },
+  "aiden-s-revenge": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://aidens-revenge.pages.dev/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://aidens-revenge.pages.dev/"
+    },
+    "image": "https://notesbylex.com/_media/aidens-revenge/hulk-owen.jpg"
+  },
+  "alias-in-space-no-one-can-hear-you-meow": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://soupsarah.itch.io/alias",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA5MTkxNy8zMDQ4NTgwOS5wbmc=/original/as%2BbFt.png"
+  },
+  "all-you-mean-to-me": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://woflo.itch.io/all-you-mean-to-me",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI4OTM5OS8zMTc3MDc0My5naWY=/original/FlKfx9.gif"
+  },
+  "bayun": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://atlas-house.itch.io/bayun",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA4OTY1Ny8zMDY1MDA4OS5wbmc=/original/JrR9e6.png"
+  },
+  "blameless": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://blameless.petruha.ge/",
+      "frameAncestors": [
+        "'none'"
+      ]
+    },
+    "image": "https://raw.githubusercontent.com/Petyok/blameless/main/screenshots.jpg"
+  },
+  "brontide": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://brontide.live/",
+      "xFrameOptions": "SAMEORIGIN",
+      "frameAncestors": [
+        "'self'"
+      ]
+    }
+  },
+  "cindervale": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://mistercoconut.itch.io/cindervale",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1nLzMxMzU5Mzg3LnBuZw==/original/umAy%2Bk.png"
+  },
+  "evensong": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://evensong-phi.vercel.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://evensong-phi.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg",
+    "x": [
+      {
+        "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+        "views": 487066,
+        "checkedAt": "2026-11-19T07:11:43+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-10T19:35:07.000Z",
+        "author": "Kevin Ngo (@kevin_t_ngo) on X"
+      }
+    ]
+  },
+  "feed-the-backrooms": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://feed-backrooms.vercel.app",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://feed-backrooms.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119959903062183936/img/7Iw53TmYQa2xxvPH.jpg",
+    "x": [
+      {
+        "url": "https://x.com/LexnLin/status/2119966127149429093",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "gilt-gutter": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://gilt-and-gutter.vercel.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://gilt-and-gutter.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119899054520061952/img/5AHKPQpLbKV5Hi0o.jpg",
+    "x": [
+      {
+        "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "greatest-work-of-art": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://storytellermeeka.itch.io/greatest-work-of-art",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI4NjU0NS8zMTgwNzEzMS5wbmc=/original/FFZMAU.png"
+  },
+  "hitofude": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://shubhu121.github.io/hitdude/play/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://shubhu121.github.io/hitdude/play/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120373808574152704/img/chDaqlI3QO5-IhXS.jpg",
+    "x": [
+      {
+        "url": "https://x.com/positronx_/status/2120374208043876422",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "hungereth": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://clipmarz.itch.io/hungereth",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI2ODgyMS8zMTYwNjE1OC5wbmc=/original/4lN%2FQc.png"
+  },
+  "kitty-kingdom-and-the-robot-menace": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://dgeisert.itch.io/kitty-kingdom",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA5NDk4NS8zMDU5MjE2MS5naWY=/original/VMVmg0.gif"
+  },
+  "kumokiri": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a",
+      "xFrameOptions": "DENY",
+      "frameAncestors": [
+        "'none'"
+      ]
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2121099817556512768/img/iZyxT3egICKE1ONR.jpg",
+    "x": [
+      {
+        "url": "https://x.com/aniketjart/status/2121101334900617631",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "lanternfall": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://loktar00.github.io/lanternfall/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 206,
+      "finalUrl": "https://loktar00.github.io/lanternfall/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120187656881516544/img/ugjT74smgSzi_U3X.jpg",
+    "x": [
+      {
+        "url": "https://x.com/loktar00/status/2120192761542615271",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "last-light": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:18Z",
+      "httpStatus": 200,
+      "finalUrl": "https://8hm-v2.itch.io/last-light",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI5OTk3My8zMTgyNDAwNy5wbmc=/794x1000/Eb3Jr%2F.png"
+  },
+  "lumina-zombies": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:21Z",
+      "httpStatus": 200,
+      "finalUrl": "https://luminazombies.com/",
+      "xFrameOptions": "SAMEORIGIN"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120656161665880064/img/aVeGxS9F3WC8dHJn.jpg",
+    "x": [
+      {
+        "url": "https://x.com/LuminaBench/status/2120660076927099048",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "mist-locked-gate": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://op7418.github.io/guizang-game-skill/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:21Z",
+      "httpStatus": 206,
+      "finalUrl": "https://op7418.github.io/guizang-game-skill/"
+    },
+    "image": "https://raw.githubusercontent.com/op7418/guizang-game-skill/main/media/shot_combo.jpg"
+  },
+  "number": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:21Z",
+      "httpStatus": 200,
+      "finalUrl": "https://nipad.itch.io/number",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM1MTQ2Ny8zMjI4Mzc3OS5wbmc=/794x1000/R3u8Mt.png"
+  },
+  "out-of-frame": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:21Z",
+      "httpStatus": 200,
+      "finalUrl": "https://nyxalium.itch.io/out-of-frame",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI5NDQ4My8zMTc3OTU2OC5wbmc=/original/yOj7e2.png"
+  },
+  "paper-moon": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 200,
+      "finalUrl": "https://appsbymeredith.itch.io/paper-moon",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE0MDg5MS8zMDc3OTU1OS5wbmc=/794x1000/gmEBRL.png"
+  },
+  "raccoon-heist": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://simonw.github.io/raccoon-heist/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 206,
+      "finalUrl": "https://simonw.github.io/raccoon-heist/"
+    },
+    "image": "https://static.simonwillison.net/static/2026/shot-dog.png"
+  },
+  "saltline": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 200,
+      "finalUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "frameAncestors": [
+        "'self' chrome-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn chrome-extension://dngcpimnedloihjnnfngkgjoidhnaolf"
+      ]
+    },
+    "x": [
+      {
+        "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+        "views": 4465009,
+        "checkedAt": "2026-11-19T07:11:43+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-09T22:50:32.000Z",
+        "author": "Felix Rieseberg (@felixrieseberg) on X"
+      }
+    ]
+  },
+  "save-the-world": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://save-the-world-fable.vercel.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 206,
+      "finalUrl": "https://save-the-world-fable.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120246021917655040/img/qOdJ0Quqt9fCqX73.jpg",
+    "x": [
+      {
+        "url": "https://x.com/global_techgirl/status/2120246750459961453",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "siege-wing": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 200,
+      "finalUrl": "https://bannerfall.itch.io/siege-wing",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120221793906802688/img/MHahsb6xmLHReK4o.jpg",
+    "x": [
+      {
+        "url": "https://x.com/builderjaydub/status/2120223731520040966",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "sky-patent": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 200,
+      "finalUrl": "https://cocolitocollective.itch.io/sky-patent",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE5Njc4MC8zMTEzMDQwNS5wbmc=/original/o6fIYZ.png"
+  },
+  "skywake": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 206,
+      "finalUrl": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+      "xFrameOptions": "DENY",
+      "frameAncestors": [
+        "'none'"
+      ]
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120376389518217219/img/rJKc_ncENG8pq8Jq.jpg",
+    "x": [
+      {
+        "url": "https://x.com/aniketjart/status/2120378493729222700",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "spears-of-exekias": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 200,
+      "finalUrl": "https://ans106.itch.io/exa",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI5MTIyMy8zMTg0ODIwNi5qcGc=/original/deKSOZ.jpg"
+  },
+  "sunwarden": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:22Z",
+      "httpStatus": 200,
+      "finalUrl": "https://sunwarden.higgsfield.app/",
+      "frameAncestors": [
+        "'self' https://higgsfield.app https://higgsfield.ai https://*.higgsfield.ai https://claude.ai https://*.claude.ai https://*.claudemcpcontent.com file:"
+      ]
+    },
+    "image": "https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/0c4a8793-c32c-4222-b6c4-3d21db410e70.webp"
+  },
+  "the-waking-river": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://rivergame-kappa.vercel.app",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:23Z",
+      "httpStatus": 206,
+      "finalUrl": "https://rivergame-kappa.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120491201304383489/img/vmxqwT2L-NKjWAKK.jpg",
+    "x": [
+      {
+        "url": "https://x.com/flxrnc/status/2120494277528580110",
+        "views": 5478,
+        "checkedAt": "2026-11-19T07:11:43+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-11T12:30:07.000Z",
+        "author": "Florence (@flxrnc) on X"
+      }
+    ]
+  },
+  "tunas-last-archive": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:23Z",
+      "httpStatus": 200,
+      "finalUrl": "https://ngong2000.itch.io/tunas-last-archive",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI2ODU3MS8zMTYxMTYyOS5wbmc=/794x1000/ut7IU5.png"
+  },
+  "valle-morta": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://valle-morta.vercel.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:23Z",
+      "httpStatus": 206,
+      "finalUrl": "https://valle-morta.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2121932247418781696/img/_s7lHFdK3-GkQAxM.jpg",
+    "x": [
+      {
+        "url": "https://x.com/LexnLin/status/2121934071429468543",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "wake-word-almost-home": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:23Z",
+      "httpStatus": 200,
+      "finalUrl": "https://redrakam.itch.io/wake-word-almost-home",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE5NzE4MC8zMTEzMzM4Ny5qcGc=/794x1000/LPUTt%2F.jpg"
+  },
+  "wick": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:24Z",
+      "httpStatus": 200,
+      "finalUrl": "https://hallucinatedgames.itch.io/wick",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE3ODM5Mi8zMTAxMDgwNi5qcGc=/794x1000/mu82%2FJ.jpg"
+  },
+  "wind-up-cat": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:24Z",
+      "httpStatus": 200,
+      "finalUrl": "https://korusagi.itch.io/wind-up-cat",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1nLzMwNTEyMzIyLnBuZw==/original/%2FCFCMU.png"
+  },
+  "wontfix": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://wontfix-game.netlify.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:24Z",
+      "httpStatus": 206,
+      "finalUrl": "https://wontfix-game.netlify.app/"
+    }
+  },
+  "4096-torch": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:24Z",
+      "httpStatus": 200,
+      "finalUrl": "https://4096x.itch.io/4096-torch",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI2NjA0MS8zMTU4Nzg4MS5wbmc=/original/SFiQxA.png"
+  },
+  "banana-mine-rush": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://remix.gg/g/banana-mine-rush",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 206,
+      "finalUrl": "https://remix.gg/g/banana-mine-rush"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120124768791760896/img/z1VLzmLPCMMRDkFn.jpg",
+    "x": [
+      {
+        "url": "https://x.com/0xChuckstock/status/2120125184606658728",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "crust-courier": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://vinish.dev/crust-courier",
+      "xFrameOptions": "SAMEORIGIN"
+    }
+  },
+  "dorbaaz": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://vinish.dev/dorbaaz-kite-fighting-browser-based-game",
+      "xFrameOptions": "SAMEORIGIN"
+    }
+  },
+  "fall-line": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://fallline-9zo.pages.dev",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://fallline-9zo.pages.dev/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2123032785111621632/img/JrwexXqgK-HpJOsB.jpg",
+    "x": [
+      {
+        "url": "https://x.com/BananaOfMercy/status/2123037856398733438",
+        "views": 12090,
+        "checkedAt": "2026-11-19T07:11:47+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-18T12:57:23.000Z",
+        "author": "BananaOfMercy (@BananaOfMercy) on X"
+      }
+    ]
+  },
+  "ink-tide": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://jupitax.itch.io/ink-and-tide",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI5MTcxMy8zMjQyODQ5My5naWY=/original/mfbkXo.gif"
+  },
+  "lightkeeper": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://thedannos.itch.io/lightkeeper",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI2NTA2My8zMTU4MTczOS5wbmc=/original/ZCdp2E.png"
+  },
+  "penguin-path": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://vinish.dev/penguin-path-game-online",
+      "xFrameOptions": "SAMEORIGIN"
+    }
+  },
+  "penguin-smack": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://penguinsmack.pages.dev/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:25Z",
+      "httpStatus": 200,
+      "finalUrl": "https://penguinsmack.pages.dev/"
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE1MzQ4NS8zMTA5MjA0Ni5qcGc=/794x1000/0uaX%2Bx.jpg"
+  },
+  "pumpkin-panic": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:26Z",
+      "httpStatus": 200,
+      "finalUrl": "https://kestrelww.itch.io/pumpkin-panic",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIyODg5NS8zMTM0MjA2MS5wbmc=/347x500/AvGVIA.png"
+  },
+  "rift-run": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://riftrungame.com/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:26Z",
+      "httpStatus": 206,
+      "finalUrl": "https://riftrungame.com/"
+    }
+  },
+  "rooftop-rally": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:26Z",
+      "httpStatus": 200,
+      "finalUrl": "https://wavedash.com/games/rooftop-rally",
+      "xFrameOptions": "SAMEORIGIN",
+      "frameAncestors": [
+        "'self'"
+      ]
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120154381584838656/img/I33quCLrC5wXZSJK.jpg",
+    "x": [
+      {
+        "url": "https://x.com/chongdashu/status/2120154573356793883",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "scratch": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:26Z",
+      "httpStatus": 200,
+      "finalUrl": "https://granthaffner.itch.io/scratch",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA5NTgxMy8zMDYxMzAwOC5wbmc=/original/wcv4m0.png"
+  },
+  "skull-jam": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://skulljam.com/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:27Z",
+      "httpStatus": 206,
+      "finalUrl": "https://skulljam.com/"
+    }
+  },
+  "solstice-racing": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://samg-coder.github.io/solstice-racing/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:27Z",
+      "httpStatus": 206,
+      "finalUrl": "https://samg-coder.github.io/solstice-racing/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120041908072579072/img/zwTrDm52ngDSKJ3t.jpg",
+    "x": [
+      {
+        "url": "https://x.com/SamGCoder/status/2120044542087070066",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "starry-nightrider": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:27Z",
+      "httpStatus": 206,
+      "finalUrl": "https://starrynightrider.com/",
+      "xFrameOptions": "SAMEORIGIN"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120283338477121537/img/tdKADwxxpbgwFZ3C.jpg",
+    "x": [
+      {
+        "url": "https://x.com/ebbyamir/status/2120284261089673376",
+        "views": 1980333,
+        "checkedAt": "2026-11-19T07:11:47+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-10T22:35:35.000Z",
+        "author": "Ebby Amir (@ebbyamir) on X"
+      }
+    ]
+  },
+  "thunder-valley": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://loktar00.github.io/llm-test-pages/fable52-dino-chase/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:27Z",
+      "httpStatus": 206,
+      "finalUrl": "https://loktar00.github.io/llm-test-pages/fable52-dino-chase/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120735773737558016/img/6fMHbqGmbpaztzNh.jpg",
+    "x": [
+      {
+        "url": "https://x.com/loktar00/status/2120905457380507991",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "turfrush": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:27Z",
+      "httpStatus": 200,
+      "finalUrl": "https://ringburst.itch.io/turfrush",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIwOTc0OS8zMTIxNTAyNC5wbmc=/794x1000/QcncjW.png"
+  },
+  "typissimo": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://typissimo.com/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:27Z",
+      "httpStatus": 206,
+      "finalUrl": "https://typissimo.com/"
+    }
+  },
+  "uno-com-escada": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 206,
+      "finalUrl": "https://viktorkav.com.br/apoio/uno-com-escada/fable/",
+      "xFrameOptions": "SAMEORIGIN",
+      "frameAncestors": [
+        "'self'"
+      ]
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122647285448200192/img/R9mwhRfLPYb_6FPC.jpg",
+    "x": [
+      {
+        "url": "https://x.com/ViktorKav/status/2122647483281015155",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "art-cat-burglar": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://aelysium.itch.io/art-cat-burglar",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTMwNzgwNy8zMTg4MDI2Ny5wbmc=/original/SuDX19.png"
+  },
+  "castling-rights": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://hergal.itch.io/castling-rights",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA3NjEwMC8zMDM4NTg3MC5wbmc=/794x1000/O5KNrN.png"
+  },
+  "coalheart": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://nebitula.itch.io/coalheart",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIxMzcxNS8zMTI0MjMzMC5wbmc=/original/xZAKDQ.png"
+  },
+  "crosstographer": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://nicklesimba.itch.io/crosstographer",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA2NTU3Ny8zMDM0NjQzMS5wbmc=/794x1000/3bgFpV.png"
+  },
+  "dawnlings": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://kengoworks.itch.io/dawnlings",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122967328568827904/img/MMJhfmzUHB0dEaiW.jpg",
+    "x": [
+      {
+        "url": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+        "views": 20617,
+        "checkedAt": "2026-11-19T07:11:47+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-18T08:25:09.000Z",
+        "author": "Kevin Ngo (@kevin_t_ngo) on X"
+      }
+    ]
+  },
+  "eko": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://elifzmen203-cloud.itch.io/eko-ghost-in-the-machine",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM4MDE4OS8zMjQyMjA0My5wbmc=/794x1000/FiIhhv.png"
+  },
+  "grandma-s-tech-support": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 200,
+      "finalUrl": "https://kawalight-studio.itch.io/grandmas-tech-support",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE5NzE2Ni8zMTEzMjQwMy5wbmc=/794x1000/Y6lGhp.png"
+  },
+  "i-would-have-gotten-away-with-it": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://i-would-have-gotten-away-with-it.netlify.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:28Z",
+      "httpStatus": 206,
+      "finalUrl": "https://i-would-have-gotten-away-with-it.netlify.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119876130807197696/img/0ltEr2WrQneox6dJ.jpg",
+    "x": [
+      {
+        "url": "https://x.com/emollick/status/2119876449494540554",
+        "views": 34130,
+        "checkedAt": "2026-11-19T07:11:49+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-09T19:35:05.000Z",
+        "author": "Ethan Mollick (@emollick) on X"
+      }
+    ]
+  },
+  "laser-dot": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:29Z",
+      "httpStatus": 200,
+      "finalUrl": "https://cocolitocollective.itch.io/laser-dot",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTEwMDc3MS8zMDY3OTA0MS5wbmc=/original/YyviqE.png"
+  },
+  "meowcha": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:29Z",
+      "httpStatus": 200,
+      "finalUrl": "https://funkyape.itch.io/meowcha",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTEyMDE2MC8zMDY1OTcwNC5wbmc=/794x1000/G%2BVHo5.png"
+  },
+  "mule": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:29Z",
+      "httpStatus": 200,
+      "finalUrl": "https://sykoramade.itch.io/mule",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIwODk4Ny8zMTI4NjEzNi5naWY=/original/S%2Bkpti.gif"
+  },
+  "patchwork60": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:30Z",
+      "httpStatus": 200,
+      "finalUrl": "https://strangeboltz.itch.io/patchwork60",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI4MzA1Mi8zMTcwMzA3NC5wbmc=/original/RNZycu.png"
+  },
+  "silly-kitty": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:30Z",
+      "httpStatus": 200,
+      "finalUrl": "https://linostar.itch.io/sillykitty",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA5Mzg5NS8zMDU0MzE3Ni5wbmc=/original/3IgUw1.png"
+  },
+  "snip": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:30Z",
+      "httpStatus": 200,
+      "finalUrl": "https://quantumwhisker.itch.io/snip",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIxMzA5My8zMTI0MDQ0My5wbmc=/original/YdmcLE.png"
+  },
+  "tally-light": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:30Z",
+      "httpStatus": 200,
+      "finalUrl": "https://markeljan.itch.io/tally-light",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM3Njg1My8zMjM1NTkwMy5wbmc=/794x1000/hVXNbT.png"
+  },
+  "tumblebuds-the-journey-home": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://johnnyffm.github.io/tumblebuds/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:30Z",
+      "httpStatus": 206,
+      "finalUrl": "https://johnnyffm.github.io/tumblebuds/"
+    }
+  },
+  "argon-dominates": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:30Z",
+      "httpStatus": 200,
+      "finalUrl": "https://dexnazar.itch.io/argon-dominates",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI1Nzk3Mi8zMTUzMzQ4My5wbmc=/794x1000/FyZzAY.png"
+  },
+  "battle-drones": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://simonw.github.io/battledrones/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 206,
+      "finalUrl": "https://simonw.github.io/battledrones/"
+    },
+    "image": "https://static.simonwillison.net/static/2026/battledrones-v8.jpg"
+  },
+  "cerebronline": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 200,
+      "finalUrl": "https://pogorskii.itch.io/cerebronline",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM0ODQxMC8zMjM2MTQ5Ni5wbmc=/794x1000/bwDRss.png"
+  },
+  "chokepoint": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 200,
+      "finalUrl": "https://umutcanekinci.itch.io/chokepoint",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNDc0NDIzMi8zMjA3OTM5NC5wbmc=/794x1000/GFHTzD.png"
+  },
+  "clanbound": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 200,
+      "finalUrl": "https://assetsmithy.itch.io/clanbound",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTAyMzM2Ny8zMDExNzA2Mi5qcGc=/794x1000/btPFvt.jpg"
+  },
+  "conga-crawl": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 200,
+      "finalUrl": "https://sunsetmesagames.itch.io/conga-crawl",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM2NjA4Ny8zMjI4NjAzMy5wbmc=/347x500/ZqloQ%2F.png"
+  },
+  "dark-pattern": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://darkpattern.diamonddoge.org/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 200,
+      "finalUrl": "https://darkpattern.diamonddoge.org/"
+    }
+  },
+  "dread-district": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://dread-and-district.netlify.app",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:31Z",
+      "httpStatus": 206,
+      "finalUrl": "https://dread-and-district.netlify.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120248122982985728/img/ksDfFUCb4EWBtTjL.jpg",
+    "x": [
+      {
+        "url": "https://x.com/emollick/status/2120248525254742318",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "lucky-castle": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:32Z",
+      "httpStatus": 200,
+      "finalUrl": "https://gyeongseok.itch.io/lucky-castle",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM0NDMwNy8zMjE1MTQyMy5wbmc=/794x1000/E8TFue.png"
+  },
+  "minimal-rogue": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:32Z",
+      "httpStatus": 200,
+      "finalUrl": "https://hirotaka-adachi.itch.io/minimal-rogue",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNDYxODM5OS8yNzUxNzc0MS5wbmc=/794x1000/%2BxVVO7.png"
+  },
+  "othello-variants": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:32Z",
+      "httpStatus": 200,
+      "finalUrl": "https://kawalight-studio.itch.io/othello-variants",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIwNTcxOS8zMTE4ODI5Mi5wbmc=/original/SH2ucv.png"
+  },
+  "placebound": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://placebound.dariuszparys.com/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:33Z",
+      "httpStatus": 200,
+      "finalUrl": "https://placebound.dariuszparys.com/"
+    },
+    "image": "https://www.dariuszparys.com/_astro/board.CGN6NWaU_Z1eKmIN.webp"
+  },
+  "two-castles": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:33Z",
+      "httpStatus": 200,
+      "finalUrl": "https://emberbit.itch.io/two-castles",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA3MzE5OC8zMDM3NTQ5OS5naWY=/original/rKa3AZ.gif"
+  },
+  "valsera": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://valsera-game.vercel.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:33Z",
+      "httpStatus": 206,
+      "finalUrl": "https://valsera-game.vercel.app/"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2121679674543890432/img/eGoaKNtrmFtjFM5k.jpg",
+    "x": [
+      {
+        "url": "https://x.com/kevin_t_ngo/status/2121701020598415465",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "cinderscoop": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:33Z",
+      "httpStatus": 200,
+      "finalUrl": "https://vinish.dev/cinderscoop-firefighting-plane-browser-based-game",
+      "xFrameOptions": "SAMEORIGIN"
+    }
+  },
+  "cozy-cat-cooking-cafe": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:33Z",
+      "httpStatus": 200,
+      "finalUrl": "https://simplesystemsstudios.itch.io/cozy-cat-cooking-cafe",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTEwOTU0NC8zMDU4OTkzNS5wbmc=/original/Th6RKr.png"
+  },
+  "dustfall": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://dustfalls.netlify.app/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:34Z",
+      "httpStatus": 200,
+      "finalUrl": "https://dustfalls.netlify.app/"
+    },
+    "image": "https://raw.githubusercontent.com/webKing021/dustfall/main/docs/logo.png"
+  },
+  "falaj": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:34Z",
+      "httpStatus": 200,
+      "finalUrl": "https://jamesofoaye.itch.io/falaj",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTM2NjA3Ny8zMjI4NDgwNS5qcGc=/794x1000/FT2tY5.jpg"
+  },
+  "first-crush": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:34Z",
+      "httpStatus": 200,
+      "finalUrl": "https://frontier.every.to/experiments/first-crush",
+      "xFrameOptions": "SAMEORIGIN"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2119868302541586432/img/-eFP0RFaey5jxsSI.jpg",
+    "x": [
+      {
+        "url": "https://x.com/kieranklaassen/status/2119871673294037280",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "floodplain": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:34Z",
+      "httpStatus": 200,
+      "finalUrl": "https://arcadesquirrel.itch.io/floodplain",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTA5MTY5OC8zMDQ4MTAwMi5wbmc=/794x1000/EwPUHH.png"
+  },
+  "heir-guitar": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:35Z",
+      "httpStatus": 200,
+      "finalUrl": "https://zucchinibasketgames.itch.io/heir-guitar",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI0NDk5Ny8zMTQ0OTk0My5wbmc=/original/NRaAVJ.png"
+  },
+  "keep-scrolling-keep-the-flame": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:35Z",
+      "httpStatus": 200,
+      "finalUrl": "https://dm9494.itch.io/keep-scrolling",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIwNTQ1Ni8zMTgzOTU0MS5wbmc=/794x1000/DZy4Lc.png"
+  },
+  "kiosk-days-st-martin-s-evening": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:35Z",
+      "httpStatus": 200,
+      "finalUrl": "https://kigaro-games.itch.io/kiosk-days-st-martins-evening",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI0NDkxNy8zMTQ0ODAyOS5wbmc=/original/4vhQFK.png"
+  },
+  "mudlark-pottery": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 200,
+      "finalUrl": "https://atlas-house.itch.io/mudlark-pottery",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTE5MjA2My8zMTIzNjI4NC5naWY=/original/OHVhua.gif"
+  },
+  "small-magic": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://patch.gg/play/blendi/small-magic",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 200,
+      "finalUrl": "https://patch.gg/play/blendi/small-magic"
+    },
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2121593955557179392/img/kiEaWsmIqUo_kjre.jpg",
+    "x": [
+      {
+        "url": "https://x.com/BlendiByl/status/2121594536153718972",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  },
+  "the-list-s-champion": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 200,
+      "finalUrl": "https://felmeric.itch.io/the-lists-champion",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNDkwNjI4Mi8yOTMzMTcwOS5wbmc=/794x1000/PJR4CT.png"
+  },
+  "torchdeep": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 200,
+      "finalUrl": "https://kqmigqkqri.itch.io/torchdeep",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTIyMjc1MS8zMTMwMzkwMC5wbmc=/794x1000/2%2B2MvC.png"
+  },
+  "tugwake": {
+    "embed": {
+      "status": "blocked",
+      "url": null,
+      "reason": "The creator’s destination disallows cross-origin framing.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 200,
+      "finalUrl": "https://vinish.dev/tugwake-tugboat-browser-based-game",
+      "xFrameOptions": "SAMEORIGIN"
+    }
+  },
+  "voidstruck": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://voidstruck.com/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 206,
+      "finalUrl": "https://voidstruck.com/"
+    },
+    "image": "https://voidstruck.com/screenshots/living-world.jpg"
+  },
+  "wardlight-frontier": {
+    "embed": {
+      "status": "unknown",
+      "url": null,
+      "reason": "The destination has a frame allowlist or an unrecognized policy; this site is not verified on it.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 200,
+      "finalUrl": "https://jpetree331.itch.io/wardlight-frontier",
+      "frameAncestors": [
+        "'self' https://itch.io"
+      ]
+    },
+    "image": "https://img.itch.zone/aW1hZ2UvNTI1MzIwOS8zMTUwMTUwMi5qcGc=/794x1000/eS4TiN.jpg"
+  },
+  "skyfire": {
+    "embed": {
+      "status": "not_applicable",
+      "url": null,
+      "reason": "Requires a download or local setup.",
+      "checkedAt": null
+    },
+    "image": "https://d2ol7oe51mr4n9.cloudfront.net/user_3JdxfCfYFP0Cn76oVrc3Mc5eXcF/dacc4560-6454-4974-a158-a608977bedcb.jpg",
+    "x": [
+      {
+        "url": "https://x.com/higgsfield_ai/status/2120001120013521188",
+        "views": 14261,
+        "checkedAt": "2026-11-19T07:11:49+00:00",
+        "metric": "post_views",
+        "publishedAt": "2026-11-10T03:50:29.000Z",
+        "author": "Higgsfield AI 🧩 (@higgsfield_ai) on X"
+      }
+    ]
+  },
+  "fableflight": {
+    "embed": {
+      "status": "not_applicable",
+      "url": null,
+      "reason": "Requires a download or local setup.",
+      "checkedAt": null
+    },
+    "image": "https://external-preview.redd.it/Y3l3MW5jOHBibjFpMR6HN24z7o3nvXO4efCwRNYgMRHqOhCHJhH44lKJuiXc.png?auto=webp&s=6c43ed4c587e5d103c9eed3ea6285ed634410a7e"
+  },
+  "abyssal-garden": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://noniv.github.io/abyssal-garden/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 206,
+      "finalUrl": "https://noniv.github.io/abyssal-garden/"
+    }
+  },
+  "papertrails": {
+    "embed": {
+      "status": "allowed",
+      "url": "https://xikhar.github.io/papertrails/",
+      "reason": "Public HTML and no blocking frame header; actual in-frame play has not been tested.",
+      "checkedAt": "2026-11-19T07:12:36Z",
+      "httpStatus": 206,
+      "finalUrl": "https://xikhar.github.io/papertrails/"
+    },
+    "x": [
+      {
+        "url": "https://x.com/xikhar/status/2122682962647122403",
+        "views": null,
+        "checkedAt": null
+      }
+    ]
+  }
+}
